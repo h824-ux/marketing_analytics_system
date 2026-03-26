@@ -1,0 +1,39 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Analytics
+{% endblock %}
+
+{% block content %}
+    <div class="center-content">
+        <h1>Analytics Visualisation</h1>
+        <p>Go back to <a href="/anal/anal">Analytics Selection</a></p>
+        <button onclick="history.back()" class="choose">Return</button>
+
+        <h2>Product Price</h2>
+        <p>Click image to download</p>
+        <a href="{% static 'price-2.png' %}" download="visual">
+            <img src="{% static 'price-2.png' %}" alt="Category to Price">
+        </a>
+
+        <h1>Follow-up Analytics</h1>
+
+        <a href="/anal/price-2">
+            <button class="choose" alt="donut">Deeper visualisation of all total purchase price over 1000</button>
+        </a>
+        <a href="/anal/1-2">
+            <button class="choose" alt="donut">Price analytics by category</button>
+        </a>
+        <a href="/anal/2-4">
+            <button class="choose" alt="donut">Price analytics by age group</button>
+        </a>
+        <a href="/anal/2-3-2023">
+            <button class="choose" alt="bar">Price analytics by month</button>
+        </a>
+        <a href="/anal/2-5">
+            <button class="choose" alt="scattered/donut">Price analytics by gender</button>
+        </a>
+        
+    </div>
+{% endblock %}

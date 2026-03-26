@@ -1,0 +1,78 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Home
+{% endblock %}
+
+{% block content %}
+    <div class="center-content">
+        {% if user.is_authenticated %}
+            <h1>Hello, {{ user.first_name }}!</h1>
+            <p>Welcome to MarketingDA!</p>
+
+            <a href="/anal/demo">
+                <button class="choose">Demonstration</button>
+            </a>
+
+            <a href="{% static 'csv/sample_template.csv' %}" download="sample_template.csv">
+                <button class="download">Download Sample Template</button>
+            </a>
+
+            <form action="{% url 'anal:upload_dataset' %}" method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                <br>
+                <h1 class="center-content">Upload Dataset</h1> 
+                <p>Upload the marketing dataset of your company to start analysing. Your dataset must be in .csv format.</p>
+                <span class="center-content">
+                    <input type="file" required name="files" id="files" class="choose"> 
+                    <button type="submit" class="choose">Submit</button> 
+                </span>
+            </form>
+
+            <ul class="messages">
+                {% for message in messages %}
+                    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+                {% endfor %}
+            </ul>
+
+            <h2>Your Datasets</h2>
+            {% if datasets %}
+                <div class="table-container">
+                    <table class="dataset-table">
+                        <thead>
+                            <tr>
+                                <th>Dataset Name</th>
+                                <th>Upload Date</th>
+                                <th>Upload Time</th>
+                                <th>Uploaded By</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for dataset in datasets %}
+                                <tr>
+                                    <td>{{ dataset.dataset_name }}</td>
+                                    <td>{{ dataset.upload_date }}</td>
+                                    <td>{{ dataset.upload_time }}</td>
+                                    <td>{{ dataset.user.username }}</td>
+                                    <td>
+                                        <a href="{% url 'anal:anal' dataset.id %}" class="analyze-btn">Analyze</a>
+                                    </td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            {% else %}
+                <p>No datasets found for your account.</p>
+            {% endif %}
+        
+        {% else %}
+            <h1>Hello! Welcome to MarketingDA!</h1>
+            <a href="/users/login"><p class="login">LOGIN</p></a>
+            <a href="/users/register"><p class="login">CREATE A NEW ACCOUNT</p></a>
+
+        {% endif %}
+    </div>
+{% endblock %}

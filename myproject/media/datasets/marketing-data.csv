@@ -1,0 +1,615 @@
+Client_ID,Gender,Married,Dependents,Education,Campaign,Self_Employed,ApplicantIncome,CoapplicantIncome,Sales_YTD,Sales,EDM_Subscribe,Country,Member,Product,Buy_Via,Perference_Shopping,Survey
+CD001536,Male,Yes,3,Graduate,Online,No,59996,0,25019.13478,27000,0,Taiwan,N,Food,Cash,Face To Face,7
+CD001585,Male,Yes,3,Graduate,Offline,No,27052,0,26206.72561,28000,1,Malaysia,N,Food,Cash,Face To Face,5
+CD001610,Male,Yes,3,Graduate,TV,No,22064,23000,49678.47711,47000,0,Malaysia,N,Food,Cash,Face To Face,5
+CD001907,Male,Yes,0,Graduate,Facebook,No,58332,0,40227.52853,49777,1,Singapore,N,Food,Cash,Face To Face,6
+CD001996,Male,No,0,Graduate,Instagram,No,80932,0,52657.94453,72946.09301,1,Singapore,N,Food,Cash,Face To Face,6
+CD002101,Male,Yes,0,Graduate,Tiktok,Yes,23348,0,36858.53445,76987.95737,1,Malaysia,N,Food,Cash,Face To Face,1
+CD002191,Male,Yes,0,Graduate,Xiaohungshu,No,78920,52660,35614.12331,80931.19104,1,Malaysia,N,Food,Cash,Face To Face,9
+CD002386,Male,No,0,Graduate,WeChat,Yes,51504,0,58523.28212,63871.07116,1,China,N,Food,Cash,Face To Face,4
+CD002547,Male,Yes,0,Graduate,Weibo,No,73332,0,46418.21403,82465.71091,1,Hong Kong,N,Food,Cash,Face To Face,3
+CD002624,Male,Yes,0,Graduate,Roadshow,No,83332,66670,44183.42568,57549.96312,0,Singapore,N,Food,Cash,Face To Face,5
+CD002693,Male,Yes,2,Graduate,Email,Yes,31792,71660,48746.30531,33087.54018,1,Hong Kong,N,Food,Cash,Face To Face,6
+CD002699,Male,Yes,2,Graduate,Mail,Yes,70000,0,24852.62254,86435.0306,1,Malaysia,N,Food,Cash,Face To Face,5
+CD002813,Female,Yes,1,Graduate,Online,Yes,77936,0,58210.09686,78839.49446,1,Malaysia,N,Food,Cash,Face To Face,9
+CD002959,Female,Yes,1,Graduate,Offline,No,48000,0,38364.78393,35576.82565,1,Philipines,N,Food,Cash,Face To Face,3
+CD001469,Male,No,0,Graduate,TV,Yes,80664,0,48545.18573,32829.11036,0,Philipines,N,Food,Cash,Face To Face,5
+CD002201,Male,Yes,2,Graduate,Facebook,Yes,37292,78730,54510.04185,34176.75466,1,China,N,Toys,Apple Pay,Online,9
+CD002067,Male,Yes,1,Graduate,Instagram,Yes,34664,49830,44122.22453,46955.63291,0,Hong Kong,N,Toys,Apple Pay,Online,2
+CD001448,Male,Yes,3,Graduate,Tiktok,No,95212,0,28500.97347,55758.36084,1,China,N,Toys,Apple Pay,Face To Face,6
+CD002317,Male,Yes,3,Graduate,Xiaohungshu,No,34000,0,41725.82881,38047.94288,0,Hong Kong,Y,Toys,Apple Pay,Online,5
+CD002949,Female,No,3,Graduate,WeChat,Yes,29664,46670,25019.13478,67298.5198,0,China,N,Toys,Apple Pay,Online,10
+CD001020,Male,Yes,1,Graduate,Weibo,No,51364,19680,26206.72561,76154.0875,1,Malaysia,Y,Toys,Apple Pay,Online,9
+CD001865,Male,Yes,1,Graduate,Roadshow,No,24332,42500,49678.47711,54647.36715,0,Singapore,N,Toys,Apple Pay,Online,6
+CD002734,Male,Yes,0,Graduate,Email,No,24532,39060,40227.52853,71634.61297,1,Singapore,N,Toys,Apple Pay,Online,9
+CD001100,Male,No,3,Graduate,Mail,No,50000,30000,52657.94453,47935.13784,1,Philipines,N,Toys,Apple Pay,Online,8
+CD001046,Male,Yes,1,Graduate,Online,No,23820,56250,36858.53445,30052.58557,1,Malaysia,N,Toys,Apple Pay,Online,1
+CD001233,Male,Yes,1,Graduate,Offline,No,43000,0,35614.12331,48753.51466,1,Hong Kong,N,Toys,Apple Pay,Online,1
+CD002652,Male,No,0,Graduate,TV,No,23260,36660,58523.28212,36630.69426,1,Philipines,N,Toys,Apple Pay,Online,1
+CD002140,Male,No,0,Graduate,Facebook,No,35000,41670,46418.21403,87615.43881,1,Malaysia,N,Toys,Apple Pay,Online,1
+CD001859,Male,Yes,0,Graduate,Instagram,No,58732,21000,44183.42568,39306.58742,1,China,N,Toys,Apple Pay,Online,1
+CD002065,Male,Yes,3,Graduate,Tiktok,No,60000,0,48746.30531,38958.90517,1,China,N,Toys,Apple Pay,Online,4
+CD002229,Male,No,0,Graduate,Xiaohungshu,No,23764,42320,24852.62254,47760.47915,1,Malaysia,N,Toys,Apple Pay,Online,7
+CD002933,Male,No,3,Graduate,WeChat,Yes,37428,0,58210.09686,79732.21626,1,Philipines,N,Toys,Apple Pay,Online,7
+CD001488,Male,Yes,3,Graduate,Weibo,No,16000,77500,26685.39758,46128.77129,1,Malaysia,N,Toys,Apple Pay,Face To Face,2
+CD001186,Female,Yes,1,Graduate,Roadshow,Yes,46000,0,43202.17191,40087.41794,0,China,N,Fruniture,Apple Pay,Online,7
+CD001776,Female,No,0,Graduate,Email,No,33332,0,36556.3306,57471.39984,1,Taiwan,N,Fruniture,Apple Pay,Online,6
+CD001843,Male,Yes,1,Not Graduate,Mail,No,10644,71010,40527.71339,75403.50587,1,Hong Kong,N,Fruniture,Apple Pay,Online,3
+CD001562,Male,Yes,0,Graduate,Online,No,31732,0,42048.49693,79625.82451,1,Taiwan,N,Fruniture,Apple Pay,Online,4
+CD002262,Male,Yes,3,Graduate,Offline,No,38016,0,57243.65411,64225.71874,1,Hong Kong,N,Fruniture,Apple Pay,Online,3
+CD002855,Male,Yes,2,Graduate,TV,No,66664,0,25449.50918,73486.90506,1,Singapore,N,Fruniture,Apple Pay,Online,5
+CD001011,Male,Yes,2,Graduate,Facebook,Yes,21668,41960,37715.3995,67539.95868,1,Taiwan,N,Fruniture,Apple Pay,Online,10
+CD001273,Male,Yes,0,Graduate,Instagram,No,24000,22500,57385.48496,55662.34041,0,Taiwan,N,Supermarket,Alipay,Online,7
+CD001637,Male,Yes,1,Graduate,Tiktok,No,35384,0,54661.82697,41384.71901,1,Malaysia,N,Supermarket,Alipay,Online,8
+CD002795,Male,Yes,3,Graduate,Xiaohungshu,Yes,40556,0,28566.8573,88749.6519,1,Taiwan,N,Supermarket,Alipay,Online,9
+CD002938,Male,Yes,0,Graduate,WeChat,Yes,64480,0,21540.15001,87184.31117,1,China,N,Supermarket,Alipay,Online,3
+CD001422,Female,No,0,Graduate,Weibo,No,41632,0,40110.85247,60704.08997,1,Taiwan,N,Supermarket,Alipay,Face To Face,10
+CD002137,Male,Yes,0,Graduate,Roadshow,No,25332,45830,27391.37898,54203.27406,0,China,N,Supermarket,Alipay,Online,7
+CD001225,Male,Yes,0,Graduate,Email,No,22904,45950,43530.79893,71031.9946,1,Taiwan,N,Supermarket,Alipay,Online,1
+CD002832,Male,Yes,2,Graduate,Mail,No,35196,0,21132.64172,75026.58594,0,China,N,Supermarket,Alipay,Online,3
+CD001552,Male,Yes,0,Graduate,Online,No,18332,56250,32650.25447,53597.16049,1,Malaysia,N,Supermarket,Alipay,Face To Face,5
+CD001786,Male,Yes,0,Graduate,Offline,Yes,22984,0,43736.4194,82359.12949,0,Singapore,N,Supermarket,Alipay,Online,1
+CD001846,Female,No,3,Graduate,TV,No,12332,0,42075.77142,44201.74465,1,Malaysia,N,Supermarket,Alipay,Online,10
+CD002983,Male,Yes,1,Graduate,Facebook,No,32288,12400,23956.11656,64451.10754,1,Taiwan,N,Supermarket,Alipay,Online,10
+CD002640,Male,Yes,1,Graduate,Instagram,No,24260,20040,50305.23545,58714.13894,1,Hong Kong,N,Supermarket,Alipay,Online,6
+CD002543,Male,Yes,2,Graduate,Tiktok,No,33332,0,40095.37877,40336.49036,1,Philipines,N,Supermarket,Alipay,Online,1
+CD001531,Male,No,0,Graduate,Xiaohungshu,No,36664,0,29193.46874,88935.3713,1,Singapore,N,Supermarket,Alipay,Face To Face,3
+CD002622,Male,Yes,2,Graduate,WeChat,No,14040,44160,21608.3422,62631.63606,1,Hong Kong,N,Supermarket,Alipay,Online,9
+CD001492,Male,No,0,Graduate,Weibo,No,59996,0,26886.84729,42523.56273,0,China,N,Supermarket,Alipay,Face To Face,10
+CD001713,Male,Yes,1,Graduate,Roadshow,Yes,31148,0,31595.02447,50608.08632,1,Singapore,N,Supermarket,Alipay,Online,6
+CD002342,Male,Yes,2,Graduate,Email,Yes,6400,20000,22691.4031,39780.29776,1,Malaysia,N,Supermarket,Alipay,Online,6
+CD002170,Male,Yes,2,Graduate,Mail,No,20000,36670,46377.19353,61545.94352,1,Hong Kong,N,Supermarket,Alipay,Online,2
+CD002541,Male,Yes,0,Graduate,Online,No,43332,0,27678.65507,50018.56164,1,Malaysia,N,Supermarket,Alipay,Online,4
+CD002529,Male,Yes,2,Graduate,Offline,No,26800,17500,30583.28997,59717.49958,1,Singapore,N,Supermarket,Alipay,Online,3
+CD002139,Male,Yes,0,Graduate,TV,No,36332,0,54292.80546,56379.95617,1,Singapore,N,Supermarket,Alipay,Online,8
+CD001369,Male,Yes,2,Graduate,Facebook,No,45668,11260,20530.23416,88744.28001,1,Philipines,N,Supermarket,Alipay,Face To Face,4
+CD001519,Female,No,0,Graduate,Instagram,No,40000,16660,41375.67699,37939.13166,1,Philipines,N,Supermarket,Alipay,Face To Face,1
+CD002582,Female,No,0,Not Graduate,Tiktok,Yes,69052,0,40761.47166,72324.25329,1,Hong Kong,N,Supermarket,Alipay,Online,3
+CD002328,Male,Yes,0,Not Graduate,Xiaohungshu,No,24384,0,43198.54632,62244.76757,0,Philipines,N,Supermarket,Alipay,Online,5
+CD001379,Male,Yes,2,Graduate,WeChat,No,15200,36000,37043.74685,44316.47765,0,China,N,Supermarket,Alipay,Face To Face,5
+CD002717,Male,Yes,0,Graduate,Weibo,No,4100,55000,43081.59538,88275.13394,0,Singapore,N,Supermarket,Alipay,Online,5
+CD001708,Female,No,0,Graduate,Roadshow,No,40000,0,26307.56028,35622.59232,1,China,N,Supermarket,Alipay,Online,5
+CD002820,Male,Yes,0,Graduate,Email,No,23692,20540,21214.1817,80821.31683,1,Philipines,N,Supermarket,Alipay,Online,5
+CD001289,Male,No,0,Graduate,Mail,No,34264,0,52100.46905,41396.06581,1,Philipines,N,Supermarket,Alipay,Online,5
+CD001758,Male,Yes,2,Graduate,Online,No,25000,16950,44041.45008,64091.2201,1,Taiwan,N,Supermarket,Alipay,Online,5
+CD002602,Male,No,0,Graduate,Offline,No,25132,44160,40834.61808,58299.49865,0,Hong Kong,N,Supermarket,Alipay,Online,5
+CD002615,Male,Yes,2,Graduate,TV,No,19460,56240,26319.89824,59603.99472,1,Philipines,N,Supermarket,Alipay,Online,5
+CD001903,Male,Yes,0,Graduate,Facebook,No,15972,32740,31237.53166,82884.73594,1,China,N,Supermarket,Alipay,Online,5
+CD002892,Male,Yes,2,Graduate,Instagram,No,26160,0,58454.92166,79601.47042,1,Philipines,N,Supermarket,Alipay,Online,5
+CD002931,Male,Yes,2,Graduate,Tiktok,Yes,24000,0,34450.37631,78017.05449,1,Malaysia,N,Supermarket,Alipay,Online,5
+CD001091,Male,Yes,1,Graduate,Xiaohungshu,Yes,16664,33690,25059.29307,87670.55631,0,China,N,Supermarket,Alipay,Online,5
+CD001835,Male,Yes,0,Not Graduate,WeChat,No,16672,38900,28902.89113,37998.37378,0,Philipines,N,Supermarket,Alipay,Online,5
+CD001028,Male,Yes,2,Graduate,Weibo,No,12292,81060,45264.81461,48878.92729,1,China,N,Supermarket,Alipay,Online,5
+CD001580,Male,Yes,2,Graduate,Roadshow,No,32000,0,21719.06071,55196.03522,1,Hong Kong,N,Supermarket,Alipay,Online,5
+CD001761,Male,No,0,Graduate,Email,Yes,25600,0,41256.04782,85277.50128,1,Hong Kong,N,Supermarket,Alipay,Online,5
+CD001953,Male,Yes,1,Graduate,Mail,No,27500,0,49776.35996,66789.81556,1,Singapore,N,Supermarket,Alipay,Online,5
+CD002160,Male,Yes,3,Graduate,Online,No,20668,31670,59555.99227,45244.62341,1,Taiwan,N,Supermarket,Alipay,Online,5
+CD002729,Male,No,1,Graduate,Offline,No,45000,0,35118.07601,82326.55975,0,Taiwan,N,Supermarket,Alipay,Online,5
+CD001439,Male,Yes,0,Not Graduate,TV,No,17200,20140,44263.85609,70454.17895,1,Philipines,N,Supermarket,WeChat Pay,Face To Face,5
+CD002301,Female,No,0,Graduate,Facebook,Yes,29764,0,42752.7103,33286.84895,1,Singapore,N,Supermarket,WeChat Pay,Online,5
+CD001844,Male,No,0,Graduate,Instagram,Yes,65000,0,29730.90015,40557.00113,0,Singapore,N,Supermarket,WeChat Pay,Online,5
+CD002948,Male,Yes,2,Graduate,Tiktok,No,23120,0,29212.71015,64477.3614,1,Taiwan,N,Supermarket,WeChat Pay,Online,5
+CD001066,Male,Yes,0,Graduate,Xiaohungshu,Yes,38240,0,42168.00381,61993.55845,1,Hong Kong,N,Supermarket,WeChat Pay,Online,5
+CD002444,Male,No,1,Not Graduate,WeChat,Yes,11076,15420,34746.2005,60538.96399,0,Taiwan,N,Supermarket,WeChat Pay,Online,5
+CD001318,Male,Yes,2,Graduate,Weibo,No,25000,56540,38156.53903,44549.13021,1,Hong Kong,N,Supermarket,WeChat Pay,Face To Face,5
+CD001647,Male,Yes,0,Graduate,Roadshow,No,37312,0,33046.92855,49092.44459,1,Malaysia,N,Supermarket,WeChat Pay,Online,1
+CD002626,Male,Yes,0,Graduate,Email,Yes,9916,30130,23640.89443,61303.60511,1,Philipines,N,Supermarket,WeChat Pay,Online,3
+CD001253,Male,Yes,3,Graduate,Mail,Yes,21064,17740,44001.84,33329.14903,1,Singapore,Y,Books,Visa,Online,9
+CD001508,Male,Yes,2,Graduate,Online,No,47028,0,26818.18474,30015.57076,1,China,Y,Books,Visa,Face To Face,3
+CD001543,Male,Yes,1,Graduate,Offline,No,38152,0,43607.70876,46267.15617,1,Hong Kong,Y,Books,Visa,Face To Face,10
+CD001594,Male,Yes,0,Graduate,TV,No,22832,56250,44926.34884,79558.79665,1,Taiwan,Y,Books,Visa,Online,9
+CD001666,Male,No,0,Graduate,Facebook,No,33332,37500,34788.07739,60760.11758,1,Philipines,Y,Books,Visa,Online,7
+CD001935,Male,No,0,Graduate,Instagram,No,38032,0,41118.5765,59754.48219,1,Hong Kong,N,Stationary,Apple Pay,Online,10
+CD002138,Male,Yes,0,Graduate,Tiktok,No,10500,62500,43015.83868,40227.45048,1,Hong Kong,N,Stationary,Apple Pay,Online,3
+CD002403,Male,No,0,Graduate,Xiaohungshu,Yes,41664,0,49363.74883,87752.16585,0,China,N,Stationary,Apple Pay,Online,2
+CD002408,Male,No,0,Graduate,WeChat,No,14640,50640,58022.72758,88186.77641,1,Singapore,N,Stationary,Apple Pay,Online,6
+CD002862,Male,Yes,2,Not Graduate,Weibo,No,24500,16250,44176.71101,51945.17652,1,Malaysia,N,Stationary,Apple Pay,Online,1
+CD002941,Male,Yes,2,Not Graduate,Roadshow,Yes,25532,10000,33955.29314,65336.44924,1,Singapore,N,Stationary,Apple Pay,Online,10
+CD002984,Male,Yes,2,Graduate,Email,No,30332,0,37044.97312,56414.21632,1,China,N,Stationary,Apple Pay,Online,2
+CD002562,Male,Yes,1,Not Graduate,Mail,No,21332,11310,49927.64347,78737.93715,0,Taiwan,Y,Books,Visa,Online,2
+CD002842,Male,Yes,1,Graduate,Online,No,13668,17500,22780.45992,87087.43071,1,China,Y,Books,Visa,Online,7
+CD001401,Male,Yes,1,Graduate,Offline,No,58332,0,25008.49108,48418.69705,1,Hong Kong,Y,Books,Visa,Face To Face,6
+CD001497,Male,Yes,2,Graduate,TV,No,20168,20830,39925.08865,75159.18338,1,Singapore,N,Books,Visa,Face To Face,3
+CD001998,Male,Yes,2,Not Graduate,Facebook,No,30668,0,44930.44885,53073.99696,0,Malaysia,Y,Books,Visa,Online,2
+CD002255,Male,No,3,Graduate,Instagram,No,36668,0,27435.15676,57053.6881,1,China,Y,Books,Visa,Online,6
+CD002683,Male,No,0,Graduate,Tiktok,No,18732,19150,20863.45759,52156.3353,1,Singapore,N,Books,Visa,Online,3
+CD001114,Male,No,0,Graduate,Xiaohungshu,No,16664,72100,49253.50213,34859.79053,1,Singapore,Y,Books,Visa,Online,8
+CD002082,Male,Yes,0,Graduate,WeChat,Yes,23272,21600,50012.67342,34418.9309,1,Malaysia,Y,Books,Visa,Online,1
+CD001465,Male,Yes,0,Graduate,Weibo,No,24320,25690,46637.40817,52787.1878,0,Malaysia,N,Books,Visa,Face To Face,1
+CD001574,Male,Yes,0,Graduate,Roadshow,No,14828,31660,44206.21603,61032.35901,1,Malaysia,Y,Books,Visa,Online,10
+CD002103,Male,Yes,1,Graduate,Email,Yes,39332,18330,58774.08527,58797.84838,1,Philipines,Y,Books,Visa,Online,8
+CD002804,Female,Yes,0,Graduate,Mail,No,16720,23060,55118.81144,76366.58203,1,Hong Kong,Y,Books,Visa,Online,10
+CD002788,Male,Yes,0,Not Graduate,Online,No,9816,23330,34140.20132,42799.64084,0,Hong Kong,N,Books,Visa,Online,5
+CD001198,Male,Yes,1,Graduate,Offline,No,32320,22500,20966.10744,54686.14187,1,Philipines,Y,Books,Visa,Online,6
+CD001263,Male,Yes,3,Graduate,TV,No,12668,40000,25244.2989,81762.5788,0,China,N,Books,Visa,Online,3
+CD001426,Male,Yes,0,Graduate,Facebook,No,22668,26670,40233.05097,44827.3197,1,China,Y,Books,Visa,Face To Face,2
+CD001633,Male,Yes,1,Graduate,Instagram,No,25600,72500,35488.60473,64843.9497,0,China,N,Books,Visa,Online,3
+CD002409,Male,Yes,0,Graduate,Tiktok,No,31604,18330,37347.74949,78733.84268,1,Malaysia,Y,Books,Visa,Online,10
+CD002945,Male,Yes,0,Graduate,Xiaohungshu,Yes,39852,0,48804.2251,88113.43452,1,Philipines,Y,Books,Visa,Online,5
+CD002335,Female,Yes,0,Not Graduate,WeChat,No,8596,32370,28437.77588,65718.22491,0,China,N,Books,Visa,Online,2
+CD001256,Male,No,0,Graduate,Weibo,No,15000,47500,46875.55914,64762.94339,1,Philipines,N,Books,Visa,Online,4
+CD002112,Male,Yes,2,Graduate,Roadshow,Yes,10000,46000,39438.61619,78514.24968,1,Hong Kong,Y,Books,Visa,Online,2
+CD001310,Male,Yes,0,Graduate,Email,No,22780,41670,26642.49655,34281.85988,1,Taiwan,N,Health Products,Master,Face To Face,6
+CD001421,Male,Yes,0,Graduate,Mail,No,22272,21420,41440.72186,51247.20035,1,Philipines,N,Health Products,Master,Face To Face,2
+CD001504,Male,No,0,Graduate,Online,Yes,27800,0,45444.88732,70214.97585,1,Philipines,N,Health Products,Master,Face To Face,1
+CD001749,Male,Yes,0,Graduate,Offline,No,30312,10100,39042.32762,43260.90505,1,Hong Kong,N,Health Products,Master,Online,3
+CD002190,Male,Yes,1,Graduate,TV,No,25300,0,20493.79414,62528.09328,1,Singapore,N,Health Products,Master,Online,10
+CD002424,Male,Yes,0,Graduate,Facebook,No,29332,83330,56717.87327,33460.47174,0,China,Y,Books,Visa,Online,6
+CD002115,Male,Yes,3,Not Graduate,Instagram,No,10588,15870,58027.66118,47390.69014,1,Philipines,N,Health Products,Master,Online,4
+CD002467,Male,Yes,0,Graduate,Tiktok,No,14832,25690,22901.66019,76410.94252,1,Hong Kong,N,Health Products,Master,Online,5
+CD002961,Male,Yes,1,Graduate,Xiaohungshu,No,13600,25000,22303.01629,57213.25265,1,China,N,Health Products,Master,Online,3
+CD001243,Male,Yes,0,Graduate,WeChat,No,12832,30660,44493.29698,39411.4245,1,Philipines,N,Health Products,Master,Online,6
+CD001947,Male,Yes,0,Graduate,Weibo,No,9532,33340,56268.71879,34132.45115,1,China,N,Health Products,Master,Online,4
+CD002912,Male,Yes,1,Graduate,Roadshow,No,17132,30000,39122.43353,40739.81628,1,Malaysia,N,Health Products,Master,Online,7
+CD002958,Male,No,0,Graduate,Email,No,14704,43010,41660.78118,55103.70784,1,Malaysia,N,Health Products,Master,Online,5
+CD001665,Male,Yes,1,Graduate,Mail,No,12500,25830,23063.97441,30296.21188,1,Malaysia,N,Health Products,Master,Online,2
+CD001751,Male,Yes,0,Graduate,Online,No,13000,0,48617.10965,41581.32622,1,Malaysia,N,Health Products,Master,Online,4
+CD001784,Male,Yes,1,Graduate,Offline,No,22000,12600,42839.75574,43154.33354,1,Hong Kong,N,Health Products,Master,Online,5
+CD001018,Male,Yes,2,Graduate,TV,No,16024,15260,59225.81866,56704.72279,1,Singapore,Y,Car,Visa,Face To Face,1
+CD001498,Male,No,0,Graduate,Facebook,No,21668,0,43079.27131,83374.9506,1,Malaysia,Y,Car,Visa,Face To Face,8
+CD001644,Male,Yes,0,Graduate,Instagram,Yes,9696,52960,22184.25338,42517.02141,1,Singapore,Y,Car,Visa,Online,8
+CD001267,Female,Yes,2,Graduate,Tiktok,No,5512,18810,54295.49294,37918.89092,1,Philipines,N,Car,Visa,Online,2
+CD001677,Male,No,2,Graduate,Xiaohungshu,No,19692,0,29295.51394,43577.11112,0,Malaysia,Y,Car,Visa,Online,3
+CD001207,Male,Yes,0,Not Graduate,WeChat,Yes,10436,34490,53477.5549,54476.84926,0,Singapore,N,Car,Visa,Online,2
+CD002149,Male,Yes,2,Graduate,Weibo,No,33332,31670,49630.15309,68646.71978,1,Singapore,Y,Car,Visa,Online,5
+CD002847,Male,Yes,0,Graduate,Roadshow,No,20464,14510,44597.89189,54999.13839,0,Hong Kong,N,Car,Visa,Online,6
+CD001656,Male,No,0,Graduate,Email,No,48000,0,24347.9949,39120.66909,1,Taiwan,N,Car,Visa,Online,3
+CD002515,Male,Yes,1,Graduate,Mail,Yes,13800,20790,46145.35075,32710.16315,1,Singapore,Y,Fashion,Visa,Online,10
+CD002524,Male,No,2,Graduate,Online,No,22128,46480,50508.08972,89648.61486,1,China,Y,Car,Visa,Online,7
+CD002798,Male,Yes,0,Graduate,Offline,No,15548,26690,36313.65996,43494.92328,1,China,Y,Car,Visa,Online,1
+CD002706,Male,Yes,1,Not Graduate,TV,No,21140,14300,46593.84832,79938.66749,0,Taiwan,Y,Fashion,Visa,Online,7
+CD002888,Male,No,0,Graduate,Facebook,Yes,12728,29170,53562.2685,69081.55942,1,Malaysia,Y,Fashion,Visa,Online,2
+CD001357,Male,Yes,0,Graduate,Instagram,No,15264,7540,51791.14652,49229.63344,1,Singapore,Y,Fashion,Visa,Face To Face,4
+CD001451,Male,Yes,1,Graduate,Tiktok,Yes,42052,38500,42614.05504,60997.24332,0,Singapore,N,Fashion,Visa,Face To Face,9
+CD001541,Male,Yes,1,Graduate,Xiaohungshu,No,24000,0,52907.25806,87322.56209,0,China,Y,Fashion,Visa,Face To Face,6
+CD001657,Male,Yes,0,Not Graduate,WeChat,No,24132,0,25735.44553,76788.74401,1,China,N,Fashion,Visa,Online,7
+CD001882,Male,Yes,3,Graduate,Weibo,No,17332,18110,33013.94961,49827.23416,0,Malaysia,Y,Fashion,Visa,Online,9
+CD002110,Male,Yes,1,Graduate,Roadshow,Yes,21000,6880,25115.38179,55873.47841,1,China,Y,Fashion,Visa,Online,3
+CD002129,Male,Yes,0,Graduate,Email,No,9996,24580,20340.95183,34265.27362,1,Malaysia,Y,Fashion,Visa,Online,5
+CD002319,Male,Yes,0,Graduate,Mail,Yes,25024,0,57810.95649,53386.05703,0,Malaysia,Y,Fashion,Visa,Online,8
+CD002341,Female,No,1,Graduate,Online,No,10400,0,44035.06432,81618.21877,1,Singapore,N,Fashion,Visa,Online,5
+CD002473,Male,Yes,0,Graduate,Offline,No,33336,0,56457.82148,68946.63431,1,Malaysia,N,Fashion,Visa,Online,3
+CD002478,Male,Yes,0,Graduate,TV,Yes,8332,40830,30242.23285,82915.20844,0,Philipines,Y,Fashion,Visa,Online,1
+CD002555,Male,Yes,2,Graduate,Facebook,Yes,18332,20830,46417.18168,59869.88833,1,Singapore,Y,Fashion,Visa,Online,2
+CD002024,Male,Yes,0,Graduate,Instagram,No,9892,18430,58846.9081,33363.52377,1,Singapore,N,Fashion,Visa,Online,8
+CD001014,Male,Yes,3,Graduate,Tiktok,No,12144,25040,27407.13547,85530.73195,0,Hong Kong,N,Student Visa,Visa,Online,3
+CD001570,Male,Yes,2,Graduate,Xiaohungshu,No,16668,14470,43035.77938,59258.95708,1,Hong Kong,Y,Student Visa,Visa,Online,8
+CD001760,Male,Yes,0,Graduate,WeChat,No,19032,0,44197.37853,77970.15567,1,China,Y,Student Visa,Visa,Online,9
+CD001910,Male,No,1,Not Graduate,Weibo,Yes,16212,24260,22017.97417,33085.65129,0,Philipines,N,Student Visa,Visa,Online,10
+CD002119,Male,Yes,1,Not Graduate,Roadshow,No,18216,12290,49131.32213,38587.31144,1,China,Y,Student Visa,Visa,Online,7
+CD002785,Male,Yes,1,Graduate,Email,No,13332,32500,48929.69507,51991.78244,1,China,Y,Student Visa,Visa,Online,6
+CD002740,Male,Yes,3,Graduate,Mail,No,25668,0,49081.80591,45092.51741,1,Taiwan,Y,Student Visa,Visa,Online,10
+CD002964,Male,Yes,2,Not Graduate,Online,No,15948,14110,21586.17981,63955.0021,1,Hong Kong,Y,Student Visa,Visa,Online,3
+CD002231,Female,No,0,Graduate,Offline,No,24000,0,26730.71967,80298.19843,1,Philipines,Y,Student Visa,Visa,Online,1
+CD001806,Male,No,0,Graduate,TV,No,11860,57010,41094.32124,53350.77321,1,Singapore,N,Paypal Cash Advance,Paypal,Online,10
+CD001870,Female,No,1,Graduate,Facebook,No,13924,0,59191.33291,47421.0955,1,Philipines,N,Paypal Cash Advance,Paypal,Online,10
+CD002050,Male,Yes,1,Graduate,Instagram,Yes,40000,0,40304.6352,35072.29454,1,Hong Kong,N,Paypal Cash Advance,Paypal,Online,9
+CD002197,Male,Yes,2,Graduate,Tiktok,No,20740,0,21510.37294,67280.23124,1,Taiwan,N,Paypal Cash Advance,Paypal,Online,9
+CD002767,Male,Yes,0,Graduate,Xiaohungshu,No,11072,19500,32520.51124,69916.47677,1,Taiwan,N,Paypal Cash Advance,Paypal,Online,3
+CD002950,Male,Yes,0,Not Graduate,WeChat,Yes,11576,27920,59764.44328,77911.61959,1,Hong Kong,Y,Student Visa,Visa,Online,8
+CD001404,Female,Yes,0,Graduate,Weibo,No,12668,22830,34077.62643,50760.79565,1,Singapore,N,Paypal Cash Advance,Paypal,Face To Face,9
+CD002534,Female,No,0,Not Graduate,Roadshow,No,17400,0,21038.70099,87184.68441,1,China,N,Paypal Cash Advance,Paypal,Online,6
+CD002487,Male,Yes,0,Graduate,Email,No,12060,21880,35115.96903,61950.05031,1,China,N,Paypal Cash Advance,Paypal,Online,9
+CD001391,Male,Yes,0,Not Graduate,Mail,No,14288,41140,50904.62104,56156.07167,0,Philipines,N,Paypal Payment,Paypal,Face To Face,1
+CD001529,Male,Yes,0,Graduate,Online,Yes,10308,37500,36472.78436,82748.58745,1,Hong Kong,N,Paypal Payment,Paypal,Face To Face,3
+CD002130,Male,Yes,0,Not Graduate,Offline,No,14092,32300,27973.37551,77863.42838,0,Philipines,N,Paypal Payment,Paypal,Online,8
+CD002315,Male,Yes,1,Graduate,TV,No,33200,0,28052.55721,47089.54911,0,China,N,Paypal Payment,Paypal,Online,4
+CD002422,Male,No,1,Graduate,Facebook,No,90876,0,27202.65032,36189.85814,1,Taiwan,N,Paypal Cash Advance,Paypal,Online,9
+CD001052,Male,Yes,1,Graduate,Instagram,Yes,14868,29250,48081.44775,49340.35711,0,China,N,Paypal Payment,Paypal,Online,10
+CD001349,Male,No,0,Graduate,Tiktok,No,19372,38060,41089.69624,79589.84344,1,Taiwan,N,Paypal Payment,Paypal,Face To Face,4
+CD001875,Male,No,0,Graduate,Xiaohungshu,No,16380,34470,24256.30268,84278.36319,1,Hong Kong,N,Paypal Payment,Paypal,Online,2
+CD001955,Female,No,0,Graduate,WeChat,No,20000,25410,52095.76275,88543.17893,1,Philipines,N,Paypal Payment,AE,Online,1
+CD001877,Male,Yes,2,Graduate,Weibo,No,18832,13870,25833.04064,74506.20926,1,Singapore,N,Paypal Payment,AE,Online,6
+CD001894,Male,Yes,0,Graduate,Roadshow,No,10480,22230,50415.65282,68106.671,1,Malaysia,N,Paypal Payment,AE,Online,2
+CD002377,Female,No,1,Graduate,Email,Yes,34496,0,56156.20005,31249.05664,1,Philipines,N,Paypal Payment,AE,Online,10
+CD002443,Male,Yes,2,Graduate,Mail,No,13360,17100,33335.83331,81585.00451,0,Philipines,N,Paypal Payment,AE,Online,7
+CD002527,Male,Yes,2,Graduate,Online,Yes,66100,10140,31382.79599,70875.05051,1,Hong Kong,N,Paypal Payment,AE,Online,2
+CD002659,Male,Yes,3,Graduate,Offline,No,13864,34280,57348.66796,41530.84786,1,Taiwan,N,Paypal Payment,AE,Online,8
+CD002863,Male,Yes,3,Graduate,TV,No,25624,0,53614.75337,58435.01153,1,Philipines,N,Paypal Payment,AE,Online,5
+CD002448,Male,Yes,0,Graduate,Facebook,No,15792,17330,38956.09366,61553.18966,0,Singapore,N,Personal Visa,Visa,Online,2
+CD002418,Male,No,3,Not Graduate,Instagram,No,18828,19930,23925.19652,44357.06933,1,Philipines,Y,Personal Visa,Visa,Online,3
+CD002643,Male,Yes,2,Graduate,Tiktok,No,13132,20350,57122.96531,60559.07046,1,Singapore,Y,Personal Visa,Visa,Online,3
+CD002911,Male,Yes,1,Graduate,Xiaohungshu,No,11148,19170,53828.90912,58351.84631,0,Singapore,N,Personal Visa,Visa,Online,4
+CD002772,Male,No,0,Graduate,WeChat,No,10104,17830,34574.83313,56314.36014,1,Hong Kong,Y,Personal Visa,Visa,Online,2
+CD001112,Female,Yes,0,Graduate,Weibo,No,14668,14590,55050.12048,55356.73856,1,Hong Kong,Y,Personal Visa,Visa,Online,1
+CD001144,Male,Yes,0,Graduate,Roadshow,No,23284,0,51625.40056,61590.88457,1,Taiwan,Y,Personal Visa,Visa,Online,4
+CD001151,Female,No,0,Graduate,Email,No,16000,22750,57344.41249,71379.47492,1,Hong Kong,Y,Personal Visa,Visa,Online,10
+CD001199,Male,Yes,2,Not Graduate,Mail,No,13428,28590,49798.77955,78523.43029,1,Taiwan,Y,Personal Visa,Visa,Online,6
+CD001744,Male,No,0,Graduate,Online,No,11884,27910,22249.02738,32671.77919,1,China,Y,Personal Visa,Visa,Online,2
+CD002008,Male,Yes,2,Graduate,Offline,Yes,22984,0,30473.47076,81290.27231,0,Hong Kong,Y,Personal Visa,Visa,Online,5
+CD001945,Female,No,0,Graduate,TV,No,21668,0,33786.01783,87909.50062,0,Taiwan,N,Personal Visa,Visa,Online,3
+CD002387,Male,Yes,0,Graduate,Facebook,No,9700,23400,22742.63359,37465.34747,1,Hong Kong,Y,Personal Visa,Visa,Online,7
+CD002936,Male,Yes,0,Graduate,Instagram,No,15436,33000,32515.12051,55798.1012,1,Taiwan,Y,Personal Visa,Visa,Online,8
+CD001008,Male,No,0,Graduate,Tiktok,No,24000,0,47796.10748,60620.69939,1,Philipines,Y,Personal Visa,Visa,Face To Face,2
+CD002180,Male,No,0,Graduate,Xiaohungshu,Yes,27288,0,56126.07598,45277.78289,1,Philipines,Y,Personal Visa,Visa,Online,8
+CD001778,Male,Yes,1,Graduate,WeChat,No,12620,17790,42446.18961,61240.46975,1,China,Y,Personal Visa,Visa,Online,4
+CD001800,Male,Yes,1,Not Graduate,Weibo,No,10040,19830,29745.48593,53433.24877,1,Hong Kong,N,Personal Visa,Visa,Online,5
+CD001978,Male,No,0,Graduate,Roadshow,No,16000,25000,37953.22587,34170.9991,1,Philipines,Y,Personal Visa,Visa,Online,10
+CD002494,Male,No,0,Graduate,Email,No,24000,0,25755.36058,55359.56195,1,Malaysia,Y,Personal Visa,Visa,Online,9
+CD002741,Female,Yes,1,Graduate,Mail,No,18432,28450,46760.67873,70059.02148,1,China,Y,Personal Visa,Visa,Online,10
+CD001387,Female,Yes,0,Graduate,Online,Yes,11716,23330,24966.43306,82683.32917,1,Malaysia,Y,Personal Visa,Visa,Face To Face,9
+CD001936,Male,Yes,0,Graduate,Offline,No,12300,24160,44819.17369,74759.732,1,Singapore,Y,Personal Visa,Visa,Online,2
+CD001754,Male,Yes,0,Not Graduate,TV,Yes,18940,0,34262.65418,87516.78781,1,Philipines,N,Toys,Apple Pay,Online,8
+CD001836,Female,No,2,Graduate,Facebook,No,13708,0,52329.56397,49383.83152,1,Taiwan,N,Personal Visa,Visa,Online,7
+CD002347,Male,Yes,0,Graduate,Instagram,No,12984,14170,57433.37648,81385.53951,1,Taiwan,Y,Personal Visa,Visa,Online,2
+CD002348,Male,Yes,0,Graduate,Tiktok,No,23316,0,27978.71906,50431.19555,1,China,Y,Personal Visa,Visa,Online,10
+CD002407,Female,Yes,0,Not Graduate,Xiaohungshu,Yes,28568,0,37024.97427,38757.86705,1,Hong Kong,Y,Personal Visa,Visa,Online,4
+CD002618,Male,Yes,1,Not Graduate,WeChat,No,16200,53020,51655.66231,63326.43163,0,Taiwan,N,Personal Visa,Visa,Online,5
+CD001327,Female,Yes,0,Graduate,Weibo,No,9936,23020,55136.06554,64449.11288,1,China,N,Toys,Apple Pay,Face To Face,9
+CD001431,Female,No,0,Graduate,Roadshow,No,8548,89800,42295.94765,55281.326,0,Singapore,N,Toys,Apple Pay,Face To Face,6
+CD001716,Male,Yes,0,Graduate,Email,No,12692,30210,46300.21734,31095.26109,1,Philipines,N,Toys,Apple Pay,Online,3
+CD001819,Male,Yes,1,Not Graduate,Mail,No,26432,0,39287.17331,70027.45079,1,Hong Kong,N,Toys,Apple Pay,Online,3
+CD001241,Female,No,0,Graduate,Online,No,17200,0,20539.56567,84908.58565,0,Malaysia,N,Toys,Apple Pay,Online,6
+CD001279,Male,No,0,Graduate,Offline,No,9464,25310,36434.52196,63198.00331,1,Hong Kong,N,Toys,Apple Pay,Online,4
+CD001385,Male,No,0,Graduate,TV,No,21264,0,26545.48767,73525.93221,1,Singapore,N,Toys,Apple Pay,Face To Face,9
+CD001891,Male,Yes,0,Graduate,Facebook,No,44584,0,49560.12328,56144.93739,1,Hong Kong,N,Toys,Apple Pay,Online,6
+CD002244,Male,Yes,0,Graduate,Instagram,No,9332,24170,28347.1662,67181.71458,1,Philipines,N,Toys,Apple Pay,Online,6
+CD002472,Male,No,2,Graduate,Tiktok,No,17416,0,52694.69981,65962.65941,1,Singapore,N,Toys,Apple Pay,Online,7
+CD002872,Male,Yes,0,Graduate,Xiaohungshu,No,12348,22100,56781.90484,70805.6937,0,China,N,Toys,Apple Pay,Online,6
+CD001197,Male,Yes,0,Graduate,WeChat,No,13464,22000,50941.24126,55580.29991,1,Malaysia,N,Toys,Apple Pay,Online,9
+CD001688,Male,Yes,1,Not Graduate,Weibo,No,14000,10830,24012.62193,77866.97795,1,Taiwan,N,Toys,Apple Pay,Online,2
+CD001722,Male,Yes,0,Graduate,Roadshow,No,12600,18000,30233.5566,51715.38727,1,China,N,Toys,Apple Pay,Online,3
+CD001883,Female,No,0,Graduate,Email,Yes,13672,0,55203.07145,60326.18753,1,Philipines,N,Toys,Apple Pay,Online,4
+CD001954,Female,Yes,1,Graduate,Mail,No,18664,0,57417.78046,84355.09498,1,Malaysia,N,Toys,Apple Pay,Online,8
+CD001993,Female,No,0,Graduate,Online,No,15048,16660,51058.46905,70054.98393,1,China,N,Toys,Apple Pay,Online,10
+CD002272,Male,Yes,2,Graduate,Offline,No,13104,4840,53890.79485,33330.33875,0,Taiwan,N,Toys,Apple Pay,Online,3
+CD001131,Male,Yes,0,Graduate,TV,No,15764,23360,47601.73013,66146.09523,1,Hong Kong,N,Toys,Apple Pay,Online,6
+CD001179,Male,Yes,2,Graduate,Facebook,No,18464,0,26265.25858,31738.42508,1,Taiwan,N,Toys,Apple Pay,Online,7
+CD001868,Male,No,0,Graduate,Instagram,No,8240,22090,52466.46822,86246.45095,1,Malaysia,N,Toys,Apple Pay,Online,5
+CD001940,Male,Yes,2,Graduate,Tiktok,No,12612,15600,41680.79893,31569.36643,1,Philipines,N,Toys,Apple Pay,Online,5
+CD001038,Male,Yes,0,Not Graduate,Xiaohungshu,No,19548,0,48109.02387,77659.68147,1,China,N,Toys,Apple Pay,Online,10
+CD001345,Male,Yes,2,Not Graduate,WeChat,No,17152,32630,51539.45253,53884.80147,1,Philipines,N,Toys,Apple Pay,Face To Face,3
+CD002181,Male,No,0,Not Graduate,Weibo,No,24864,0,36210.17418,62882.38994,1,Taiwan,N,Toys,Apple Pay,Online,1
+CD002368,Male,Yes,2,Graduate,Roadshow,No,23740,0,34532.19283,44892.96612,1,Hong Kong,N,Toys,Apple Pay,Online,2
+CD002990,Female,No,0,Graduate,Email,Yes,18332,0,54704.29592,46975.38431,0,Hong Kong,N,Toys,Apple Pay,Online,5
+CD001974,Female,No,0,Graduate,Mail,No,20000,0,40252.98688,59688.46922,1,Singapore,N,Toys,Apple Pay,Online,8
+CD002055,Female,No,0,Graduate,Online,No,12664,29850,29873.38431,39634.77984,0,Taiwan,N,Toys,Apple Pay,Online,2
+CD002239,Male,No,0,Not Graduate,Offline,No,9384,16000,23326.00287,70711.07298,1,Singapore,N,Toys,Apple Pay,Online,10
+CD002489,Female,No,1,Not Graduate,TV,Yes,20764,0,33600.77678,74107.17563,1,Hong Kong,N,Toys,Apple Pay,Online,4
+CD002530,Male,Yes,2,Graduate,Facebook,No,11492,18720,40231.78973,87799.81928,0,Malaysia,N,Toys,Apple Pay,Online,3
+CD002789,Male,Yes,0,Graduate,Instagram,No,14372,42660,57283.59954,59895.62324,0,Singapore,N,Toys,Apple Pay,Online,5
+CD002821,Male,No,0,Not Graduate,Tiktok,Yes,23200,0,46422.05118,34154.21302,1,Taiwan,N,Toys,Apple Pay,Online,10
+CD001316,Male,Yes,0,Graduate,Xiaohungshu,No,11832,29000,48871.08355,55800.12959,1,China,N,Toys,Apple Pay,Face To Face,2
+CD001343,Male,Yes,0,Graduate,WeChat,No,7036,35410,28486.91058,38808.17854,1,Malaysia,N,Toys,Apple Pay,Face To Face,2
+CD001726,Male,Yes,0,Graduate,Weibo,No,14908,17750,22129.57362,63978.33228,1,Hong Kong,N,Toys,Apple Pay,Online,8
+CD002544,Male,Yes,1,Not Graduate,Roadshow,No,7832,24360,24024.50207,45431.13021,1,Taiwan,N,Toys,Apple Pay,Online,7
+CD001264,Male,Yes,3,Not Graduate,Email,Yes,13332,21660,59162.85486,63220.79572,0,Hong Kong,N,Toys,Apple Pay,Online,5
+CD001715,Male,Yes,3,Not Graduate,Mail,Yes,22812,0,29524.5338,85201.17245,1,Malaysia,N,Toys,Apple Pay,Online,9
+CD002068,Male,No,0,Graduate,Online,No,19668,0,59512.03983,75813.80188,0,Singapore,N,Toys,Apple Pay,Online,10
+CD002143,Female,Yes,0,Graduate,Offline,No,9692,5050,50462.72815,70899.37406,1,China,N,Toys,Apple Pay,Online,8
+CD002175,Male,Yes,0,Graduate,TV,No,19000,23330,22987.47542,83779.59196,1,Singapore,N,Toys,Apple Pay,Online,1
+CD002219,Male,Yes,3,Graduate,Facebook,No,35000,49960,37648.53173,83518.65961,1,Philipines,N,Toys,Apple Pay,Online,7
+CD002223,Male,Yes,0,Graduate,Instagram,No,17240,0,29569.54102,42866.17925,0,Taiwan,N,Toys,Apple Pay,Online,8
+CD002225,Male,Yes,2,Graduate,Tiktok,No,21564,0,21210.94723,87416.81436,1,Hong Kong,N,Toys,Apple Pay,Online,1
+CD002429,Male,Yes,1,Graduate,Xiaohungshu,Yes,13864,12100,38938.69559,67436.43196,1,Hong Kong,N,Toys,Apple Pay,Online,3
+CD002716,Male,No,0,Not Graduate,WeChat,No,27132,0,26090.65896,42362.72425,1,Hong Kong,N,Toys,Apple Pay,Online,10
+CD001493,Male,Yes,2,Not Graduate,Weibo,No,16800,14300,51044.58484,76893.66533,1,Hong Kong,N,Toys,Apple Pay,Face To Face,6
+CD001578,Male,Yes,0,Graduate,Roadshow,No,9756,33330,39241.8563,47609.28819,1,Taiwan,N,Toys,Apple Pay,Online,4
+CD001003,Male,Yes,1,Graduate,Email,No,18332,15080,58744.76688,70616.48986,1,Hong Kong,N,Toys,Apple Pay,Online,8
+CD001711,Male,Yes,3,Graduate,Mail,No,13720,12500,55967.60901,30171.50608,0,Hong Kong,N,Toys,Apple Pay,Online,7
+CD001750,Male,Yes,0,Graduate,Online,No,25000,0,30495.29386,67373.65005,1,Singapore,N,Toys,Apple Pay,Online,9
+CD001864,Male,Yes,3,Not Graduate,Offline,No,19724,0,57894.58846,61509.64429,0,Hong Kong,N,Toys,Apple Pay,Online,9
+CD001872,Male,No,0,Graduate,TV,Yes,20664,0,26714.65876,74889.43797,1,China,N,Toys,Apple Pay,Online,4
+CD002226,Male,Yes,0,Graduate,Facebook,Yes,13332,25000,32640.76334,82817.08137,1,Singapore,N,Toys,Apple Pay,Online,2
+CD002234,Male,No,0,Graduate,Instagram,Yes,28668,0,23621.8695,40404.44383,1,Taiwan,N,Toys,Apple Pay,Online,1
+CD002484,Male,Yes,3,Graduate,Tiktok,No,30960,0,46984.52726,40464.65076,1,Taiwan,N,Toys,Apple Pay,Online,10
+CD002537,Male,Yes,0,Graduate,Xiaohungshu,No,8332,31500,45842.89972,66915.01102,1,Singapore,N,Toys,Apple Pay,Online,1
+CD002755,Male,Yes,1,Not Graduate,WeChat,No,8956,25240,56837.02455,83852.14964,1,Malaysia,N,Toys,Apple Pay,Online,7
+CD002953,Male,Yes,3,Graduate,Weibo,No,22812,0,24852.77409,39661.90517,1,Singapore,N,Toys,Apple Pay,Online,8
+CD001702,Male,No,0,Graduate,Roadshow,No,13672,0,44049.41713,73068.54505,1,Taiwan,N,Toys,Apple Pay,Online,10
+CD001734,Female,Yes,2,Graduate,Email,No,17132,23830,33257.71008,81148.61859,0,Malaysia,N,Toys,Apple Pay,Online,3
+CD001938,Male,Yes,2,Graduate,Mail,No,17600,0,45287.03386,50301.73441,0,Malaysia,N,Toys,Apple Pay,Online,9
+CD001228,Male,No,0,Not Graduate,Online,No,12800,22540,45241.65842,76666.44964,0,China,N,Toys,Apple Pay,Online,4
+CD001892,Male,No,0,Graduate,Offline,No,11332,18570,51460.14106,52825.00143,1,Singapore,N,Toys,Apple Pay,Online,10
+CD002131,Male,Yes,2,Not Graduate,TV,No,12332,21680,45040.02747,37542.21413,1,Taiwan,N,Toys,Apple Pay,Online,2
+CD002732,Male,No,0,Not Graduate,Facebook,Yes,10200,20420,48020.63427,58996.43889,1,Hong Kong,N,Toys,Apple Pay,Online,2
+CD001032,Male,No,0,Graduate,Instagram,No,19800,0,35219.48175,58680.74395,1,Malaysia,N,Toys,Apple Pay,Online,6
+CD001238,Male,Yes,3,Not Graduate,Tiktok,Yes,28400,0,31178.51076,58919.623,1,Singapore,N,Toys,Apple Pay,Online,2
+CD001520,Male,Yes,0,Graduate,Xiaohungshu,No,19440,8300,22266.64517,62147.99697,1,Taiwan,N,Toys,Apple Pay,Face To Face,6
+CD002128,Male,Yes,2,Graduate,WeChat,Yes,10332,23300,56297.61069,53038.4629,1,Singapore,N,Toys,Apple Pay,Online,3
+CD002250,Male,Yes,0,Graduate,Weibo,No,21952,0,50851.80392,82850.41875,1,Taiwan,N,Toys,Apple Pay,Online,7
+CD002446,Male,Yes,2,Not Graduate,Roadshow,No,9236,12550,55610.66526,37680.68534,0,China,N,Toys,Apple Pay,Online,7
+CD002731,Female,No,0,Not Graduate,Email,Yes,72660,0,20985.36114,85516.47302,1,China,N,Toys,Apple Pay,Online,3
+CD001691,Male,Yes,2,Not Graduate,Mail,No,15668,0,20059.46688,73910.88373,1,China,N,Toys,Apple Pay,Online,1
+CD001908,Female,Yes,0,Not Graduate,Online,No,16400,0,34104.47866,35133.0932,0,Malaysia,N,Toys,Apple Pay,Online,2
+CD002053,Male,Yes,3,Graduate,Offline,No,17368,11890,36372.21538,60004.75672,1,Malaysia,N,Toys,Apple Pay,Online,1
+CD002188,Male,No,0,Graduate,TV,No,20496,0,23608.02933,35930.8008,0,Hong Kong,N,Toys,Apple Pay,Online,3
+CD002619,Male,Yes,0,Not Graduate,Facebook,No,15256,14830,35038.48582,79888.49425,1,China,N,Toys,Apple Pay,Online,1
+CD001811,Male,Yes,0,Not Graduate,Instagram,No,13624,44170,53026.69841,60132.9553,1,Philipines,N,Toys,Apple Pay,Online,6
+CD001824,Male,Yes,1,Graduate,Tiktok,No,11528,18430,28030.38204,75477.40331,1,Singapore,N,Toys,Apple Pay,Online,6
+CD002682,Male,Yes,0,Not Graduate,Xiaohungshu,No,12296,18000,28326.3372,48924.5866,0,Hong Kong,N,Toys,Apple Pay,Online,8
+CD002837,Male,Yes,3,Graduate,WeChat,No,13600,25000,48158.96924,68959.44354,0,Malaysia,N,Toys,Apple Pay,Online,2
+CD001068,Male,Yes,0,Graduate,Weibo,No,11196,22530,43778.78689,56501.56388,1,Singapore,N,Toys,Apple Pay,Online,3
+CD001322,Male,No,0,Graduate,Roadshow,No,16532,0,39837.76211,89873.53142,1,Malaysia,N,Toys,Apple Pay,Face To Face,9
+CD001507,Male,Yes,0,Graduate,Email,No,10792,20340,33877.68249,35485.69858,1,Taiwan,N,Toys,Apple Pay,Face To Face,2
+CD001788,Female,No,0,Graduate,Mail,Yes,13852,0,58936.85003,65144.61031,0,Malaysia,N,Toys,Apple Pay,Online,10
+CD001565,Male,Yes,1,Graduate,Online,No,12356,12800,47654.50893,68835.25487,0,China,N,Toys,Apple Pay,Online,3
+CD002366,Male,Yes,0,Graduate,Offline,No,10664,43000,59064.15926,62894.23998,1,Taiwan,N,Toys,Apple Pay,Online,8
+CD001006,Male,Yes,0,Not Graduate,TV,No,10332,23580,33933.35596,77710.36813,1,Malaysia,N,Toys,Apple Pay,Online,1
+CD001087,Female,No,2,Graduate,Facebook,Yes,15000,20830,43585.52178,82625.58252,1,Taiwan,N,Toys,Apple Pay,Online,9
+CD001146,Female,Yes,0,Graduate,Instagram,No,10580,34400,56581.58855,60883.53269,0,China,N,Toys,Apple Pay,Online,1
+CD001157,Female,No,0,Graduate,Tiktok,No,12344,0,21308.64138,31382.45931,1,Malaysia,N,Toys,Apple Pay,Online,7
+CD001205,Male,Yes,0,Graduate,Xiaohungshu,No,10000,37960,26155.21645,71128.55911,1,China,N,Toys,Apple Pay,Online,6
+CD001370,Male,No,0,Not Graduate,WeChat,Yes,29332,0,30736.88381,62220.12774,1,Taiwan,N,Toys,Apple Pay,Face To Face,3
+CD001546,Male,No,0,Graduate,Weibo,Yes,11920,20830,39014.46641,58543.04009,1,Singapore,N,Toys,Apple Pay,Face To Face,1
+CD001640,Male,Yes,0,Graduate,Roadshow,Yes,56588,47500,50590.44186,54236.22927,1,Taiwan,N,Toys,Apple Pay,Online,9
+CD001664,Male,No,0,Graduate,Email,No,16764,0,25816.09445,48790.56142,1,Singapore,N,Toys,Apple Pay,Online,8
+CD001669,Female,No,0,Not Graduate,Mail,No,7628,23650,51573.99135,84238.04046,1,Taiwan,N,Toys,Apple Pay,Online,3
+CD001692,Female,No,0,Not Graduate,Online,No,17632,0,22839.44784,62505.69541,1,Hong Kong,N,Toys,Apple Pay,Online,8
+CD001770,Male,No,0,Not Graduate,Offline,No,12756,25980,44435.04432,45442.88068,1,Philipines,N,Toys,Apple Pay,Online,1
+CD001798,Male,Yes,2,Graduate,TV,No,23276,50000,31542.39111,85927.19913,1,China,N,Toys,Apple Pay,Online,1
+CD001813,Male,No,0,Graduate,Facebook,Yes,24200,43330,58156.11371,73376.83693,1,Taiwan,N,Toys,Apple Pay,Online,3
+CD001871,Female,No,0,Graduate,Instagram,No,28800,0,56512.86596,41265.74651,1,Taiwan,N,Toys,Apple Pay,Online,4
+CD001926,Male,Yes,0,Graduate,Tiktok,No,14816,20000,35516.8193,70343.00118,1,Taiwan,N,Toys,Apple Pay,Online,7
+CD002035,Male,Yes,2,Graduate,Xiaohungshu,No,14868,0,31963.78455,46312.52602,1,Philipines,N,Toys,Apple Pay,Online,8
+CD002211,Male,Yes,0,Graduate,WeChat,No,19268,9230,49970.15707,74433.21218,1,Malaysia,N,Toys,Apple Pay,Online,5
+CD002263,Male,Yes,0,Graduate,Weibo,No,10332,21150,26137.23051,57253.43619,0,Singapore,N,Toys,Apple Pay,Online,6
+CD002833,Male,Yes,0,Not Graduate,Roadshow,No,17868,0,34914.59634,39661.06131,0,Hong Kong,N,Toys,Apple Pay,Online,9
+CD002585,Male,Yes,0,Graduate,Email,No,14388,21570,38541.19435,89616.92078,0,Singapore,N,Toys,Apple Pay,Online,4
+CD001398,Male,No,0,Graduate,Mail,Yes,20200,0,49701.08245,87901.44614,1,China,N,Toys,Apple Pay,Face To Face,3
+CD001528,Male,No,0,Graduate,Online,No,25108,0,43070.36169,55717.07672,0,China,N,Toys,Apple Pay,Face To Face,9
+CD002459,Male,Yes,0,Graduate,Offline,No,17204,0,42045.61971,62613.93766,1,China,N,Toys,Apple Pay,Online,5
+CD002097,Male,No,1,Graduate,TV,No,17536,17930,33152.35908,52229.30318,1,China,N,Toys,Apple Pay,Online,5
+CD001047,Male,Yes,0,Not Graduate,Facebook,No,10400,19110,37534.59023,49959.04,0,Philipines,N,Fruniture,Apple Pay,Online,5
+CD001222,Female,No,0,Graduate,Instagram,No,16664,0,45447.64177,49034.86237,0,Philipines,N,Fruniture,Apple Pay,Online,5
+CD001606,Male,Yes,0,Graduate,Tiktok,No,13988,19640,54792.77477,62030.65195,1,Hong Kong,N,Toys,Apple Pay,Online,5
+CD001616,Male,Yes,1,Graduate,Xiaohungshu,No,15000,0,31631.46059,86873.48087,1,Philipines,N,Toys,Apple Pay,Online,5
+CD001743,Male,Yes,2,Graduate,WeChat,No,16036,17170,47875.18415,44911.33129,1,Taiwan,N,Toys,Apple Pay,Online,5
+CD002144,Female,No,0,Graduate,Weibo,No,15252,0,51231.61698,44897.04556,1,Hong Kong,N,Toys,Apple Pay,Online,5
+CD001041,Male,Yes,0,Graduate,Roadshow,Yes,10400,35000,29112.23065,76103.87991,1,Hong Kong,N,Fruniture,Apple Pay,Online,5
+CD001334,Male,Yes,0,Not Graduate,Email,No,16752,0,48280.08817,59822.92647,1,Singapore,N,Fruniture,Apple Pay,Face To Face,5
+CD001849,Male,No,0,Not Graduate,Mail,No,24180,0,33783.91134,71608.6139,0,Philipines,N,Fruniture,Apple Pay,Online,5
+CD001900,Male,Yes,1,Graduate,Online,No,11000,18420,37571.79248,71286.15318,1,Taiwan,N,Fruniture,Apple Pay,Online,5
+CD001931,Female,No,0,Graduate,Offline,No,16496,0,35926.68857,59064.5747,1,China,N,Fruniture,Apple Pay,Online,5
+CD002051,Male,Yes,0,Graduate,TV,No,9600,21670,41843.94204,83558.37212,1,Singapore,N,Fruniture,Apple Pay,Online,5
+CD002305,Female,No,0,Graduate,Facebook,No,18188,0,47769.22107,74963.26452,1,Malaysia,N,Fruniture,Apple Pay,Online,5
+CD002308,Male,Yes,0,Not Graduate,Instagram,No,8668,24000,30153.20012,47317.60452,1,Philipines,N,Fruniture,Apple Pay,Online,5
+CD001029,Male,No,0,Graduate,Tiktok,No,7412,28400,31120.64885,37538.82533,1,Hong Kong,N,Fruniture,Apple Pay,Online,5
+CD001098,Male,Yes,0,Graduate,Xiaohungshu,No,14000,16670,35402.07983,55666.49623,1,Malaysia,N,Fruniture,Apple Pay,Online,5
+CD001255,Male,No,0,Graduate,WeChat,No,15000,0,23966.84443,50614.89407,1,Malaysia,N,Fruniture,Apple Pay,Online,5
+CD001532,Male,Yes,2,Not Graduate,Weibo,No,9124,0,37729.95756,37940.71976,1,Malaysia,N,Fruniture,Apple Pay,Face To Face,5
+CD001671,Female,Yes,0,Graduate,Roadshow,No,13664,28160,35838.77201,82574.63421,0,China,N,Fruniture,Apple Pay,Online,5
+CD001963,Male,Yes,1,Graduate,Email,No,8056,29250,36013.51142,76452.42644,1,Taiwan,N,Fruniture,Apple Pay,Online,4
+CD002237,Male,No,1,Graduate,Mail,Yes,14668,0,54749.3718,74203.08412,1,Hong Kong,N,Fruniture,Apple Pay,Online,3
+CD002265,Male,Yes,2,Not Graduate,Online,No,7972,16250,26780.44379,49402.82196,1,Malaysia,N,Fruniture,Apple Pay,Online,10
+CD002266,Male,Yes,2,Graduate,Offline,No,12400,14000,21956.05268,79000.98789,1,Philipines,N,Fruniture,Apple Pay,Online,9
+CD002517,Male,Yes,1,Not Graduate,TV,No,10612,15000,36350.8512,87161.18978,0,Malaysia,N,Fruniture,Apple Pay,Online,3
+CD002536,Male,Yes,3,Not Graduate,Facebook,No,12380,0,55271.99877,66994.29453,1,Hong Kong,N,Fruniture,Apple Pay,Online,3
+CD002603,Female,No,0,Graduate,Instagram,No,22580,36830,50711.43592,86180.0343,1,Singapore,N,Fruniture,Apple Pay,Online,2
+CD002670,Female,Yes,2,Graduate,Tiktok,No,8124,16320,32197.80323,79576.30732,1,China,N,Fruniture,Apple Pay,Online,5
+CD001050,Male,Yes,2,Not Graduate,Xiaohungshu,No,13460,19170,31764.07623,65571.10313,0,Taiwan,N,Fruniture,Apple Pay,Online,7
+CD001164,Female,No,0,Graduate,WeChat,No,16920,0,49294.42532,36106.14918,1,Philipines,N,Fruniture,Apple Pay,Online,9
+CD001577,Female,Yes,0,Graduate,Weibo,No,18332,0,36947.94089,54117.58415,1,Philipines,N,Fruniture,Apple Pay,Online,1
+CD001790,Female,No,1,Graduate,Roadshow,No,15248,0,34638.14052,31888.70154,1,Philipines,N,Fruniture,Apple Pay,Online,1
+CD001814,Male,Yes,2,Graduate,Email,No,38812,0,32993.24381,51109.16001,1,China,N,Fruniture,Apple Pay,Online,10
+CD001914,Male,Yes,0,Graduate,Mail,No,15708,8000,22094.60775,67925.90238,1,Taiwan,N,Fruniture,Apple Pay,Online,1
+CD002043,Female,No,1,Graduate,Online,No,14164,0,54179.33619,66695.33613,0,China,N,Fruniture,Apple Pay,Online,5
+CD002345,Male,Yes,0,Graduate,Offline,No,4100,27730,46829.19298,73377.2275,1,Philipines,N,Fruniture,Apple Pay,Online,7
+CD001265,Female,No,0,Graduate,TV,No,15384,0,41448.51032,37862.79276,1,Singapore,N,Fruniture,Apple Pay,Online,6
+CD002004,Male,No,0,Not Graduate,Facebook,No,11708,24050,48631.86525,35387.15408,1,Taiwan,N,Fruniture,Apple Pay,Online,3
+CD002031,Male,Yes,1,Not Graduate,Instagram,No,13596,16400,40617.20086,65885.94394,1,Malaysia,N,Fruniture,Apple Pay,Online,7
+CD002205,Male,No,1,Graduate,Tiktok,No,12248,19870,31501.27758,55075.14641,0,Hong Kong,N,Fruniture,Apple Pay,Online,7
+CD002588,Male,Yes,0,Graduate,Xiaohungshu,No,18500,28570,27996.73979,31955.19974,0,Taiwan,N,Fruniture,Apple Pay,Online,8
+CD001073,Male,Yes,2,Not Graduate,WeChat,No,16904,10400,34749.25608,64641.39872,1,Malaysia,N,Stationary,Apple Pay,Online,4
+CD001116,Male,No,0,Not Graduate,Weibo,No,14992,16680,33545.26831,59339.19786,1,Malaysia,N,Stationary,Apple Pay,Online,10
+CD001259,Male,Yes,1,Graduate,Roadshow,Yes,14000,30220,49681.6493,61070.94659,1,Taiwan,N,Stationary,Apple Pay,Online,10
+CD001949,Male,Yes,3,Graduate,Email,Yes,17664,12500,38950.02666,89649.22732,1,Hong Kong,N,Stationary,Apple Pay,Online,5
+CD002086,Female,Yes,0,Graduate,Mail,No,17332,24510,22369.21576,37524.27312,1,Philipines,N,Stationary,Apple Pay,Online,2
+CD002209,Female,No,0,Graduate,Online,Yes,11056,14590,23742.16442,50405.95932,1,Singapore,N,Stationary,Apple Pay,Online,1
+CD002332,Male,Yes,0,Not Graduate,Offline,No,9012,20330,38116.50829,41490.31667,1,Taiwan,N,Stationary,Apple Pay,Online,10
+CD002362,Male,Yes,1,Graduate,TV,No,29000,16670,40669.5109,31661.47667,0,Malaysia,N,Stationary,Apple Pay,Online,2
+CD002434,Male,Yes,2,Not Graduate,Facebook,No,18608,0,31477.03983,73948.63519,1,Singapore,N,Stationary,Apple Pay,Online,10
+CD002501,Male,Yes,0,Graduate,Instagram,No,66768,0,47722.67035,34986.55555,1,Taiwan,N,Stationary,Apple Pay,Online,2
+CD002505,Male,Yes,0,Graduate,Tiktok,No,17332,24510,23888.2084,42361.57974,1,Hong Kong,N,Stationary,Apple Pay,Online,9
+CD002571,Male,No,0,Not Graduate,Xiaohungshu,No,14764,0,44283.53631,86223.00265,1,China,N,Fruniture,Apple Pay,Online,8
+CD002705,Male,Yes,0,Graduate,WeChat,No,15100,0,47380.99428,58753.60222,1,Philipines,N,Fruniture,Apple Pay,Online,8
+CD002723,Male,No,2,Graduate,Weibo,No,14352,0,45231.89797,89474.29288,0,Philipines,N,Fruniture,Apple Pay,Online,2
+CD002777,Male,Yes,0,Graduate,Roadshow,No,11140,20160,33484.72737,73937.85479,1,Malaysia,N,Fruniture,Apple Pay,Online,1
+CD002874,Male,No,0,Graduate,Email,No,12916,27390,21133.62976,37501.21773,1,Hong Kong,N,Fruniture,Apple Pay,Online,6
+CD002940,Male,No,0,Not Graduate,Mail,No,15332,0,59280.87142,40950.87017,1,Hong Kong,N,Fruniture,Apple Pay,Online,4
+CD001027,Male,Yes,2,Graduate,Online,No,10000,18400,51402.11004,51911.58464,1,Taiwan,N,Stationary,Apple Pay,Online,4
+CD002284,Male,No,0,Not Graduate,Offline,No,15608,16660,22176.32326,80219.09377,1,Singapore,N,Stationary,Apple Pay,Online,8
+CD001639,Female,Yes,0,Graduate,TV,No,14500,0,35089.99579,70394.6337,1,Philipines,N,Stationary,Apple Pay,Online,5
+CD001807,Male,Yes,2,Graduate,Facebook,Yes,25000,13000,20317.91699,71165.83652,1,Malaysia,N,Stationary,Apple Pay,Online,9
+CD002807,Male,Yes,2,Not Graduate,Instagram,No,14700,12420,44019.28916,86738.7876,1,Singapore,N,Stationary,Apple Pay,Online,3
+CD002868,Male,Yes,2,Graduate,Tiktok,No,12636,4610,29093.5677,75400.74907,1,Taiwan,N,Stationary,Apple Pay,Online,6
+CD002974,Male,Yes,0,Graduate,Xiaohungshu,No,12928,19500,48947.94129,51406.85609,1,Singapore,N,Stationary,Apple Pay,Online,5
+CD002587,Male,Yes,0,Not Graduate,WeChat,No,10400,17000,46293.11153,70407.79138,1,Philipines,N,Stationary,Apple Pay,Online,5
+CD002738,Male,No,2,Graduate,Weibo,No,14468,0,53478.90305,79881.11532,1,Malaysia,N,Stationary,Apple Pay,Online,8
+CD002877,Male,Yes,1,Graduate,Roadshow,No,7128,22320,49144.7186,85703.88909,1,Singapore,N,Stationary,Apple Pay,Online,9
+CD001097,Male,No,1,Graduate,Email,Yes,18768,0,29085.08019,39414.964,1,Singapore,N,Stationary,Apple Pay,Online,2
+CD002926,Male,Yes,2,Graduate,Mail,Yes,10904,0,27210.51028,69630.41766,0,Hong Kong,N,Stationary,Apple Pay,Online,4
+CD001972,Male,Yes,0,Not Graduate,Online,No,11500,17500,24981.17607,82365.98628,1,Hong Kong,N,Stationary,Apple Pay,Online,2
+CD002142,Female,Yes,0,Graduate,Offline,Yes,22000,0,25712.22287,48503.08684,0,Taiwan,N,Stationary,Apple Pay,Online,9
+CD002379,Male,No,0,Graduate,TV,No,26000,0,30613.72331,76957.75623,0,Taiwan,N,Stationary,Apple Pay,Online,8
+CD002586,Female,Yes,1,Graduate,Facebook,No,13304,9130,31403.29439,37023.2988,1,Malaysia,N,Stationary,Apple Pay,Online,2
+CD001043,Male,Yes,0,Not Graduate,Instagram,No,30640,0,42703.62287,61494.9751,0,Singapore,N,Stationary,Apple Pay,Online,5
+CD001282,Male,Yes,0,Graduate,Tiktok,No,10000,21180,52771.00795,62799.86835,1,Malaysia,N,Stationary,Apple Pay,Online,1
+CD001765,Male,Yes,1,Graduate,Xiaohungshu,No,9964,20540,23446.23652,70714.84999,1,Singapore,N,Stationary,Apple Pay,Online,8
+CD001841,Male,No,0,Not Graduate,WeChat,Yes,10332,21670,46778.25801,71505.67556,1,China,N,Stationary,Apple Pay,Online,8
+CD001994,Female,No,0,Graduate,Weibo,No,9600,18630,23577.28324,52691.10284,0,Hong Kong,N,Stationary,Apple Pay,Online,4
+CD002841,Male,Yes,0,Graduate,Roadshow,No,12664,20640,38805.88369,57689.87713,0,Taiwan,N,Stationary,Apple Pay,Online,9
+CD002916,Male,Yes,0,Graduate,Email,No,9188,15220,43040.37868,75831.21146,1,Philipines,N,Stationary,Apple Pay,Online,9
+CD002287,Female,No,0,Graduate,Mail,No,6000,18000,54034.31475,42307.82366,0,Malaysia,N,Stationary,Apple Pay,Online,7
+CD002297,Male,No,0,Graduate,Online,No,10000,20000,25165.83102,50925.25947,1,China,N,Stationary,Apple Pay,Online,9
+CD002776,Female,No,0,Graduate,Offline,No,20000,0,57376.95621,50560.07131,0,Singapore,N,Stationary,Apple Pay,Online,5
+CD001487,Male,No,0,Graduate,TV,No,19580,0,28007.10574,62245.70645,1,Singapore,N,Stationary,Apple Pay,Face To Face,2
+CD001630,Male,No,0,Not Graduate,Facebook,No,9332,14510,31989.74971,60447.85289,0,Taiwan,N,Stationary,Apple Pay,Online,4
+CD002757,Female,Yes,0,Not Graduate,Instagram,No,12068,6630,57014.30741,72026.88771,0,Philipines,N,Stationary,Apple Pay,Online,9
+CD001608,Male,Yes,2,Graduate,Tiktok,No,8180,16190,31333.80514,40721.91862,1,Singapore,N,Stationary,Apple Pay,Online,2
+CD001034,Male,No,1,Not Graduate,Xiaohungshu,No,14384,0,36942.57694,75523.27412,0,Philipines,N,Stationary,Apple Pay,Online,4
+CD001109,Male,Yes,0,Graduate,WeChat,No,7312,13300,57028.18282,78585.8481,0,China,N,Stationary,Apple Pay,Online,8
+CD001155,Female,Yes,0,Not Graduate,Weibo,No,7712,16440,39766.02026,89124.45027,1,Singapore,N,Stationary,Apple Pay,Online,9
+CD001367,Male,Yes,1,Graduate,Roadshow,No,12208,10300,21081.94101,51546.48284,1,Malaysia,N,Stationary,Apple Pay,Face To Face,3
+CD001514,Female,Yes,0,Graduate,Email,No,9320,44860,39236.31544,81438.35315,1,Hong Kong,N,Stationary,Apple Pay,Face To Face,2
+CD001720,Male,Yes,3,Not Graduate,Mail,No,15400,9830,26931.62201,36068.49259,1,Taiwan,N,Stationary,Apple Pay,Online,5
+CD002158,Male,Yes,0,Not Graduate,Online,No,12000,16660,26685.29567,63504.51907,0,Philipines,N,Stationary,Apple Pay,Online,8
+CD002236,Male,Yes,2,Graduate,Offline,No,18264,0,25665.33993,69760.4444,1,China,N,Stationary,Apple Pay,Online,9
+CD002361,Male,Yes,0,Graduate,TV,No,7280,17190,46484.93576,38744.63634,1,Singapore,N,Stationary,Apple Pay,Online,10
+CD002390,Male,No,0,Graduate,Facebook,No,15000,0,58290.50269,60672.34386,1,Singapore,N,Stationary,Apple Pay,Online,9
+CD002519,Male,Yes,3,Graduate,Instagram,No,18764,0,26556.45648,51186.51841,1,Philipines,N,Stationary,Apple Pay,Online,7
+CD002606,Female,No,0,Graduate,Tiktok,No,12636,0,40410.54895,80004.46371,1,Malaysia,N,Stationary,Apple Pay,Online,4
+CD002637,Male,No,0,Not Graduate,Xiaohungshu,No,14392,12870,41858.9856,48059.58213,1,China,N,Stationary,Apple Pay,Online,8
+CD002692,Male,Yes,3,Graduate,WeChat,Yes,22708,14240,28991.30534,81359.43667,1,China,N,Stationary,Apple Pay,Online,3
+CD002720,Male,Yes,3,Graduate,Weibo,No,17124,0,56382.06521,33947.17174,1,Malaysia,N,Stationary,Apple Pay,Online,8
+CD001206,Male,Yes,3,Graduate,Roadshow,No,12116,0,22131.41676,68705.5755,1,Hong Kong,N,Stationary,Apple Pay,Online,6
+CD001280,Male,Yes,2,Not Graduate,Email,No,13332,20000,57470.05386,35918.65723,0,Singapore,N,Stationary,Apple Pay,Online,3
+CD001925,Female,No,0,Graduate,Mail,Yes,10400,17170,35713.49545,53720.62535,1,Philipines,N,Stationary,Apple Pay,Online,2
+CD002743,Female,No,0,Graduate,Online,No,8552,0,27908.87431,31023.85873,0,Hong Kong,N,Stationary,Apple Pay,Online,10
+CD001560,Male,Yes,0,Not Graduate,Offline,No,7452,10410,41125.76134,33934.96381,1,Philipines,Y,Books,Visa,Face To Face,9
+CD002098,Male,No,0,Graduate,TV,No,11740,0,40592.33605,38495.65249,1,Hong Kong,Y,Books,Visa,Online,2
+CD002493,Male,No,0,Graduate,Facebook,No,16664,0,50107.93254,51296.19324,0,Singapore,N,Stationary,Apple Pay,Online,2
+CD002502,Female,Yes,2,Not Graduate,Instagram,No,9840,29170,22770.90059,58921.1416,1,China,N,Stationary,Apple Pay,Online,4
+CD001194,Male,Yes,2,Graduate,Tiktok,No,10832,11670,46876.05012,36141.21526,1,Hong Kong,Y,Books,Visa,Online,6
+CD001245,Male,Yes,2,Not Graduate,Xiaohungshu,Yes,7500,18750,55270.49054,55668.86984,1,Taiwan,Y,Books,Visa,Online,5
+CD001136,Male,Yes,0,Not Graduate,WeChat,Yes,18780,0,37745.44569,64541.27091,1,Singapore,Y,Books,Visa,Online,3
+CD001195,Male,Yes,0,Graduate,Weibo,No,8528,15910,54050.32108,48333.37037,1,Singapore,Y,Books,Visa,Online,2
+CD001792,Male,Yes,1,Graduate,Roadshow,No,13260,0,24251.20113,69312.99892,1,Taiwan,Y,Books,Visa,Online,2
+CD001977,Male,Yes,1,Graduate,Email,No,6500,18030,36135.13503,76183.92486,1,Malaysia,Y,Books,Visa,Online,6
+CD002187,Male,No,0,Graduate,Mail,No,10000,0,27447.1567,49180.72182,1,China,N,Books,Visa,Online,5
+CD002364,Male,Yes,0,Graduate,Online,No,59520,0,51307.78312,88023.24876,1,Philipines,Y,Books,Visa,Online,5
+CD002455,Male,Yes,2,Graduate,Offline,No,15436,0,32080.28397,62696.0866,1,Taiwan,Y,Books,Visa,Online,7
+CD002560,Male,No,0,Not Graduate,TV,No,10796,27850,46009.82788,59411.90355,0,Philipines,Y,Books,Visa,Online,4
+CD002625,Male,No,0,Graduate,Facebook,No,14332,0,40333.8266,82559.12585,1,Malaysia,N,Books,Visa,Online,5
+CD001013,Male,Yes,0,Not Graduate,Instagram,No,9332,15160,29873.13427,50554.47342,1,China,Y,Books,Visa,Face To Face,7
+CD001250,Male,Yes,3,Not Graduate,Tiktok,No,19020,0,31762.53705,53674.26121,0,Hong Kong,N,Books,Visa,Online,8
+CD001581,Male,Yes,0,Not Graduate,Xiaohungshu,No,7280,17690,54411.0664,78681.07565,1,Singapore,Y,Books,Visa,Online,1
+CD002141,Male,Yes,3,Graduate,WeChat,No,10664,20830,54077.5842,44581.11667,1,Philipines,Y,Books,Visa,Online,10
+CD002178,Male,Yes,0,Graduate,Weibo,No,12052,30330,44814.45966,84057.95515,0,Malaysia,Y,Books,Visa,Online,9
+CD002281,Male,Yes,0,Graduate,Roadshow,No,12132,14590,55324.42835,74635.06242,1,Hong Kong,Y,Books,Visa,Online,2
+CD002600,Male,Yes,1,Graduate,Email,Yes,11580,0,55167.76108,31647.60736,1,China,Y,Books,Visa,Online,8
+CD002684,Female,No,0,Not Graduate,Mail,No,13600,0,39162.80415,64203.65375,1,Malaysia,N,Books,Visa,Online,1
+CD002753,Female,No,1,Graduate,Online,No,14608,0,59500.94128,43519.63096,1,Singapore,Y,Books,Visa,Online,6
+CD001384,Male,Yes,3,Not Graduate,Offline,No,8284,7540,45857.04712,58371.17258,1,Hong Kong,Y,Books,Visa,Face To Face,10
+CD001854,Male,Yes,3,Graduate,TV,No,21000,0,56173.12881,39812.94633,1,Taiwan,N,Books,Visa,Online,2
+CD002714,Male,No,1,Not Graduate,Facebook,No,10716,13020,34757.88153,79611.82262,1,China,Y,Books,Visa,Online,10
+CD002925,Male,No,0,Graduate,Instagram,No,19000,0,59363.09598,71878.97911,1,China,Y,Books,Visa,Online,8
+CD001443,Female,No,0,Graduate,Tiktok,No,14768,0,23453.32774,85191.49562,0,Taiwan,Y,Books,Visa,Face To Face,1
+CD001964,Male,Yes,0,Not Graduate,Xiaohungshu,No,7200,29340,43317.90714,81732.02909,0,China,N,Books,Visa,Online,1
+CD002522,Female,No,0,Graduate,WeChat,Yes,10000,0,36272.29727,75968.43945,0,Taiwan,Y,Books,Visa,Online,7
+CD001674,Male,Yes,1,Not Graduate,Weibo,No,10400,25000,29713.23073,40858.50751,1,Singapore,N,Health Products,Master,Online,7
+CD001825,Male,Yes,0,Graduate,Roadshow,No,7236,18680,57819.90011,41662.06919,1,Malaysia,N,Health Products,Master,Online,7
+CD001884,Female,No,1,Graduate,Email,No,11504,15600,44751.73873,60630.96484,1,Taiwan,N,Health Products,Master,Online,10
+CD001896,Male,Yes,2,Graduate,Mail,No,15600,0,38195.04831,76692.44214,1,Philipines,N,Health Products,Master,Online,8
+CD002449,Male,Yes,0,Graduate,Online,No,9932,24660,54938.70053,56965.41109,0,Malaysia,N,Health Products,Master,Online,10
+CD002893,Male,No,0,Graduate,Offline,No,7344,8370,44791.11768,66498.51409,1,Taiwan,N,Health Products,Master,Online,2
+CD001924,Male,No,0,Graduate,TV,No,12632,30530,49713.86157,71790.8304,1,Malaysia,N,Health Products,Master,Online,3
+CD001137,Female,No,0,Graduate,Facebook,No,13640,0,29143.83234,65285.937,1,Malaysia,N,Health Products,Master,Online,5
+CD001491,Male,Yes,2,Graduate,Instagram,Yes,13264,35000,58541.97899,87476.98145,1,Taiwan,N,Health Products,Master,Face To Face,9
+CD002036,Male,Yes,0,Graduate,Tiktok,No,8232,21340,39357.74769,80491.97872,0,Taiwan,N,Health Products,Master,Online,1
+CD002943,Male,No,0,Graduate,Xiaohungshu,No,11948,0,21157.14305,79738.37054,0,Malaysia,N,Health Products,Master,Online,1
+CD001603,Male,Yes,0,Not Graduate,WeChat,Yes,17376,7360,55820.73452,56494.25506,1,China,N,Health Products,Master,Online,9
+CD002369,Male,Yes,0,Graduate,Weibo,No,11680,12000,53185.11426,33335.47571,1,Singapore,N,Health Products,Master,Online,1
+CD002531,Male,Yes,1,Graduate,Roadshow,Yes,66668,22500,49074.55314,41987.08875,1,Philipines,N,Health Products,Master,Online,7
+CD001405,Male,Yes,1,Graduate,Email,No,8856,13980,29249.67854,39797.56126,0,Malaysia,N,Health Products,Master,Face To Face,4
+CD001489,Female,Yes,0,Graduate,Mail,No,18332,0,28119.84847,34873.01127,1,Philipines,N,Car,Visa,Face To Face,9
+CD002002,Female,No,0,Graduate,Online,No,11668,0,58700.0845,79029.29455,1,Philipines,Y,Car,Visa,Online,7
+CD002453,Male,No,0,Graduate,Offline,Yes,28340,0,55084.92573,73991.59275,1,Philipines,Y,Car,Visa,Online,6
+CD002794,Female,No,0,Graduate,TV,No,10668,16250,58479.77683,61517.70015,0,Philipines,Y,Car,Visa,Online,9
+CD001673,Male,No,0,Graduate,Facebook,Yes,44000,0,41693.43325,55051.68113,1,Hong Kong,N,Car,Visa,Online,5
+CD001248,Male,No,0,Graduate,Instagram,No,14000,0,22709.42519,88778.82689,1,China,Y,Car,Visa,Online,7
+CD001319,Male,Yes,2,Not Graduate,Tiktok,No,13092,18200,34283.78119,45658.73717,1,Singapore,Y,Car,Visa,Face To Face,1
+CD001432,Male,Yes,2,Graduate,Xiaohungshu,No,11828,0,21117.66346,50138.81489,1,Malaysia,Y,Car,Visa,Face To Face,4
+CD001586,Male,Yes,3,Not Graduate,WeChat,No,14088,0,56476.88921,44137.00946,1,Philipines,N,Car,Visa,Online,8
+CD002161,Female,No,1,Graduate,Weibo,No,18892,0,41423.34133,77405.16037,1,China,N,Car,Visa,Online,2
+CD002367,Female,No,1,Not Graduate,Roadshow,No,18424,0,54640.36749,38461.45177,1,China,N,Car,Visa,Online,10
+CD001119,Male,No,0,Graduate,Email,No,14400,0,32402.46682,58068.55969,1,Philipines,N,Fashion,Visa,Online,10
+CD001693,Female,No,0,Graduate,Mail,No,12976,0,36278.93503,69770.45814,1,Singapore,Y,Fashion,Visa,Online,9
+CD001904,Male,Yes,0,Graduate,Online,No,12412,13000,39121.91021,40606.07977,1,Hong Kong,Y,Fashion,Visa,Online,7
+CD002357,Female,No,0,Not Graduate,Offline,No,10880,0,29854.2549,85048.22951,0,Hong Kong,N,Fashion,Visa,Online,2
+CD002545,Male,No,2,Graduate,TV,No,14188,0,55161.05868,48360.21665,0,China,N,Fashion,Visa,Online,10
+CD002768,Male,No,0,Not Graduate,Facebook,No,13432,0,27779.01485,62265.33002,1,China,N,Fashion,Visa,Online,4
+CD001915,Male,Yes,2,Graduate,Instagram,No,9204,9857.999878,44046.17885,36297.08196,1,China,Y,Fashion,Visa,Online,9
+CD001036,Female,No,0,Graduate,Tiktok,No,14040,0,23603.89891,63858.9767,0,Taiwan,N,Fashion,Visa,Online,8
+CD001658,Male,No,0,Graduate,Xiaohungshu,No,15432,0,45733.15109,72404.7338,1,Hong Kong,Y,Fashion,Visa,Online,7
+CD001123,Male,Yes,0,Graduate,WeChat,No,9600,0,27179.28884,57584.61398,0,China,Y,Fashion,Visa,Online,2
+CD001572,Male,Yes,0,Graduate,Weibo,No,37292,0,46618.38577,46158.88273,1,Singapore,Y,Fashion,Visa,Online,6
+CD002556,Male,No,0,Graduate,Roadshow,No,9740,0,32683.73224,70719.9544,1,Malaysia,N,Fashion,Visa,Online,8
+CD001095,Male,No,0,Graduate,Email,No,12668,0,29590.62714,68235.04812,1,Hong Kong,N,Fashion,Visa,Online,2
+CD001473,Male,No,0,Graduate,Mail,No,8056,19290,41758.80181,37540.34602,1,Taiwan,Y,Fashion,Visa,Face To Face,6
+CD002126,Male,Yes,3,Not Graduate,Online,No,12692,0,22793.67074,48331.10773,1,Hong Kong,Y,Fashion,Visa,Online,3
+CD001636,Male,Yes,0,Graduate,Offline,No,18400,0,43511.31633,50291.26005,1,Singapore,Y,Fashion,Visa,Online,5
+CD001732,Male,Yes,2,Graduate,TV,No,20000,0,49173.55623,37475.08369,0,Singapore,N,Student Visa,Visa,Online,2
+CD002100,Male,No,0,Graduate,Facebook,No,11332,0,42017.40726,58710.67037,1,Singapore,Y,Student Visa,Visa,Online,1
+CD002114,Female,No,0,Graduate,Instagram,No,16640,0,57276.88588,70664.56798,1,Malaysia,Y,Student Visa,Visa,Online,2
+CD002224,Male,No,0,Graduate,Tiktok,No,12276,0,45377.88357,45211.74014,1,China,N,Student Visa,Visa,Online,2
+CD002277,Female,No,0,Graduate,Xiaohungshu,No,12720,0,43017.45385,60627.93836,0,China,N,Student Visa,Visa,Online,4
+CD002978,Female,No,0,Graduate,WeChat,No,11600,0,47461.19903,50384.00746,1,Malaysia,Y,Student Visa,Visa,Online,8
+CD001024,Male,Yes,2,Graduate,Weibo,No,12800,7000,22245.16274,37394.32384,1,Philipines,N,Paypal Cash Advance,AE,Face To Face,6
+CD001478,Male,No,0,Graduate,Roadshow,No,10872,0,34059.05687,68987.5327,1,China,N,Paypal Cash Advance,AE,Face To Face,3
+CD001516,Female,Yes,2,Graduate,Email,No,59464,0,23579.19136,33830.48736,1,Singapore,N,Paypal Cash Advance,AE,Face To Face,2
+CD002106,Male,Yes,0,Graduate,Mail,Yes,22012,44900,50675.25578,51228.90447,1,Taiwan,N,Paypal Cash Advance,AE,Online,4
+CD002500,Male,Yes,3,Not Graduate,Online,No,11788,16640,54528.93495,75345.80374,0,Philipines,N,Student Visa,Visa,Online,9
+CD002648,Male,Yes,0,Graduate,Offline,No,8520,66660,53268.45658,40453.35659,1,Malaysia,N,Student Visa,Visa,Online,6
+CD002836,Male,No,0,Graduate,TV,No,13332,0,31977.82101,38659.46214,1,Singapore,Y,Student Visa,Visa,Online,10
+CD002917,Female,No,0,Not Graduate,Facebook,No,8660,0,43479.71245,69903.78288,1,Taiwan,Y,Student Visa,Visa,Online,6
+CD001634,Male,No,0,Graduate,Instagram,No,7664,50630,23099.95878,67708.53456,0,Hong Kong,N,Paypal Cash Advance,AE,Online,9
+CD002087,Female,No,0,Graduate,Tiktok,No,10000,0,46770.93907,42215.61319,1,Taiwan,N,Paypal Cash Advance,Paypal,Online,2
+CD002151,Male,Yes,1,Graduate,Xiaohungshu,No,15500,0,45341.45014,75516.80566,1,Malaysia,N,Paypal Cash Advance,Paypal,Online,10
+CD001005,Male,Yes,0,Graduate,WeChat,Yes,12000,0,27763.18187,72132.79507,1,Singapore,N,Paypal Payment,Paypal,Face To Face,7
+CD001641,Male,Yes,1,Graduate,Weibo,Yes,8712,0,49067.01761,81191.97143,0,China,N,Paypal Payment,Paypal,Online,2
+CD002314,Female,No,0,Not Graduate,Roadshow,No,8852,0,46235.65534,75962.85277,1,Taiwan,N,Paypal Cash Advance,Paypal,Online,10
+CD002739,Male,Yes,0,Not Graduate,Email,No,11668,5360,45014.08907,35903.47572,1,Philipines,N,Paypal Cash Advance,Paypal,Online,6
+CD002296,Male,No,0,Not Graduate,Mail,No,11020,0,22330.33797,57721.84651,1,Taiwan,N,Paypal Payment,Paypal,Online,8
+CD001579,Male,No,0,Graduate,Online,No,8948,0,50309.49226,44661.10531,0,China,N,Paypal Payment,Paypal,Online,6
+CD002318,Female,No,1,Not Graduate,Offline,Yes,15468,0,45472.97911,75926.51969,1,Singapore,N,Paypal Payment,Paypal,Online,9
+CD002898,Male,Yes,1,Graduate,TV,No,7520,0,56322.74891,85697.08034,0,Hong Kong,N,Paypal Payment,Paypal,Online,5
+CD001736,Male,Yes,0,Graduate,Facebook,No,8884,0,28533.7979,45843.34729,0,Philipines,N,Paypal Payment,Paypal,Online,4
+CD002337,Female,No,0,Graduate,Instagram,No,11980,0,46034.73001,74310.27261,1,Hong Kong,N,Paypal Payment,Paypal,Online,3
+CD002370,Male,No,0,Not Graduate,Tiktok,No,10868,0,44431.59488,48817.4863,1,Malaysia,N,Paypal Payment,Paypal,Online,1
+CD002447,Male,Yes,2,Not Graduate,Xiaohungshu,No,7832,14560,23164.27765,47166.56296,0,Hong Kong,N,Paypal Payment,Paypal,Online,1
+CD001699,Male,No,0,Graduate,WeChat,No,9916,0,34527.8835,71485.99109,1,Philipines,N,Paypal Payment,Paypal,Online,3
+CD001643,Male,Yes,0,Graduate,Weibo,No,9532,21380,34193.5501,40376.96874,0,Hong Kong,N,Paypal Payment,Paypal,Online,9
+CD002006,Female,No,0,Graduate,Roadshow,No,10028,0,35687.11357,79422.48287,1,China,N,Paypal Payment,Paypal,Online,2
+CD002928,Male,Yes,0,Graduate,Email,No,12000,34160,38142.99046,40463.54177,1,Singapore,N,Paypal Payment,Paypal,Online,7
+CD001698,Male,No,0,Not Graduate,Mail,No,15900,25310,42938.83345,73484.66436,1,Malaysia,Y,Personal Visa,Visa,Online,9
+CD002194,Female,No,0,Graduate,Online,Yes,63036,0,38822.77641,78317.17088,1,Philipines,Y,Personal Visa,Visa,Online,5
+CD002435,Male,Yes,0,Graduate,Offline,No,14156,13760,54556.89088,76675.6343,1,Malaysia,N,Personal Visa,Visa,Online,2
+CD002690,Male,No,0,Graduate,TV,No,10000,0,44964.1199,47897.57495,1,Taiwan,N,Paypal Payment,Paypal,Online,4
+CD001917,Female,No,0,Graduate,Facebook,No,7244,16660,30751.63806,72889.93865,1,Hong Kong,Y,Personal Visa,Visa,Online,6
+CD002300,Female,No,0,Not Graduate,Instagram,No,7852,0,46271.27939,85805.28559,1,Hong Kong,Y,Personal Visa,Visa,Online,7
+CD001275,Male,Yes,1,Graduate,Tiktok,No,15952,0,46231.18175,60797.40038,1,China,Y,Personal Visa,Visa,Online,4
+CD001333,Male,Yes,0,Graduate,Xiaohungshu,No,7908,9970,49346.8162,83341.05105,1,Hong Kong,Y,Personal Visa,Visa,Face To Face,2
+CD001535,Male,No,0,Graduate,WeChat,No,13016,0,41015.16313,88152.91844,1,Philipines,Y,Personal Visa,Visa,Face To Face,2
+CD002398,Male,No,0,Graduate,Weibo,No,7704,18510,41872.77398,70122.41096,1,Philipines,Y,Personal Visa,Visa,Online,9
+CD001653,Male,No,0,Not Graduate,Roadshow,No,19540,0,21621.26389,41983.81806,1,Philipines,Y,Personal Visa,Visa,Online,1
+CD001120,Male,No,0,Graduate,Email,No,7200,12130,32888.93231,31400.39159,1,Taiwan,Y,Personal Visa,Visa,Online,10
+CD002116,Female,No,0,Graduate,Mail,No,9512,0,52241.3623,47362.10503,1,Taiwan,N,Personal Visa,Visa,Online,8
+CD002288,Male,Yes,2,Not Graduate,Online,No,11556,0,24795.8544,32148.73366,0,Philipines,N,Personal Visa,Visa,Online,2
+CD002689,Male,Yes,2,Not Graduate,Offline,No,8768,17420,23291.48359,43047.33415,1,Philipines,Y,Personal Visa,Visa,Online,6
+CD001138,Male,Yes,1,Graduate,TV,No,22596,0,43138.68637,71996.67253,1,Philipines,Y,Personal Visa,Visa,Online,8
+CD001430,Female,No,0,Graduate,Facebook,No,16664,0,30398.13826,49640.65604,1,Hong Kong,Y,Personal Visa,Visa,Face To Face,5
+CD001768,Male,Yes,0,Graduate,Instagram,No,14864,0,21157.16997,63418.50974,1,Malaysia,Y,Personal Visa,Visa,Online,7
+CD001002,Male,No,0,Graduate,Tiktok,No,23396,0,32598.60438,50490.79189,1,China,N,Paypal Cash Advance,Paypal,Face To Face,7
+CD001106,Male,Yes,0,Graduate,Xiaohungshu,No,9100,20670,49702.07515,30028.58541,1,Taiwan,N,Paypal Cash Advance,Paypal,Online,2
+CD001213,Male,Yes,1,Graduate,WeChat,No,19780,0,50418.46297,63417.43321,0,Malaysia,N,Paypal Cash Advance,Paypal,Online,8
+CD002634,Female,No,1,Graduate,Weibo,No,53048,0,22507.87901,63231.6531,1,Taiwan,Y,Personal Visa,Visa,Online,4
+CD002979,Male,Yes,3,Graduate,Roadshow,No,16424,0,31143.50542,66223.336,1,Philipines,Y,Personal Visa,Visa,Online,4
+CD002840,Female,No,0,Graduate,Email,No,9512,0,59763.94353,67359.37223,1,Philipines,N,Personal Visa,Visa,Online,7
+CD001030,Male,Yes,2,Graduate,Mail,No,5196,10860,43714.79859,75095.18291,1,Singapore,Y,Personal Visa,Visa,Online,5
+CD001325,Male,No,0,Not Graduate,Online,No,14480,0,23270.69423,76309.34198,1,Philipines,Y,Personal Visa,Visa,Face To Face,2
+CD001482,Male,Yes,0,Graduate,Offline,Yes,13836,0,52978.86792,41646.61028,1,Hong Kong,Y,Personal Visa,Visa,Face To Face,3
+CD002792,Male,Yes,1,Graduate,TV,No,21872,10320,58155.69042,35160.60898,1,Malaysia,Y,Personal Visa,Visa,Online,5
+CD001518,Male,Yes,1,Graduate,Facebook,No,6152,14250,26414.41377,61483.17833,1,Malaysia,Y,Personal Visa,Visa,Face To Face,5
+CD001888,Female,No,0,Graduate,Instagram,No,12948,0,40705.45117,64620.77838,1,China,Y,Personal Visa,Visa,Online,2
+CD001086,Male,No,0,Not Graduate,Tiktok,No,5768,0,33295.42075,80764.99583,1,Philipines,N,Personal Visa,Visa,Online,8
+CD002894,Female,Yes,0,Graduate,Xiaohungshu,No,12664,0,43815.31367,78687.92001,1,China,Y,Personal Visa,Visa,Online,9
+CD001266,Male,Yes,1,Graduate,WeChat,Yes,9580,0,58702.90337,59456.28653,1,Malaysia,Y,Student Visa,Visa,Online,6
+CD001326,Male,No,0,Graduate,Weibo,No,27128,0,41990.5221,71320.41433,0,Taiwan,N,Student Visa,Visa,Face To Face,9
+CD001350,Male,Yes,0,Graduate,Roadshow,No,54600,0,36571.60587,32850.42278,1,China,Y,Student Visa,Visa,Face To Face,7
+CD001356,Male,Yes,0,Graduate,Email,No,18608,35830,22262.23945,85919.97877,1,Hong Kong,Y,Student Visa,Visa,Face To Face,2
+CD001392,Female,No,1,Graduate,Mail,Yes,29804,0,31481.34659,61501.63535,1,Taiwan,Y,Student Visa,Visa,Face To Face,2
+CD001449,Male,No,0,Graduate,Online,No,15460,16400,25440.01393,85669.28308,1,Hong Kong,Y,Student Visa,Visa,Face To Face,1
+CD001682,Male,Yes,3,Not Graduate,Offline,No,15968,0,39206.718,31728.61403,1,Philipines,N,Student Visa,Visa,Online,5
+CD001922,Male,Yes,0,Graduate,TV,No,82668,0,33148.66664,34342.4068,1,Singapore,N,Student Visa,Visa,Online,5
+CD001990,Male,No,0,Not Graduate,Facebook,No,8000,0,33623.47048,69778.55876,1,Taiwan,N,Student Visa,Visa,Online,2
+CD002054,Male,Yes,2,Not Graduate,Instagram,No,14404,15900,47396.26278,67117.59034,1,Philipines,Y,Student Visa,Visa,Online,10
+CD002113,Female,No,3,Not Graduate,Tiktok,No,7320,0,55081.07739,86918.56469,0,Singapore,N,Fashion,Visa,Online,3
+CD002243,Male,Yes,0,Not Graduate,Xiaohungshu,No,12040,31360,30835.08211,71282.40362,0,Malaysia,N,Fashion,Visa,Online,4
+CD002393,Female,Yes,0,Graduate,WeChat,No,40188,0,53585.70356,64878.3515,1,Malaysia,Y,Fashion,Visa,Online,4
+CD002401,Male,Yes,0,Graduate,Weibo,No,8852,11250,31841.49076,35092.58864,1,Taiwan,Y,Fashion,Visa,Online,8
+CD002533,Male,Yes,2,Graduate,Roadshow,No,11788,16030,47568.42389,61241.38677,1,Taiwan,N,Fashion,Visa,Online,8
+CD002697,Male,No,0,Graduate,Email,No,18720,20870,49563.91069,33124.85501,1,Singapore,N,Fashion,Visa,Online,9
+CD002778,Male,Yes,2,Graduate,Mail,Yes,26532,0,43585.39139,78990.68209,0,Philipines,N,Fashion,Visa,Online,7
+CD002784,Male,Yes,1,Not Graduate,Online,No,9968,23750,22919.32523,47222.89475,1,Taiwan,Y,Fashion,Visa,Online,7
+CD002960,Male,Yes,0,Not Graduate,Offline,No,9600,38000,21820.12335,77860.61892,1,Taiwan,N,Personal Visa,Visa,Online,2

@@ -1,0 +1,615 @@
+MarketID,MarketSize,LocationID,In-stock-week,Promotion-days,Shipping_week,Sales_YTD,Sales_2022,Sales_2021,Costs,Product,Import_from,Out_of_stock,Category,Last_Evaluation,Satisfaction_Level,Shops_Area
+1,Medium,1,4,3,3,18949,13304,15987,8839,"Food, alcoholic drinks and tobacco (other than supermarkets)",China,N,Food,0.48,0.55,Hong Kong
+1,Medium,1,4,3,1,15260,10310,13858,8339," Fish, livestock and poultry, fresh or frozen",China,N,Food,0.48,0.55,Kowloon
+1,Medium,1,4,3,2,10841,10581,11471,8979," Fruits and vegetables, fresh",Philipines,N,Food,0.48,0.55,New Territories
+1,Medium,1,4,3,4,19782,18486,19472,8763," Bread, pastry, confectionery and biscuits",Italy,N,Food,0.49,0.55,Lantau
+1,Medium,2,5,2,4,13087,13731,10896,9945, Other food not elsewhere classified,Philipines,N,Food,0.49,0.56,Cheung Chau
+1,Medium,2,5,2,1,3883,3868,3306,1061, Alcoholic drinks and tobacco,France,N,Drinks and tabacco,0.49,0.55,Hong Kong
+1,Medium,2,5,2,3,10145,11801,13910,8086,Supermarkets,Malaysia,N,Supermakets,0.49,0.55,Kowloon
+1,Medium,2,5,2,2,11899,13683,13642,9786,Fuels,China,N,Fuels,0.49,0.55,New Territories
+1,Medium,3,12,1,4,10074,19338,17453,9935,"Clothing, footwear and allied products",China,N,Clothing,0.5,0.56,Lantau
+1,Medium,3,12,1,2,15880,14910,17704,9605, Wearing apparel,Philipines,N,Clothing,0.49,0.56,Cheung Chau
+1,Medium,3,12,1,1,16687,13907,17430,9460," Footwear, allied products and other clothing accessories",China,N,Clothing,0.49,0.56,Hong Kong
+1,Medium,3,12,1,3,17797,19037,12403,9353,Consumer durable goods,China,N,Goods,0.49,0.56,Kowloon
+1,Medium,4,1,2,3,12354,10982,19409,9383, Motor vehicles and parts,Philipines,N,Motor,0.5,0.56,New Territories
+1,Medium,4,1,2,4,10856,15541,16712,8015, Furniture and fixtures,Malaysia,N,Furniture,0.5,0.56,Lantau
+1,Medium,4,1,2,1,18357,19885,10333,9168, Electrical goods and other consumer durable goods not elsewhere classified,China,N,Eletrical,0.5,0.56,Cheung Chau
+1,Medium,4,1,2,2,19037,17652,14577,9889,Department stores,Singapore,N,Department stores,0.5,0.56,Hong Kong
+1,Medium,5,10,2,4,19290,19681,13887,8003,"Jewellery, watches and clocks, and valuable gifts",Taiwan,N,Jewellery,0.51,0.56,Kowloon
+1,Medium,5,10,2,2,13684,18629,16643,8715,Other consumer goods,Hong Kong,N,Other,0.5,0.56,New Territories
+1,Medium,5,10,2,1,17815,13054,19418,9128," Books, newspapers, stationery and gifts",Taiwan,N,Books,0.5,0.56,Lantau
+1,Medium,5,10,2,3,10221,10955,10225,8952, Chinese drugs and herbs,China,N,Drugs,0.5,0.56,Cheung Chau
+1,Medium,6,10,3,2,11185,18005,12168,8223, Optical shops,Malaysia,N,Optical,0.51,0.56,Hong Kong
+1,Medium,6,10,3,4,14056,13594,12046,8126, Medicines and cosmetics,UK,N,Medicines,0.51,0.57,Kowloon
+1,Medium,6,10,3,1,17774,12960,14294,8553, Other consumer goods not elsewhere classified,USA,N,Others goods,0.51,0.56,New Territories
+1,Medium,6,10,3,3,16327,13029,10708,8550,Supermarkets and supermarket sections of department stores&,Taiwan,N,Supermakets,0.51,0.56,Lantau
+1,Medium,7,15,1,4,16174,17464,11057,9733,"Food, alcoholic drinks and tobacco (other than supermarkets)",Taiwan,N,Food,0.52,0.57,Cheung Chau
+1,Medium,7,15,1,2,12914,12259,14491,9285," Fish, livestock and poultry, fresh or frozen",Malaysia,N,Food,0.51,0.57,Hong Kong
+1,Medium,7,15,1,1,10345,16858,16557,9426," Fruits and vegetables, fresh",Malaysia,N,Food,0.51,0.57,Kowloon
+1,Medium,7,15,1,3,16081,13102,18619,8388," Bread, pastry, confectionery and biscuits",Malaysia,N,Food,0.51,0.57,New Territories
+1,Medium,8,10,2,3,17304,15227,15078,9890, Other food not elsewhere classified,Taiwan,N,Food,0.52,0.57,Lantau
+1,Medium,8,10,2,4,3438,2717,3795,1102, Alcoholic drinks and tobacco,Hong Kong,N,Drinks and tabacco,0.52,0.57,Cheung Chau
+1,Medium,8,10,2,2,14547,11499,16291,8419,Supermarkets,Malaysia,N,Supermakets,0.52,0.57,Hong Kong
+1,Medium,8,10,2,1,15665,16984,13096,8068,Fuels,Hong Kong,N,Fuels,0.52,0.57,Kowloon
+1,Medium,9,6,1,1,14376,16584,13659,8709,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.52,0.57,New Territories
+1,Medium,9,6,1,2,14692,16543,12421,8705, Wearing apparel,Taiwan,N,Clothing,0.52,0.57,Lantau
+1,Medium,9,6,1,3,10574,19358,19004,8788," Footwear, allied products and other clothing accessories",Hong Kong,N,Clothing,0.52,0.57,Cheung Chau
+1,Medium,9,6,1,4,13350,16650,18378,8963,Consumer durable goods,USA,N,Goods,0.52,0.57,Hong Kong
+1,Medium,10,5,2,3,12094,14031,19779,8868, Motor vehicles and parts,China,N,Motor,0.53,0.57,Kowloon
+1,Medium,10,5,2,2,15421,10983,18384,9517, Furniture and fixtures,Netherlands,N,Furniture,0.53,0.57,New Territories
+1,Medium,10,5,2,1,10126,16833,18756,8760, Electrical goods and other consumer durable goods not elsewhere classified,Australia,N,Eletrical,0.52,0.57,Lantau
+1,Medium,10,5,2,4,19822,11481,10776,8409,Department stores,New Zealand,N,Department stores,0.53,0.57,Cheung Chau
+1,Medium,11,5,3,1,14097,11432,13928,9916,"Jewellery, watches and clocks, and valuable gifts",France,N,Jewellery,0.53,0.57,Hong Kong
+1,Medium,11,5,3,3,15704,10780,16776,8937,Other consumer goods,Canada,N,Other,0.53,0.57,Kowloon
+1,Medium,11,5,3,2,18350,16208,17280,9860," Books, newspapers, stationery and gifts",USA,N,Books,0.53,0.57,New Territories
+1,Medium,11,5,3,4,14414,10448,10155,8758, Chinese drugs and herbs,Philipines,N,Drugs,0.53,0.58,Lantau
+1,Medium,12,12,1,1,11964,16620,10251,8613, Optical shops,China,N,Optical,0.53,0.58,Cheung Chau
+1,Medium,12,12,1,2,10569,13475,11383,9437, Medicines and cosmetics,Singapore,N,Medicines,0.53,0.58,Hong Kong
+1,Medium,12,12,1,4,14974,12539,15992,8103, Other consumer goods not elsewhere classified,Singapore,N,Others goods,0.54,0.58,Hong Kong
+1,Medium,12,12,1,3,15008,10904,14756,9214,Supermarkets and supermarket sections of department stores&,China,N,Supermakets,0.53,0.58,Hong Kong
+1,Medium,13,12,1,3,14930,18867,11376,9746,"Food, alcoholic drinks and tobacco (other than supermarkets)",Philipines,N,Food,0.54,0.58,Hong Kong
+1,Medium,13,12,1,2,11104,11623,10791,9190," Fish, livestock and poultry, fresh or frozen",Singapore,N,Food,0.54,0.58,Hong Kong
+1,Medium,13,12,1,4,11520,19177,10598,9836," Fruits and vegetables, fresh",China,N,Food,0.54,0.58,Hong Kong
+1,Medium,13,12,1,1,15459,11693,10514,8604," Bread, pastry, confectionery and biscuits",Philipines,N,Food,0.54,0.58,Hong Kong
+2,Small,101,22,1,4,18602,14404,13267,9902, Other food not elsewhere classified,China,N,Food,0.54,0.58,Hong Kong
+2,Small,101,22,1,2,2629,3773,2068,1437, Alcoholic drinks and tobacco,China,N,Drinks and tabacco,0.54,0.58,Hong Kong
+2,Small,101,22,1,1,14633,19498,13488,8249,Supermarkets,Philipines,N,Supermakets,0.54,0.58,Hong Kong
+2,Small,101,22,1,3,13777,15766,13391,8841,Fuels,Singapore,N,Fuels,0.54,0.58,Hong Kong
+2,Small,102,8,3,3,13890,13425,14789,9464,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.54,0.58,Hong Kong
+2,Small,102,8,3,4,18419,10380,15882,8564, Wearing apparel,Taiwan,N,Clothing,0.55,0.58,Hong Kong
+2,Small,102,8,3,1,15619,17216,13356,8137," Footwear, allied products and other clothing accessories",Singapore,N,Clothing,0.54,0.58,Hong Kong
+2,Small,102,8,3,2,15919,12546,12398,9977,Consumer durable goods,Philipines,N,Goods,0.54,0.58,Hong Kong
+2,Small,103,22,3,2,15173,17140,16982,8127, Motor vehicles and parts,Malaysia,N,Motor,0.55,0.58,Hong Kong
+2,Small,103,22,3,1,12329,19305,18417,8150, Furniture and fixtures,Hong Kong,N,Furniture,0.55,0.58,Hong Kong
+2,Small,103,22,3,4,10720,17502,19715,9685, Electrical goods and other consumer durable goods not elsewhere classified,Hong Kong,N,Eletrical,0.55,0.58,Hong Kong
+2,Small,103,22,3,3,15369,12979,14763,9406,Department stores,Taiwan,N,Department stores,0.55,0.58,Hong Kong
+2,Small,104,19,3,1,11890,18527,12682,8520,"Jewellery, watches and clocks, and valuable gifts",Malaysia,N,Jewellery,0.55,0.58,Hong Kong
+2,Small,104,19,3,3,13243,11474,10808,8674,Other consumer goods,Hong Kong,N,Other,0.55,0.59,Hong Kong
+2,Small,104,19,3,4,19917,11225,11076,9114," Books, newspapers, stationery and gifts",Malaysia,N,Books,0.55,0.59,Hong Kong
+2,Small,104,19,3,2,16304,10647,16346,8852, Chinese drugs and herbs,Taiwan,N,Drugs,0.55,0.59,Hong Kong
+2,Small,105,8,3,4,19600,16775,16954,9826, Optical shops,Hong Kong,N,Optical,0.55,0.59,Hong Kong
+2,Small,105,8,3,2,11669,13919,14634,9262, Medicines and cosmetics,Malaysia,N,Medicines,0.55,0.59,Hong Kong
+2,Small,105,8,3,1,16352,11860,17689,9858, Other consumer goods not elsewhere classified,Hong Kong,N,Others goods,0.55,0.59,Hong Kong
+2,Small,105,8,3,3,18757,11812,18128,8000,Supermarkets and supermarket sections of department stores&,Taiwan,N,Supermakets,0.55,0.59,Hong Kong
+2,Small,106,5,3,3,13446,17408,15445,8429,"Food, alcoholic drinks and tobacco (other than supermarkets)",Hong Kong,N,Food,0.56,0.59,Hong Kong
+2,Small,106,5,3,1,10579,11656,16133,8790," Fish, livestock and poultry, fresh or frozen",Malaysia,N,Food,0.55,0.59,Hong Kong
+2,Small,106,5,3,2,13936,16220,16295,9030," Fruits and vegetables, fresh",Taiwan,N,Food,0.56,0.59,Hong Kong
+2,Small,106,5,3,4,10757,18400,11562,9152," Bread, pastry, confectionery and biscuits",Malaysia,N,Food,0.56,0.59,Hong Kong
+3,Large,201,4,3,4,13392,10233,10088,8205, Other food not elsewhere classified,Australia,N,Food,0.56,0.59,Hong Kong
+3,Large,201,4,3,3,2784,2604,3152,1065, Alcoholic drinks and tobacco,USA,N,Drinks and tabacco,0.56,0.59,Hong Kong
+3,Large,201,4,3,2,14328,11953,10486,9321,Supermarkets,Hong Kong,N,Supermakets,0.56,0.59,Hong Kong
+3,Large,201,4,3,1,11826,11119,17847,8188,Fuels,Taiwan,N,Fuels,0.56,0.59,Hong Kong
+3,Large,202,8,1,3,15051,12421,18516,8706,"Clothing, footwear and allied products",New Zealand,N,Clothing,0.56,0.59,Hong Kong
+3,Large,202,8,1,2,17071,17690,18834,9906, Wearing apparel,China,N,Clothing,0.56,0.59,Hong Kong
+3,Large,202,8,1,1,18453,13389,17370,8041," Footwear, allied products and other clothing accessories",Netherlands,N,Clothing,0.56,0.59,Hong Kong
+3,Large,202,8,1,4,19945,19976,18287,9766,Consumer durable goods,France,N,Goods,0.56,0.59,Hong Kong
+3,Large,203,12,3,2,17680,16832,18820,9446, Motor vehicles and parts,Canada,N,Motor,0.56,0.59,Hong Kong
+3,Large,203,12,3,4,15700,12479,15630,8733, Furniture and fixtures,China,N,Furniture,0.56,0.59,Hong Kong
+3,Large,203,12,3,3,14261,19070,17973,8271, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,N,Eletrical,0.56,0.59,Hong Kong
+3,Large,203,12,3,1,18143,19512,13908,8735,Department stores,USA,N,Department stores,0.56,0.59,Hong Kong
+3,Large,204,1,2,4,10853,14053,15935,8299,"Jewellery, watches and clocks, and valuable gifts",Philipines,N,Jewellery,0.57,0.6,Hong Kong
+3,Large,204,1,2,2,19173,19841,18791,9049,Other consumer goods,China,N,Other,0.57,0.6,Hong Kong
+3,Large,204,1,2,1,15161,10561,12571,9403," Books, newspapers, stationery and gifts",Singapore,N,Books,0.56,0.59,Hong Kong
+3,Large,204,1,2,3,14338,10755,14180,9294, Chinese drugs and herbs,Singapore,N,Drugs,0.57,0.6,Hong Kong
+3,Large,205,19,3,1,14582,15091,19230,9339, Optical shops,Singapore,N,Optical,0.57,0.6,Hong Kong
+3,Large,205,19,3,3,14428,19023,13972,8748, Medicines and cosmetics,China,N,Medicines,0.57,0.6,Hong Kong
+3,Large,205,19,3,4,11533,18499,16095,8838, Other consumer goods not elsewhere classified,Philipines,N,Others goods,0.57,0.6,Hong Kong
+3,Large,205,19,3,2,18147,11571,19286,9056,Supermarkets and supermarket sections of department stores&,Philipines,N,Supermakets,0.57,0.6,Hong Kong
+3,Large,206,11,3,3,18534,10951,18516,8740,"Food, alcoholic drinks and tobacco (other than supermarkets)",China,N,Food,0.57,0.6,Hong Kong
+3,Large,206,11,3,1,10960,17820,12156,9670," Fish, livestock and poultry, fresh or frozen",China,N,Food,0.57,0.6,Hong Kong
+3,Large,206,11,3,2,17416,12429,10469,8979," Fruits and vegetables, fresh",Singapore,N,Food,0.57,0.6,Hong Kong
+3,Large,206,11,3,4,12755,10463,17494,9327," Bread, pastry, confectionery and biscuits",Singapore,N,Food,0.57,0.6,Hong Kong
+3,Large,207,1,3,2,10866,16269,18307,8174, Other food not elsewhere classified,Malaysia,Y,Food,0.57,0.6,Hong Kong
+3,Large,207,1,3,3,3648,2380,2417,1276, Alcoholic drinks and tobacco,Taiwan,N,Drinks and tabacco,0.57,0.6,Hong Kong
+3,Large,207,1,3,1,10479,18349,17860,9587,Supermarkets,Philipines,N,Supermakets,0.57,0.6,Hong Kong
+3,Large,207,1,3,4,17554,17883,17205,8800,Fuels,Hong Kong,N,Fuels,0.57,0.6,Hong Kong
+3,Large,208,1,3,4,15159,19162,10983,9189,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.57,0.6,Hong Kong
+3,Large,208,1,3,2,18119,13954,13116,8670, Wearing apparel,Taiwan,N,Clothing,0.57,0.6,Hong Kong
+3,Large,208,1,3,3,18721,18357,12585,8209," Footwear, allied products and other clothing accessories",Hong Kong,N,Clothing,0.57,0.6,Hong Kong
+3,Large,208,1,3,1,16830,19780,18371,9390,Consumer durable goods,Malaysia,Y,Goods,0.57,0.6,Hong Kong
+3,Large,209,1,1,3,10019,19619,15300,9258, Motor vehicles and parts,Malaysia,N,Motor,0.58,0.6,Hong Kong
+3,Large,209,1,1,1,16104,12202,10282,8086, Furniture and fixtures,Taiwan,N,Furniture,0.57,0.6,Hong Kong
+3,Large,209,1,1,2,17058,11369,19812,8508, Electrical goods and other consumer durable goods not elsewhere classified,Hong Kong,N,Eletrical,0.58,0.6,Hong Kong
+3,Large,209,1,1,4,11394,11031,13499,9332,Department stores,Hong Kong,N,Department stores,0.58,0.6,Hong Kong
+3,Large,210,19,1,1,18746,17152,13302,9729,"Jewellery, watches and clocks, and valuable gifts",Malaysia,N,Jewellery,0.58,0.6,Hong Kong
+3,Large,210,19,1,2,15639,13607,13563,9298,Other consumer goods,Taiwan,N,Other,0.58,0.61,Hong Kong
+3,Large,210,19,1,4,15990,10503,12899,8882," Books, newspapers, stationery and gifts",Malaysia,N,Books,0.58,0.61,Hong Kong
+3,Large,210,19,1,3,18427,16768,12666,8252, Chinese drugs and herbs,Hong Kong,N,Drugs,0.58,0.61,Hong Kong
+3,Large,211,13,2,4,15733,13793,16334,8403, Optical shops,Taiwan,N,Optical,0.58,0.61,Hong Kong
+3,Large,211,13,2,2,15493,15342,15890,8994, Medicines and cosmetics,Hong Kong,N,Medicines,0.58,0.61,Hong Kong
+3,Large,211,13,2,3,12930,17716,16228,9009, Other consumer goods not elsewhere classified,Malaysia,N,Others goods,0.58,0.61,Hong Kong
+3,Large,211,13,2,1,11800,15756,15933,9398,Supermarkets and supermarket sections of department stores&,Taiwan,N,Supermakets,0.58,0.61,Hong Kong
+3,Large,212,3,3,3,17800,14150,14276,9813,"Food, alcoholic drinks and tobacco (other than supermarkets)",Australia,N,Food,0.58,0.61,Hong Kong
+3,Large,212,3,3,4,11421,18974,13275,8529," Fish, livestock and poultry, fresh or frozen",Netherlands,N,Food,0.58,0.61,Hong Kong
+3,Large,212,3,3,1,16309,15335,16020,9077," Fruits and vegetables, fresh",Hong Kong,N,Food,0.58,0.61,Hong Kong
+3,Large,212,3,3,2,11525,18178,11937,8448," Bread, pastry, confectionery and biscuits",USA,N,Food,0.58,0.61,Hong Kong
+3,Large,213,4,2,1,10640,13234,17192,8982, Other food not elsewhere classified,China,Y,Food,0.58,0.61,Hong Kong
+3,Large,213,4,2,2,2011,3573,3994,1346, Alcoholic drinks and tobacco,New Zealand,N,Drinks and tabacco,0.58,0.61,Hong Kong
+3,Large,213,4,2,3,10482,10368,16811,8742,Supermarkets,France,N,Supermakets,0.58,0.61,Hong Kong
+3,Large,213,4,2,4,17353,15401,16295,9033,Fuels,USA,N,Fuels,0.58,0.61,Hong Kong
+3,Large,214,5,1,2,15629,14281,15479,8100,"Clothing, footwear and allied products",Philipines,N,Clothing,0.58,0.61,Hong Kong
+3,Large,214,5,1,4,15101,16923,18930,8412, Wearing apparel,Singapore,N,Clothing,0.59,0.61,Hong Kong
+3,Large,214,5,1,1,10012,19536,15486,8740," Footwear, allied products and other clothing accessories",Canada,N,Clothing,0.58,0.61,Hong Kong
+3,Large,214,5,1,3,16062,12440,16266,8327,Consumer durable goods,China,N,Goods,0.58,0.61,Hong Kong
+3,Large,215,7,2,2,16360,15980,14693,8177, Motor vehicles and parts,Singapore,N,Motor,0.59,0.61,Hong Kong
+3,Large,215,7,2,4,13481,19060,11783,8475, Furniture and fixtures,Singapore,N,Furniture,0.59,0.61,Hong Kong
+3,Large,215,7,2,3,18786,11572,15930,9189, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,Y,Eletrical,0.59,0.61,Hong Kong
+3,Large,215,7,2,1,18819,13205,17964,8864,Department stores,China,N,Department stores,0.59,0.61,Hong Kong
+3,Large,216,4,3,2,15800,10603,16486,9182,"Jewellery, watches and clocks, and valuable gifts",China,N,Jewellery,0.59,0.61,Hong Kong
+3,Large,216,4,3,4,11628,15018,13013,9460,Other consumer goods,China,N,Other,0.59,0.62,Hong Kong
+3,Large,216,4,3,3,14209,15180,19146,8606," Books, newspapers, stationery and gifts",Philipines,N,Books,0.59,0.61,Hong Kong
+3,Large,216,4,3,1,15510,15474,18198,9181, Chinese drugs and herbs,Philipines,N,Drugs,0.59,0.61,Hong Kong
+3,Large,217,5,3,2,12085,11727,12304,8129, Optical shops,China,N,Optical,0.59,0.62,Hong Kong
+3,Large,217,5,3,4,10180,15760,11967,9559, Medicines and cosmetics,Philipines,N,Medicines,0.59,0.62,Hong Kong
+3,Large,217,5,3,3,12170,11682,19807,9507, Other consumer goods not elsewhere classified,Singapore,N,Others goods,0.59,0.62,Hong Kong
+3,Large,217,5,3,1,17518,19804,13976,8629,Supermarkets and supermarket sections of department stores&,Singapore,N,Supermakets,0.59,0.62,Hong Kong
+3,Large,218,2,1,3,11765,15176,16461,9317,"Food, alcoholic drinks and tobacco (other than supermarkets)",Hong Kong,N,Food,0.59,0.62,Hong Kong
+3,Large,218,2,1,2,12289,16471,13870,9163," Fish, livestock and poultry, fresh or frozen",Taiwan,N,Food,0.59,0.62,Hong Kong
+3,Large,218,2,1,4,16295,14190,13948,9197," Fruits and vegetables, fresh",Malaysia,Y,Food,0.59,0.62,Hong Kong
+3,Large,218,2,1,1,16708,14317,17174,9771," Bread, pastry, confectionery and biscuits",Malaysia,N,Food,0.59,0.62,Hong Kong
+3,Large,219,7,2,1,14004,10794,15927,9581, Other food not elsewhere classified,Taiwan,N,Food,0.59,0.62,Hong Kong
+3,Large,219,7,2,4,2727,2887,2177,1243, Alcoholic drinks and tobacco,Taiwan,N,Drinks and tabacco,0.59,0.62,Hong Kong
+3,Large,219,7,2,2,17847,11056,18037,8212,Supermarkets,Hong Kong,N,Supermakets,0.59,0.62,Hong Kong
+3,Large,219,7,2,3,16034,11101,12490,8948,Fuels,Malaysia,N,Fuels,0.59,0.62,Hong Kong
+3,Large,220,3,1,4,17726,10167,13451,9552,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.6,0.62,Hong Kong
+3,Large,220,3,1,1,17077,13031,13864,8608, Wearing apparel,Hong Kong,N,Clothing,0.59,0.62,Hong Kong
+3,Large,220,3,1,2,15293,18603,17920,8206," Footwear, allied products and other clothing accessories",Malaysia,N,Clothing,0.59,0.62,Hong Kong
+3,Large,220,3,1,3,13126,15523,10951,8250,Consumer durable goods,Hong Kong,N,Goods,0.59,0.62,Hong Kong
+3,Large,221,23,2,2,12800,17192,13627,8101, Motor vehicles and parts,Hong Kong,N,Motor,0.6,0.62,Hong Kong
+3,Large,221,23,2,4,16302,11126,14787,9668, Furniture and fixtures,Taiwan,N,Furniture,0.6,0.62,Hong Kong
+3,Large,221,23,2,3,13990,14855,17307,8062, Electrical goods and other consumer durable goods not elsewhere classified,Malaysia,N,Eletrical,0.6,0.62,Hong Kong
+3,Large,221,23,2,1,18807,18034,14479,8145,Department stores,Taiwan,N,Department stores,0.6,0.62,Cheung Chau
+3,Large,222,6,1,3,14561,15926,11896,8859,"Jewellery, watches and clocks, and valuable gifts",Taiwan,Y,Jewellery,0.6,0.62,Hong Kong
+3,Large,222,6,1,2,17772,17361,17982,9196,Other consumer goods,Malaysia,N,Other,0.6,0.62,Kowloon
+3,Large,222,6,1,4,19254,13641,19838,8860," Books, newspapers, stationery and gifts",Hong Kong,N,Books,0.6,0.62,Kowloon
+3,Large,222,6,1,1,14655,14800,12693,8807, Chinese drugs and herbs,Hong Kong,N,Drugs,0.6,0.62,Kowloon
+4,Small,301,1,2,2,19548,14867,12950,8639, Optical shops,Australia,N,Optical,0.6,0.62,Kowloon
+4,Small,301,1,2,1,10734,16558,14888,8712, Medicines and cosmetics,USA,N,Medicines,0.6,0.62,Kowloon
+4,Small,301,1,2,3,15066,19089,16662,9177, Other consumer goods not elsewhere classified,Netherlands,N,Others goods,0.6,0.62,Kowloon
+4,Small,301,1,2,4,16084,13237,18112,9429,Supermarkets and supermarket sections of department stores&,China,N,Supermakets,0.6,0.63,Kowloon
+4,Small,302,7,3,3,17152,18218,17613,9921,"Food, alcoholic drinks and tobacco (other than supermarkets)",USA,N,Food,0.6,0.63,Kowloon
+4,Small,302,7,3,1,13620,15641,11616,9643," Fish, livestock and poultry, fresh or frozen",New Zealand,N,Food,0.6,0.63,Kowloon
+4,Small,302,7,3,2,13869,11289,11013,8828," Fruits and vegetables, fresh",France,N,Food,0.6,0.63,Kowloon
+4,Small,302,7,3,4,10267,15547,13977,8892," Bread, pastry, confectionery and biscuits",Canada,N,Food,0.6,0.63,Kowloon
+4,Small,303,9,1,1,14749,16680,14841,9281, Other food not elsewhere classified,Philipines,N,Food,0.6,0.63,Kowloon
+4,Small,303,9,1,3,2602,2268,3373,1122, Alcoholic drinks and tobacco,Singapore,Y,Drinks and tabacco,0.6,0.63,Kowloon
+4,Small,303,9,1,2,18925,16388,15790,8771,Supermarkets,China,N,Supermakets,0.6,0.63,Kowloon
+4,Small,303,9,1,4,10303,10013,19723,9339,Fuels,China,N,Fuels,0.6,0.63,Kowloon
+4,Small,304,3,1,1,10447,15304,19775,8964,"Clothing, footwear and allied products",Singapore,N,Clothing,0.6,0.63,Kowloon
+4,Small,304,3,1,4,18826,14729,10819,9970, Wearing apparel,Philipines,N,Clothing,0.61,0.63,Kowloon
+4,Small,304,3,1,3,12510,11370,17364,9394," Footwear, allied products and other clothing accessories",Singapore,N,Clothing,0.6,0.63,Kowloon
+4,Small,304,3,1,2,12788,17564,17039,8909,Consumer durable goods,Philipines,N,Goods,0.6,0.63,Kowloon
+4,Small,305,2,2,1,18534,17651,16194,8762, Motor vehicles and parts,China,N,Motor,0.61,0.63,Kowloon
+4,Small,305,2,2,3,18777,10503,19130,9749, Furniture and fixtures,China,Y,Furniture,0.61,0.63,Kowloon
+4,Small,305,2,2,2,11902,10580,13658,9582, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,N,Eletrical,0.61,0.63,Kowloon
+4,Small,305,2,2,4,11773,12024,17443,8461,Department stores,Singapore,N,Department stores,0.61,0.63,Kowloon
+4,Small,306,13,1,1,14013,17808,11847,8864,"Jewellery, watches and clocks, and valuable gifts",China,N,Jewellery,0.61,0.63,Kowloon
+4,Small,306,13,1,3,13723,10825,12710,8877,Other consumer goods,Philipines,N,Other,0.61,0.63,Kowloon
+4,Small,306,13,1,4,12317,17171,17933,9912," Books, newspapers, stationery and gifts",Malaysia,N,Books,0.61,0.63,Kowloon
+4,Small,306,13,1,2,18840,17747,11031,9225, Chinese drugs and herbs,Singapore,N,Drugs,0.61,0.63,Kowloon
+4,Small,307,7,2,3,14134,11568,17087,8330, Optical shops,Malaysia,N,Optical,0.61,0.63,Kowloon
+4,Small,307,7,2,1,16131,18359,11196,8606, Medicines and cosmetics,Taiwan,N,Medicines,0.61,0.63,Kowloon
+4,Small,307,7,2,2,10072,11139,10463,8530, Other consumer goods not elsewhere classified,Hong Kong,N,Others goods,0.61,0.63,Kowloon
+4,Small,307,7,2,4,10540,13290,15819,9728,Supermarkets and supermarket sections of department stores&,Taiwan,N,Supermakets,0.61,0.63,Kowloon
+4,Small,308,28,2,3,17171,12919,11052,8278,"Food, alcoholic drinks and tobacco (other than supermarkets)",Taiwan,N,Food,0.61,0.63,Kowloon
+4,Small,308,28,2,4,10248,13750,19323,9416," Fish, livestock and poultry, fresh or frozen",Hong Kong,N,Food,0.61,0.63,Kowloon
+4,Small,308,28,2,1,12099,19858,15143,8911," Fruits and vegetables, fresh",Hong Kong,Y,Food,0.61,0.63,Kowloon
+4,Small,308,28,2,2,14684,12441,13567,9512," Bread, pastry, confectionery and biscuits",Malaysia,N,Food,0.61,0.63,Kowloon
+4,Small,309,8,1,3,12548,17379,12185,8580, Other food not elsewhere classified,Malaysia,N,Food,0.61,0.64,Kowloon
+4,Small,309,8,1,2,3998,2871,2661,1163, Alcoholic drinks and tobacco,Hong Kong,N,Drinks and tabacco,0.61,0.64,Kowloon
+4,Small,309,8,1,4,18698,13512,11192,9859,Supermarkets,Taiwan,N,Supermakets,0.61,0.64,Kowloon
+4,Small,309,8,1,1,14620,13274,19264,8131,Fuels,Malaysia,N,Fuels,0.61,0.63,Kowloon
+5,Medium,401,5,3,4,14358,15426,17517,8258,"Clothing, footwear and allied products",Hong Kong,N,Clothing,0.61,0.64,Kowloon
+5,Medium,401,5,3,3,15394,17940,17043,8224, Wearing apparel,Taiwan,N,Clothing,0.61,0.64,Kowloon
+5,Medium,401,5,3,2,10724,16493,10379,8333," Footwear, allied products and other clothing accessories",Malaysia,N,Clothing,0.61,0.64,Kowloon
+5,Medium,401,5,3,1,10062,18117,19997,9997,Consumer durable goods,Hong Kong,N,Goods,0.61,0.64,Kowloon
+5,Medium,402,25,2,4,15261,10344,16347,9362, Motor vehicles and parts,USA,N,Motor,0.62,0.64,Kowloon
+5,Medium,402,25,2,1,10669,13782,16178,8272, Furniture and fixtures,Malaysia,N,Furniture,0.61,0.64,Kowloon
+5,Medium,402,25,2,2,14762,14847,10182,8944, Electrical goods and other consumer durable goods not elsewhere classified,Taiwan,N,Eletrical,0.62,0.64,Kowloon
+5,Medium,402,25,2,3,15706,18640,18641,8630,Department stores,Hong Kong,N,Department stores,0.62,0.64,Kowloon
+5,Medium,403,19,2,2,12496,16979,13776,8554,"Jewellery, watches and clocks, and valuable gifts",Netherlands,Y,Jewellery,0.62,0.64,Kowloon
+5,Medium,403,19,2,3,17259,11356,14274,8834,Other consumer goods,China,N,Other,0.62,0.64,Kowloon
+5,Medium,403,19,2,4,16362,11511,15306,8048," Books, newspapers, stationery and gifts",New Zealand,N,Books,0.62,0.64,Kowloon
+5,Medium,403,19,2,1,14614,10234,10168,9957, Chinese drugs and herbs,Australia,N,Drugs,0.62,0.64,Kowloon
+5,Medium,404,8,2,4,14243,17214,14602,9365, Optical shops,Philipines,N,Optical,0.62,0.64,Kowloon
+5,Medium,404,8,2,1,14064,10471,10376,8264, Medicines and cosmetics,France,N,Medicines,0.62,0.64,Kowloon
+5,Medium,404,8,2,2,17744,16802,19816,9648, Other consumer goods not elsewhere classified,USA,N,Others goods,0.62,0.64,Kowloon
+5,Medium,404,8,2,3,10295,10677,10626,9287,Supermarkets and supermarket sections of department stores&,Canada,N,Supermakets,0.62,0.64,Kowloon
+5,Medium,405,4,2,4,16795,12479,10052,8122,"Food, alcoholic drinks and tobacco (other than supermarkets)",Singapore,N,Food,0.62,0.64,Kowloon
+5,Medium,405,4,2,3,12739,14247,19244,8781," Fish, livestock and poultry, fresh or frozen",China,N,Food,0.62,0.64,Kowloon
+5,Medium,405,4,2,1,12096,16816,14425,9408," Fruits and vegetables, fresh",China,N,Food,0.62,0.64,Kowloon
+5,Medium,405,4,2,2,13770,16674,15124,8839," Bread, pastry, confectionery and biscuits",Singapore,N,Food,0.62,0.64,Kowloon
+5,Medium,406,3,2,4,13995,19486,14543,9888, Other food not elsewhere classified,China,N,Food,0.62,0.64,Kowloon
+5,Medium,406,3,2,3,3717,2646,2977,1390, Alcoholic drinks and tobacco,Philipines,N,Drinks and tabacco,0.62,0.64,Kowloon
+5,Medium,406,3,2,1,17380,19523,17089,9562,Supermarkets,Philipines,N,Supermakets,0.62,0.64,Kowloon
+5,Medium,406,3,2,2,18372,17795,12571,8272,Fuels,Singapore,N,Fuels,0.62,0.64,Kowloon
+5,Medium,407,6,3,3,13611,13015,15932,8213,"Clothing, footwear and allied products",Singapore,N,Clothing,0.62,0.64,Kowloon
+5,Medium,407,6,3,1,19963,19947,10389,9338, Wearing apparel,Philipines,N,Clothing,0.62,0.64,Kowloon
+5,Medium,407,6,3,4,15509,14218,13465,8749," Footwear, allied products and other clothing accessories",China,Y,Clothing,0.62,0.64,Kowloon
+5,Medium,407,6,3,2,17620,10247,12545,8624,Consumer durable goods,China,Y,Goods,0.62,0.64,Kowloon
+5,Medium,408,9,2,4,12220,13130,18266,8671, Motor vehicles and parts,Taiwan,Y,Motor,0.62,0.65,Kowloon
+5,Medium,408,9,2,3,14509,12883,13293,9762, Furniture and fixtures,Malaysia,Y,Furniture,0.62,0.65,Kowloon
+5,Medium,408,9,2,2,13868,10857,16452,8433, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,Y,Eletrical,0.62,0.65,Kowloon
+5,Medium,408,9,2,1,18247,19011,18337,8256,Department stores,Singapore,N,Department stores,0.62,0.64,Kowloon
+5,Medium,409,14,2,1,17982,12013,14431,8045,"Jewellery, watches and clocks, and valuable gifts",Hong Kong,N,Jewellery,0.62,0.65,Kowloon
+5,Medium,409,14,2,3,14878,10001,11973,9843,Other consumer goods,Taiwan,N,Other,0.63,0.65,Kowloon
+5,Medium,409,14,2,2,15671,18643,12482,8512," Books, newspapers, stationery and gifts",Malaysia,N,Books,0.63,0.65,Kowloon
+5,Medium,409,14,2,4,14369,16199,12754,8094, Chinese drugs and herbs,Hong Kong,N,Drugs,0.63,0.65,Kowloon
+5,Medium,410,11,1,1,10361,14707,19858,9680, Optical shops,Malaysia,N,Optical,0.63,0.65,Kowloon
+5,Medium,410,11,1,4,13209,13293,12842,9075, Medicines and cosmetics,Malaysia,N,Medicines,0.63,0.65,Kowloon
+5,Medium,410,11,1,2,16360,16120,10785,9393, Other consumer goods not elsewhere classified,Taiwan,N,Others goods,0.63,0.65,Kowloon
+5,Medium,410,11,1,3,16725,17182,15539,8635,Supermarkets and supermarket sections of department stores&,Hong Kong,N,Supermakets,0.63,0.65,Kowloon
+5,Medium,411,23,3,1,13618,10541,19184,8820,"Food, alcoholic drinks and tobacco (other than supermarkets)",Hong Kong,N,Food,0.63,0.65,Kowloon
+5,Medium,411,23,3,4,10333,12965,11654,8694," Fish, livestock and poultry, fresh or frozen",Hong Kong,N,Food,0.63,0.65,Kowloon
+5,Medium,411,23,3,3,16708,17853,10713,8331," Fruits and vegetables, fresh",Taiwan,N,Food,0.63,0.65,Kowloon
+5,Medium,411,23,3,2,11580,18110,18688,9814," Bread, pastry, confectionery and biscuits",Malaysia,N,Food,0.63,0.65,Kowloon
+5,Medium,412,6,1,3,12123,12192,18427,9230, Other food not elsewhere classified,Hong Kong,N,Food,0.63,0.65,Kowloon
+5,Medium,412,6,1,4,3165,3512,2264,1465, Alcoholic drinks and tobacco,Malaysia,N,Drinks and tabacco,0.63,0.65,Kowloon
+5,Medium,412,6,1,1,19844,16959,18384,9300,Supermarkets,Malaysia,N,Supermakets,0.63,0.65,Kowloon
+5,Medium,412,6,1,2,15015,19829,15130,8696,Fuels,Taiwan,N,Fuels,0.63,0.65,Kowloon
+5,Medium,413,1,2,1,10867,19132,18696,9160,"Clothing, footwear and allied products",Taiwan,N,Clothing,0.63,0.65,Kowloon
+5,Medium,413,1,2,4,16784,18226,13278,8145, Wearing apparel,Australia,N,Clothing,0.63,0.65,Kowloon
+5,Medium,413,1,2,2,18592,18755,17210,8434," Footwear, allied products and other clothing accessories",Hong Kong,N,Clothing,0.63,0.65,Kowloon
+5,Medium,413,1,2,3,18616,18988,14850,8829,Consumer durable goods,USA,N,Goods,0.63,0.65,Kowloon
+5,Medium,414,1,3,3,13935,11921,17013,9549, Motor vehicles and parts,New Zealand,Y,Motor,0.63,0.65,Kowloon
+5,Medium,414,1,3,2,17054,18235,15813,8825, Furniture and fixtures,China,N,Furniture,0.63,0.65,Kowloon
+5,Medium,414,1,3,4,19956,13258,13192,8115, Electrical goods and other consumer durable goods not elsewhere classified,France,N,Eletrical,0.63,0.65,Kowloon
+5,Medium,414,1,3,1,14385,17555,19536,8661,Department stores,Netherlands,N,Department stores,0.63,0.65,Kowloon
+5,Medium,415,12,3,2,18117,14065,15027,8252,"Jewellery, watches and clocks, and valuable gifts",Canada,N,Jewellery,0.63,0.65,Kowloon
+5,Medium,415,12,3,4,10911,17195,10772,8972,Other consumer goods,China,N,Other,0.63,0.65,Kowloon
+5,Medium,415,12,3,3,12892,17556,14356,8072," Books, newspapers, stationery and gifts",Philipines,N,Books,0.63,0.65,Kowloon
+5,Medium,415,12,3,1,11707,12802,13206,8534, Chinese drugs and herbs,USA,N,Drugs,0.63,0.65,Kowloon
+6,Medium,501,6,3,1,13978,15216,18700,8134, Optical shops,Singapore,N,Optical,0.63,0.65,Kowloon
+6,Medium,501,6,3,4,16734,16854,14848,9838, Medicines and cosmetics,Philipines,N,Medicines,0.64,0.66,Kowloon
+6,Medium,501,6,3,3,16934,16672,16759,9137, Other consumer goods not elsewhere classified,Singapore,N,Others goods,0.63,0.65,Kowloon
+6,Medium,501,6,3,2,10431,19454,10961,9350,Supermarkets and supermarket sections of department stores&,China,N,Supermakets,0.63,0.65,Kowloon
+6,Medium,502,19,2,2,14314,14348,13373,8362,"Food, alcoholic drinks and tobacco (other than supermarkets)",Philipines,N,Food,0.64,0.66,Kowloon
+6,Medium,502,19,2,1,13662,10095,11375,9789," Fish, livestock and poultry, fresh or frozen",Singapore,N,Food,0.64,0.66,Kowloon
+6,Medium,502,19,2,3,11238,10056,18449,8352," Fruits and vegetables, fresh",China,N,Food,0.64,0.66,Kowloon
+6,Medium,502,19,2,4,17252,14620,15087,8554," Bread, pastry, confectionery and biscuits",Philipines,N,Food,0.64,0.66,Kowloon
+6,Medium,503,2,2,3,12760,18049,12700,8425, Other food not elsewhere classified,China,N,Food,0.64,0.66,Kowloon
+6,Medium,503,2,2,1,2109,3309,2542,1371, Alcoholic drinks and tobacco,China,N,Drinks and tabacco,0.64,0.66,Kowloon
+6,Medium,503,2,2,4,19043,11374,16451,9396,Supermarkets,Singapore,Y,Supermakets,0.64,0.66,Kowloon
+6,Medium,503,2,2,2,10150,14694,13511,9491,Fuels,Singapore,N,Fuels,0.64,0.66,Kowloon
+6,Medium,504,4,1,2,12892,10700,15552,8422,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.64,0.66,New Territories
+6,Medium,504,4,1,1,11311,10971,10663,8869, Wearing apparel,Philipines,N,Clothing,0.64,0.66,Lantau
+6,Medium,504,4,1,3,13923,11447,14205,9367," Footwear, allied products and other clothing accessories",Taiwan,N,Clothing,0.64,0.66,Cheung Chau
+6,Medium,504,4,1,4,14186,11292,19477,8678,Consumer durable goods,Hong Kong,N,Goods,0.64,0.66,Hong Kong
+6,Medium,505,1,2,1,10572,18678,15946,9982, Motor vehicles and parts,Malaysia,N,Motor,0.64,0.66,Kowloon
+6,Medium,505,1,2,3,19088,15879,17603,8912, Furniture and fixtures,Hong Kong,N,Furniture,0.64,0.66,New Territories
+6,Medium,505,1,2,2,16476,14628,19141,8686, Electrical goods and other consumer durable goods not elsewhere classified,Taiwan,N,Eletrical,0.64,0.66,Lantau
+6,Medium,505,1,2,4,10686,15962,19849,9610,Department stores,Malaysia,N,Department stores,0.64,0.66,Cheung Chau
+6,Medium,506,12,2,4,10208,11712,19167,8688,"Jewellery, watches and clocks, and valuable gifts",Hong Kong,N,Jewellery,0.64,0.66,Hong Kong
+6,Medium,506,12,2,3,13947,19644,19621,8142,Other consumer goods,Malaysia,Y,Other,0.64,0.66,Kowloon
+6,Medium,506,12,2,2,16232,13013,13250,8390," Books, newspapers, stationery and gifts",Hong Kong,N,Books,0.64,0.66,New Territories
+6,Medium,506,12,2,1,12253,19003,12482,9134, Chinese drugs and herbs,Taiwan,N,Drugs,0.64,0.66,New Territories
+6,Medium,507,5,2,2,16202,12173,14456,8228, Optical shops,Taiwan,N,Optical,0.64,0.66,New Territories
+6,Medium,507,5,2,4,11017,19472,13120,8348, Medicines and cosmetics,Malaysia,N,Medicines,0.64,0.66,New Territories
+6,Medium,507,5,2,3,17489,18666,19333,8906, Other consumer goods not elsewhere classified,Hong Kong,N,Others goods,0.64,0.66,New Territories
+6,Medium,507,5,2,1,13314,15009,18184,8165,Supermarkets and supermarket sections of department stores&,Malaysia,N,Supermakets,0.64,0.66,New Territories
+6,Medium,508,5,3,4,18347,17378,18018,9035,"Food, alcoholic drinks and tobacco (other than supermarkets)",Taiwan,N,Food,0.64,0.66,New Territories
+6,Medium,508,5,3,2,18800,10232,14625,8566," Fish, livestock and poultry, fresh or frozen",Hong Kong,N,Food,0.64,0.66,New Territories
+6,Medium,508,5,3,3,13477,12371,17693,9981," Fruits and vegetables, fresh",Malaysia,N,Food,0.64,0.66,New Territories
+6,Medium,508,5,3,1,17156,15578,12602,9923," Bread, pastry, confectionery and biscuits",Taiwan,Y,Food,0.64,0.66,New Territories
+6,Medium,509,8,1,3,15913,15581,19688,9624, Other food not elsewhere classified,Australia,N,Food,0.64,0.66,New Territories
+6,Medium,509,8,1,1,2206,3300,3301,1299, Alcoholic drinks and tobacco,Hong Kong,N,Drinks and tabacco,0.64,0.66,New Territories
+6,Medium,509,8,1,2,19371,14564,16299,9459,Supermarkets,USA,N,Supermakets,0.64,0.66,New Territories
+6,Medium,509,8,1,4,16542,17843,13171,9586,Fuels,Netherlands,N,Fuels,0.65,0.66,New Territories
+6,Medium,510,7,2,4,12239,15332,15329,8663,"Clothing, footwear and allied products",USA,N,Clothing,0.65,0.67,New Territories
+6,Medium,510,7,2,3,17792,19135,18592,9234, Wearing apparel,France,N,Clothing,0.65,0.66,New Territories
+6,Medium,510,7,2,2,18033,16664,17615,9226," Footwear, allied products and other clothing accessories",New Zealand,N,Clothing,0.65,0.66,New Territories
+6,Medium,510,7,2,1,19309,13551,17644,8157,Consumer durable goods,China,N,Goods,0.65,0.66,New Territories
+6,Medium,511,24,3,2,16244,10382,13487,9841, Motor vehicles and parts,Philipines,N,Motor,0.65,0.67,New Territories
+6,Medium,511,24,3,4,13068,11376,19993,9491, Furniture and fixtures,Singapore,N,Furniture,0.65,0.67,New Territories
+6,Medium,511,24,3,3,14699,13478,14034,9401, Electrical goods and other consumer durable goods not elsewhere classified,China,N,Eletrical,0.65,0.67,New Territories
+6,Medium,511,24,3,1,11315,14710,12775,9809,Department stores,Canada,Y,Department stores,0.65,0.67,New Territories
+6,Medium,512,4,1,4,19492,10088,15941,8216,"Jewellery, watches and clocks, and valuable gifts",Singapore,N,Jewellery,0.65,0.67,New Territories
+6,Medium,512,4,1,1,13865,17131,12509,8145,Other consumer goods,China,N,Other,0.65,0.67,New Territories
+6,Medium,512,4,1,2,16689,19144,13606,9661," Books, newspapers, stationery and gifts",Singapore,N,Books,0.65,0.67,New Territories
+6,Medium,512,4,1,3,15653,10350,14022,8479, Chinese drugs and herbs,Philipines,N,Drugs,0.65,0.67,New Territories
+6,Medium,513,7,1,4,12074,17797,16445,8110, Optical shops,China,N,Optical,0.65,0.67,New Territories
+6,Medium,513,7,1,3,10417,16064,10337,9929, Medicines and cosmetics,Philipines,N,Medicines,0.65,0.67,New Territories
+6,Medium,513,7,1,2,12646,12255,13320,8015, Other consumer goods not elsewhere classified,China,N,Others goods,0.65,0.67,New Territories
+6,Medium,513,7,1,1,15744,13810,19932,9689,Supermarkets and supermarket sections of department stores&,Philipines,N,Supermakets,0.65,0.67,New Territories
+6,Medium,514,6,1,3,19171,17956,12351,9762,"Food, alcoholic drinks and tobacco (other than supermarkets)",Singapore,N,Food,0.65,0.67,New Territories
+6,Medium,514,6,1,4,14707,11550,13868,8420," Fish, livestock and poultry, fresh or frozen",Philipines,N,Food,0.65,0.67,New Territories
+6,Medium,514,6,1,1,17367,10825,16464,9789," Fruits and vegetables, fresh",Singapore,N,Food,0.65,0.67,New Territories
+6,Medium,514,6,1,2,18743,19241,14029,9658," Bread, pastry, confectionery and biscuits",China,N,Food,0.65,0.67,New Territories
+6,Medium,515,8,3,3,11532,11480,18336,8018, Other food not elsewhere classified,Hong Kong,N,Food,0.65,0.67,New Territories
+6,Medium,515,8,3,1,2603,2947,2632,1015, Alcoholic drinks and tobacco,Malaysia,N,Drinks and tabacco,0.65,0.67,New Territories
+6,Medium,515,8,3,2,19376,15054,12277,8998,Supermarkets,Taiwan,N,Supermakets,0.65,0.67,New Territories
+6,Medium,515,8,3,4,12869,13718,18963,8112,Fuels,Malaysia,N,Fuels,0.65,0.67,New Territories
+7,Medium,601,7,3,3,16193,11090,11759,9566,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.65,0.67,New Territories
+7,Medium,601,7,3,4,19856,19223,15067,9294, Wearing apparel,Taiwan,N,Clothing,0.65,0.67,New Territories
+7,Medium,601,7,3,2,19303,10667,11725,8698," Footwear, allied products and other clothing accessories",Hong Kong,Y,Clothing,0.65,0.67,New Territories
+7,Medium,601,7,3,1,18332,15283,15734,8852,Consumer durable goods,Taiwan,N,Goods,0.65,0.67,New Territories
+7,Medium,602,4,3,2,11017,13731,10368,9571, Motor vehicles and parts,Malaysia,N,Motor,0.65,0.67,New Territories
+7,Medium,602,4,3,4,18419,18620,18187,9875, Furniture and fixtures,Malaysia,N,Furniture,0.65,0.67,New Territories
+7,Medium,602,4,3,1,15357,13948,15604,8579, Electrical goods and other consumer durable goods not elsewhere classified,Hong Kong,N,Eletrical,0.65,0.67,New Territories
+7,Medium,602,4,3,3,19742,17517,11666,9550,Department stores,Hong Kong,N,Department stores,0.65,0.67,New Territories
+7,Medium,603,4,2,4,19398,14607,12256,8062,"Jewellery, watches and clocks, and valuable gifts",Taiwan,N,Jewellery,0.66,0.67,New Territories
+7,Medium,603,4,2,2,12961,16321,19019,8738,Other consumer goods,Hong Kong,N,Other,0.66,0.67,New Territories
+7,Medium,603,4,2,1,15381,19817,12595,9454," Books, newspapers, stationery and gifts",Taiwan,N,Books,0.65,0.67,New Territories
+7,Medium,603,4,2,3,11463,18337,19228,9020, Chinese drugs and herbs,Malaysia,N,Drugs,0.66,0.67,New Territories
+7,Medium,604,11,3,1,10633,11635,17434,9679, Optical shops,Hong Kong,N,Optical,0.66,0.67,New Territories
+7,Medium,604,11,3,3,11929,11418,11013,8393, Medicines and cosmetics,Taiwan,N,Medicines,0.66,0.67,New Territories
+7,Medium,604,11,3,4,14499,11657,13982,9912, Other consumer goods not elsewhere classified,Hong Kong,N,Others goods,0.66,0.67,New Territories
+7,Medium,604,11,3,2,10902,15379,17026,9621,Supermarkets and supermarket sections of department stores&,Malaysia,N,Supermakets,0.66,0.67,New Territories
+7,Medium,605,8,3,4,19097,15093,17105,8371,"Food, alcoholic drinks and tobacco (other than supermarkets)",China,Y,Food,0.66,0.68,New Territories
+7,Medium,605,8,3,2,10425,19176,17937,8840," Fish, livestock and poultry, fresh or frozen",Australia,N,Food,0.66,0.68,New Territories
+7,Medium,605,8,3,3,12676,12842,17145,8388," Fruits and vegetables, fresh",Netherlands,N,Food,0.66,0.68,New Territories
+7,Medium,605,8,3,1,14017,10282,18469,9943," Bread, pastry, confectionery and biscuits",USA,N,Food,0.66,0.67,New Territories
+7,Medium,606,8,3,3,13430,13601,11414,9407, Other food not elsewhere classified,USA,N,Food,0.66,0.68,New Territories
+7,Medium,606,8,3,1,2228,3045,2209,1094, Alcoholic drinks and tobacco,New Zealand,N,Drinks and tabacco,0.66,0.68,New Territories
+7,Medium,606,8,3,2,14625,10539,17782,8672,Supermarkets,France,N,Supermakets,0.66,0.68,New Territories
+7,Medium,606,8,3,4,17856,15622,12577,9050,Fuels,Canada,N,Fuels,0.66,0.68,New Territories
+7,Medium,607,3,2,4,16076,15919,17589,8414,"Clothing, footwear and allied products",China,N,Clothing,0.66,0.68,New Territories
+7,Medium,607,3,2,2,10566,17663,14431,8438, Wearing apparel,China,N,Clothing,0.66,0.68,New Territories
+7,Medium,607,3,2,3,12243,12633,15985,8605," Footwear, allied products and other clothing accessories",Singapore,N,Clothing,0.66,0.68,New Territories
+7,Medium,607,3,2,1,12225,18964,13523,8063,Consumer durable goods,Philipines,N,Goods,0.66,0.68,New Territories
+7,Medium,608,18,1,4,13643,14374,18964,9359, Motor vehicles and parts,Philipines,N,Motor,0.66,0.68,New Territories
+7,Medium,608,18,1,1,19609,15968,12537,9078, Furniture and fixtures,Singapore,N,Furniture,0.66,0.68,New Territories
+7,Medium,608,18,1,2,16981,15551,10502,8014, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,N,Eletrical,0.66,0.68,New Territories
+7,Medium,608,18,1,3,17105,11581,18574,9738,Department stores,Singapore,Y,Department stores,0.66,0.68,New Territories
+7,Medium,609,9,1,2,11893,19580,16125,8989,"Jewellery, watches and clocks, and valuable gifts",Philipines,N,Jewellery,0.66,0.68,New Territories
+7,Medium,609,9,1,3,12669,16116,13315,9369,Other consumer goods,China,N,Other,0.66,0.68,New Territories
+7,Medium,609,9,1,1,11542,17780,14955,9213," Books, newspapers, stationery and gifts",China,N,Books,0.66,0.68,New Territories
+7,Medium,609,9,1,4,17246,14277,15918,9695, Chinese drugs and herbs,Singapore,N,Drugs,0.66,0.68,New Territories
+7,Medium,610,4,1,4,10782,11340,15140,8925, Optical shops,Malaysia,N,Optical,0.66,0.68,New Territories
+7,Medium,610,4,1,2,13826,12941,11148,9449, Medicines and cosmetics,Singapore,N,Medicines,0.66,0.68,New Territories
+7,Medium,610,4,1,1,11522,16204,13441,9950, Other consumer goods not elsewhere classified,China,N,Others goods,0.66,0.68,New Territories
+7,Medium,610,4,1,3,16133,10656,13246,8059,Supermarkets and supermarket sections of department stores&,Philipines,N,Supermakets,0.66,0.68,New Territories
+7,Medium,611,11,3,1,14043,19471,16719,9585,"Food, alcoholic drinks and tobacco (other than supermarkets)",Taiwan,Y,Food,0.66,0.68,New Territories
+7,Medium,611,11,3,3,12508,19140,12477,9570," Fish, livestock and poultry, fresh or frozen",Malaysia,N,Food,0.66,0.68,New Territories
+7,Medium,611,11,3,2,11195,16289,18773,9040," Fruits and vegetables, fresh",Hong Kong,N,Food,0.66,0.68,New Territories
+7,Medium,611,11,3,4,14600,14789,18292,9462," Bread, pastry, confectionery and biscuits",Taiwan,N,Food,0.66,0.68,New Territories
+7,Medium,612,1,3,3,15042,18336,10050,8054, Other food not elsewhere classified,Taiwan,N,Food,0.67,0.68,New Territories
+7,Medium,612,1,3,1,3324,2863,3915,1244, Alcoholic drinks and tobacco,Hong Kong,N,Drinks and tabacco,0.66,0.68,New Territories
+7,Medium,612,1,3,4,18066,18853,17432,8099,Supermarkets,Hong Kong,N,Supermakets,0.67,0.68,New Territories
+7,Medium,612,1,3,2,13576,15127,14017,8571,Fuels,Malaysia,Y,Fuels,0.67,0.68,New Territories
+7,Medium,613,18,1,1,11662,12868,11173,8177,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.67,0.68,New Territories
+7,Medium,613,18,1,4,10704,13382,16019,9711, Wearing apparel,Taiwan,N,Clothing,0.67,0.69,New Territories
+7,Medium,613,18,1,2,12731,14885,11244,8559," Footwear, allied products and other clothing accessories",Hong Kong,N,Clothing,0.67,0.69,New Territories
+7,Medium,613,18,1,3,18311,15034,13178,9556,Consumer durable goods,Malaysia,N,Goods,0.67,0.69,Kowloon
+7,Medium,614,8,2,4,15211,14084,14145,9485, Motor vehicles and parts,Hong Kong,N,Motor,0.67,0.69,New Territories
+7,Medium,614,8,2,3,18004,10822,17313,8560, Furniture and fixtures,Taiwan,N,Furniture,0.67,0.69,Lantau
+7,Medium,614,8,2,2,12248,18507,12315,8022, Electrical goods and other consumer durable goods not elsewhere classified,Malaysia,N,Eletrical,0.67,0.69,Cheung Chau
+7,Medium,614,8,2,1,16349,13068,12500,8726,Department stores,Hong Kong,N,Department stores,0.67,0.69,Hong Kong
+7,Medium,615,1,2,2,16048,18746,13653,9665,"Jewellery, watches and clocks, and valuable gifts",Taiwan,N,Jewellery,0.67,0.69,Kowloon
+7,Medium,615,1,2,4,15619,15589,13080,8775,Other consumer goods,USA,N,Other,0.67,0.69,New Territories
+7,Medium,615,1,2,3,10537,11831,19021,9335," Books, newspapers, stationery and gifts",Hong Kong,Y,Books,0.67,0.69,Lantau
+7,Medium,615,1,2,1,18908,12752,13947,8593, Chinese drugs and herbs,Malaysia,N,Drugs,0.67,0.69,Cheung Chau
+8,Medium,701,1,3,4,14949,12757,16076,8668, Optical shops,New Zealand,N,Optical,0.67,0.69,Hong Kong
+8,Medium,701,1,3,3,18769,19485,12793,9342, Medicines and cosmetics,China,N,Medicines,0.67,0.69,Kowloon
+8,Medium,701,1,3,2,13209,10829,19205,8817, Other consumer goods not elsewhere classified,Netherlands,N,Others goods,0.67,0.69,New Territories
+8,Medium,701,1,3,1,14111,11066,11461,8362,Supermarkets and supermarket sections of department stores&,Australia,N,Supermakets,0.67,0.69,Lantau
+8,Medium,702,13,1,2,17681,19614,11964,9886,"Food, alcoholic drinks and tobacco (other than supermarkets)",USA,N,Food,0.67,0.69,Cheung Chau
+8,Medium,702,13,1,3,11478,13589,19406,8574," Fish, livestock and poultry, fresh or frozen",Canada,N,Food,0.67,0.69,Hong Kong
+8,Medium,702,13,1,4,14756,16784,18977,8341," Fruits and vegetables, fresh",Philipines,N,Food,0.67,0.69,Kowloon
+8,Medium,702,13,1,1,18644,17540,16562,8504," Bread, pastry, confectionery and biscuits",France,Y,Food,0.67,0.69,Kowloon
+8,Medium,703,4,1,2,16449,18440,17052,8333, Other food not elsewhere classified,Singapore,N,Food,0.67,0.69,Kowloon
+8,Medium,703,4,1,4,2735,3564,3400,1431, Alcoholic drinks and tobacco,Singapore,N,Drinks and tabacco,0.67,0.69,Kowloon
+8,Medium,703,4,1,1,11122,15828,13507,9159,Supermarkets,China,N,Supermakets,0.67,0.69,Kowloon
+8,Medium,703,4,1,3,17075,15143,13134,9347,Fuels,China,N,Fuels,0.67,0.69,Kowloon
+8,Medium,704,27,1,2,18503,15544,13588,9277,"Clothing, footwear and allied products",Singapore,N,Clothing,0.67,0.69,Kowloon
+8,Medium,704,27,1,4,19846,15245,13309,8869, Wearing apparel,China,N,Clothing,0.67,0.69,Kowloon
+8,Medium,704,27,1,3,10673,19494,15827,8630," Footwear, allied products and other clothing accessories",Philipines,N,Clothing,0.67,0.69,Kowloon
+8,Medium,704,27,1,1,18753,17327,15859,9877,Consumer durable goods,Philipines,N,Goods,0.67,0.69,Kowloon
+8,Medium,705,22,3,4,15363,16586,12919,9242, Motor vehicles and parts,China,N,Motor,0.67,0.7,Kowloon
+8,Medium,705,22,3,3,19616,13733,17299,8360, Furniture and fixtures,Singapore,N,Furniture,0.67,0.69,Kowloon
+8,Medium,705,22,3,1,18088,14212,10051,9143, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,N,Eletrical,0.67,0.69,Kowloon
+8,Medium,705,22,3,2,19132,19845,14559,8882,Department stores,China,Y,Department stores,0.67,0.69,Kowloon
+8,Medium,706,17,3,4,10651,18237,11406,8724,"Jewellery, watches and clocks, and valuable gifts",Taiwan,N,Jewellery,0.68,0.7,Kowloon
+8,Medium,706,17,3,1,18264,12532,10262,8130,Other consumer goods,Singapore,N,Other,0.67,0.7,Kowloon
+8,Medium,706,17,3,3,19472,18454,16186,8011," Books, newspapers, stationery and gifts",Malaysia,N,Books,0.67,0.7,Kowloon
+8,Medium,706,17,3,2,14137,11535,13075,9605, Chinese drugs and herbs,Philipines,N,Drugs,0.67,0.7,Lantau
+8,Medium,707,5,1,2,13551,12135,10001,8409, Optical shops,Malaysia,N,Optical,0.68,0.7,Cheung Chau
+8,Medium,707,5,1,3,12375,10865,17142,9043, Medicines and cosmetics,Taiwan,N,Medicines,0.68,0.7,Hong Kong
+8,Medium,707,5,1,4,14673,15989,14002,9325, Other consumer goods not elsewhere classified,Hong Kong,N,Others goods,0.68,0.7,Kowloon
+8,Medium,707,5,1,1,12253,18871,18061,8054,Supermarkets and supermarket sections of department stores&,Hong Kong,N,Supermakets,0.68,0.7,New Territories
+8,Medium,708,15,2,1,14020,19933,18430,8815,"Food, alcoholic drinks and tobacco (other than supermarkets)",Malaysia,N,Food,0.68,0.7,Lantau
+8,Medium,708,15,2,3,13457,19172,13195,9452," Fish, livestock and poultry, fresh or frozen",Hong Kong,N,Food,0.68,0.7,Lantau
+8,Medium,708,15,2,4,13492,16212,15296,8988," Fruits and vegetables, fresh",Malaysia,N,Food,0.68,0.7,Lantau
+8,Medium,708,15,2,2,12671,18522,16583,8513," Bread, pastry, confectionery and biscuits",Taiwan,N,Food,0.68,0.7,Lantau
+8,Medium,709,1,2,1,18644,15800,17310,9746, Other food not elsewhere classified,Hong Kong,N,Food,0.68,0.7,Lantau
+8,Medium,709,1,2,3,2089,3200,3851,1353, Alcoholic drinks and tobacco,Taiwan,N,Drinks and tabacco,0.68,0.7,Lantau
+8,Medium,709,1,2,4,12336,19755,10943,9800,Supermarkets,Hong Kong,N,Supermakets,0.68,0.7,Lantau
+8,Medium,709,1,2,2,13565,18585,17246,8454,Fuels,Malaysia,N,Fuels,0.68,0.7,Lantau
+8,Medium,710,24,3,3,18930,18275,12500,8609,"Clothing, footwear and allied products",Hong Kong,N,Clothing,0.68,0.7,Lantau
+8,Medium,710,24,3,4,17036,12684,17536,9650, Wearing apparel,Malaysia,N,Clothing,0.68,0.7,Lantau
+8,Medium,710,24,3,2,19385,10687,10709,8303," Footwear, allied products and other clothing accessories",Taiwan,N,Clothing,0.68,0.7,Lantau
+8,Medium,710,24,3,1,11229,16761,19773,9630,Consumer durable goods,Malaysia,N,Goods,0.68,0.7,Lantau
+8,Medium,711,1,1,3,11103,10693,18133,8374, Motor vehicles and parts,USA,N,Motor,0.68,0.7,Lantau
+8,Medium,711,1,1,1,16129,12519,18739,9438, Furniture and fixtures,Taiwan,N,Furniture,0.68,0.7,Lantau
+8,Medium,711,1,1,2,18608,19082,15164,8655, Electrical goods and other consumer durable goods not elsewhere classified,Hong Kong,N,Eletrical,0.68,0.7,Lantau
+8,Medium,711,1,1,4,14201,19773,17795,8288,Department stores,Australia,N,Department stores,0.68,0.7,Lantau
+8,Medium,712,9,3,3,10565,15945,11253,8495,"Jewellery, watches and clocks, and valuable gifts",New Zealand,N,Jewellery,0.68,0.7,Lantau
+8,Medium,712,9,3,1,17667,18391,14451,8389,Other consumer goods,Netherlands,N,Other,0.68,0.7,Lantau
+8,Medium,712,9,3,4,11773,13015,19086,9328," Books, newspapers, stationery and gifts",France,N,Books,0.68,0.71,Lantau
+8,Medium,712,9,3,2,15690,12435,16197,8331, Chinese drugs and herbs,China,N,Drugs,0.68,0.7,Lantau
+9,Medium,801,3,1,4,10461,19985,15019,9993, Optical shops,China,N,Optical,0.68,0.71,Lantau
+9,Medium,801,3,1,2,17783,19307,11392,9979, Medicines and cosmetics,Canada,N,Medicines,0.68,0.71,Cheung Chau
+9,Medium,801,3,1,3,11604,18866,16422,8924, Other consumer goods not elsewhere classified,Philipines,N,Others goods,0.68,0.71,Hong Kong
+9,Medium,801,3,1,1,12170,15449,15665,9128,Supermarkets and supermarket sections of department stores&,USA,N,Supermakets,0.68,0.71,Hong Kong
+9,Medium,802,9,2,2,17250,18372,16793,9034,"Food, alcoholic drinks and tobacco (other than supermarkets)",China,N,Food,0.68,0.71,Hong Kong
+9,Medium,802,9,2,4,14444,16688,19402,8096," Fish, livestock and poultry, fresh or frozen",Philipines,N,Food,0.69,0.71,Hong Kong
+9,Medium,802,9,2,1,16795,10232,11799,8595," Fruits and vegetables, fresh",Singapore,Y,Food,0.68,0.71,Hong Kong
+9,Medium,802,9,2,3,18619,18194,14210,8476," Bread, pastry, confectionery and biscuits",Singapore,N,Food,0.68,0.71,Hong Kong
+9,Medium,803,10,3,3,16371,17819,19756,8617, Other food not elsewhere classified,China,N,Food,0.69,0.71,Hong Kong
+9,Medium,803,10,3,1,3607,2452,2719,1127, Alcoholic drinks and tobacco,Singapore,N,Drinks and tabacco,0.69,0.71,Hong Kong
+9,Medium,803,10,3,4,19095,18973,14897,8922,Supermarkets,Philipines,N,Supermakets,0.69,0.71,Hong Kong
+9,Medium,803,10,3,2,12293,16275,14324,8493,Fuels,Philipines,N,Fuels,0.69,0.71,Hong Kong
+9,Medium,804,1,1,1,19008,14889,19158,8339,"Clothing, footwear and allied products",China,N,Clothing,0.69,0.71,Hong Kong
+9,Medium,804,1,1,2,10874,19359,13186,8847, Wearing apparel,Singapore,N,Clothing,0.69,0.71,Hong Kong
+9,Medium,804,1,1,3,19747,11124,13071,9149," Footwear, allied products and other clothing accessories",China,N,Clothing,0.69,0.71,Hong Kong
+9,Medium,804,1,1,4,11676,12751,14908,8916,Consumer durable goods,Singapore,N,Goods,0.69,0.71,Hong Kong
+9,Medium,805,6,3,4,18722,12738,11829,8375, Motor vehicles and parts,Hong Kong,N,Motor,0.69,0.71,Hong Kong
+9,Medium,805,6,3,2,16709,18143,19513,8513, Furniture and fixtures,Malaysia,N,Furniture,0.69,0.71,Hong Kong
+9,Medium,805,6,3,1,15206,17386,16594,9307, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,N,Eletrical,0.69,0.71,Hong Kong
+9,Medium,805,6,3,3,14208,18522,18669,8939,Department stores,Taiwan,N,Department stores,0.69,0.71,Hong Kong
+9,Medium,806,5,3,3,16017,16346,15938,8162,"Jewellery, watches and clocks, and valuable gifts",Hong Kong,N,Jewellery,0.69,0.71,Hong Kong
+9,Medium,806,5,3,4,19627,19833,19544,8268,Other consumer goods,Malaysia,N,Other,0.69,0.71,Hong Kong
+9,Medium,806,5,3,1,14825,14390,14462,9273," Books, newspapers, stationery and gifts",Malaysia,N,Books,0.69,0.71,Hong Kong
+9,Medium,806,5,3,2,18538,12035,15473,9329, Chinese drugs and herbs,Taiwan,N,Drugs,0.69,0.71,Hong Kong
+9,Medium,807,1,2,1,19224,14946,17555,9453, Optical shops,Taiwan,N,Optical,0.69,0.71,Hong Kong
+9,Medium,807,1,2,2,16459,10600,11460,8512, Medicines and cosmetics,Hong Kong,N,Medicines,0.69,0.72,Hong Kong
+9,Medium,807,1,2,3,12515,13673,10547,9080, Other consumer goods not elsewhere classified,Malaysia,N,Others goods,0.69,0.72,Hong Kong
+9,Medium,807,1,2,4,10191,16084,13031,9494,Supermarkets and supermarket sections of department stores&,Hong Kong,N,Supermakets,0.69,0.72,Hong Kong
+9,Medium,808,20,3,1,18185,17167,17259,9203,"Food, alcoholic drinks and tobacco (other than supermarkets)",Malaysia,N,Food,0.69,0.72,Hong Kong
+9,Medium,808,20,3,2,12356,13767,12362,9896," Fish, livestock and poultry, fresh or frozen",Taiwan,N,Food,0.69,0.72,Hong Kong
+9,Medium,808,20,3,3,13676,10341,16483,9527," Fruits and vegetables, fresh",Hong Kong,N,Food,0.69,0.72,Hong Kong
+9,Medium,808,20,3,4,16827,12506,18692,9590," Bread, pastry, confectionery and biscuits",Malaysia,N,Food,0.69,0.72,Hong Kong
+9,Medium,809,9,3,1,17258,18099,18242,8217, Other food not elsewhere classified,Taiwan,N,Food,0.69,0.72,Hong Kong
+9,Medium,809,9,3,4,3517,2810,3062,1029, Alcoholic drinks and tobacco,Taiwan,N,Drinks and tabacco,0.69,0.72,Hong Kong
+9,Medium,809,9,3,3,14725,13202,13338,9282,Supermarkets,Malaysia,N,Supermakets,0.69,0.72,Hong Kong
+9,Medium,809,9,3,2,14302,10133,14972,8885,Fuels,Hong Kong,N,Fuels,0.69,0.72,Hong Kong
+9,Medium,810,13,1,1,16883,11501,19656,8854,"Clothing, footwear and allied products",Hong Kong,N,Clothing,0.69,0.72,Hong Kong
+9,Medium,810,13,1,4,12242,10005,12514,8718, Wearing apparel,Netherlands,N,Clothing,0.7,0.72,Hong Kong
+9,Medium,810,13,1,3,10039,16319,15064,9960," Footwear, allied products and other clothing accessories",Australia,N,Clothing,0.7,0.72,Hong Kong
+9,Medium,810,13,1,2,10514,18672,11751,9899,Consumer durable goods,USA,Y,Goods,0.7,0.72,Hong Kong
+10,Large,901,7,2,2,18772,16178,17524,8989, Motor vehicles and parts,New Zealand,Y,Motor,0.7,0.72,Hong Kong
+10,Large,901,7,2,3,11690,17730,13166,9081, Furniture and fixtures,France,Y,Furniture,0.7,0.72,Hong Kong
+10,Large,901,7,2,4,19785,18219,13544,8504, Electrical goods and other consumer durable goods not elsewhere classified,USA,Y,Eletrical,0.7,0.72,Hong Kong
+10,Large,901,7,2,1,12009,13388,16163,8250,Department stores,China,Y,Department stores,0.7,0.72,Hong Kong
+10,Large,902,1,1,2,16549,12254,19345,9736,"Jewellery, watches and clocks, and valuable gifts",Philipines,Y,Jewellery,0.7,0.72,Hong Kong
+10,Large,902,1,1,1,10485,16977,17868,9896,Other consumer goods,Canada,Y,Other,0.7,0.72,Hong Kong
+10,Large,902,1,1,4,15078,13392,11323,8944," Books, newspapers, stationery and gifts",Singapore,Y,Books,0.7,0.72,Hong Kong
+10,Large,902,1,1,3,15848,16944,18202,9128, Chinese drugs and herbs,China,Y,Drugs,0.7,0.72,Hong Kong
+10,Large,903,7,3,4,17704,16340,18176,9287, Optical shops,Singapore,Y,Optical,0.7,0.73,Hong Kong
+10,Large,903,7,3,2,13165,18505,19925,9121, Medicines and cosmetics,Singapore,Y,Medicines,0.7,0.73,Hong Kong
+10,Large,903,7,3,1,14132,11337,16589,9301, Other consumer goods not elsewhere classified,China,Y,Others goods,0.7,0.72,Hong Kong
+10,Large,903,7,3,3,11250,12593,19904,9573,Supermarkets and supermarket sections of department stores&,Philipines,Y,Supermakets,0.7,0.73,Hong Kong
+10,Large,904,10,2,3,10406,19102,18682,8004,"Food, alcoholic drinks and tobacco (other than supermarkets)",Philipines,Y,Food,0.7,0.73,Hong Kong
+10,Large,904,10,2,1,18011,12426,10040,9032," Fish, livestock and poultry, fresh or frozen",Philipines,Y,Food,0.7,0.73,Hong Kong
+10,Large,904,10,2,4,11240,19434,11033,8432," Fruits and vegetables, fresh",China,Y,Food,0.7,0.73,Hong Kong
+10,Large,904,10,2,2,10992,14887,10337,8534," Bread, pastry, confectionery and biscuits",China,Y,Food,0.7,0.73,Hong Kong
+10,Large,905,2,3,1,16096,15687,15738,8363, Other food not elsewhere classified,Singapore,N,Food,0.7,0.73,Hong Kong
+10,Large,905,2,3,3,2495,3506,2494,1158, Alcoholic drinks and tobacco,Singapore,N,Drinks and tabacco,0.7,0.73,Hong Kong
+10,Large,905,2,3,4,14872,16638,15877,8769,Supermarkets,Philipines,N,Supermakets,0.7,0.73,Hong Kong
+10,Large,905,2,3,2,19286,11663,14688,8787,Fuels,China,N,Fuels,0.7,0.73,Hong Kong
+10,Large,906,13,2,4,13658,12034,14679,9115,"Clothing, footwear and allied products",Malaysia,N,Clothing,0.7,0.73,Hong Kong
+10,Large,906,13,2,1,15748,16583,10483,9411, Wearing apparel,Malaysia,N,Clothing,0.7,0.73,Hong Kong
+10,Large,906,13,2,3,17675,19076,15366,9081," Footwear, allied products and other clothing accessories",Hong Kong,N,Clothing,0.7,0.73,Hong Kong
+10,Large,906,13,2,2,11099,15408,14989,8301,Consumer durable goods,Taiwan,N,Goods,0.7,0.73,Hong Kong
+10,Large,907,10,2,1,17571,15507,18001,9546, Motor vehicles and parts,Taiwan,N,Motor,0.7,0.73,Hong Kong
+10,Large,907,10,2,3,19894,14244,14671,9414, Furniture and fixtures,Malaysia,N,Furniture,0.71,0.73,Hong Kong
+10,Large,907,10,2,4,10195,17874,11525,8311, Electrical goods and other consumer durable goods not elsewhere classified,Taiwan,N,Eletrical,0.71,0.73,Hong Kong
+10,Large,907,10,2,2,19258,18265,19843,8847,Department stores,Hong Kong,N,Department stores,0.71,0.73,Hong Kong
+10,Large,908,3,2,1,18212,11702,18010,8185,"Jewellery, watches and clocks, and valuable gifts",Hong Kong,N,Jewellery,0.71,0.73,Hong Kong
+10,Large,908,3,2,2,12953,15228,14365,9606,Other consumer goods,Malaysia,N,Other,0.71,0.73,Hong Kong
+10,Large,908,3,2,3,14934,19488,11446,9433," Books, newspapers, stationery and gifts",Hong Kong,N,Books,0.71,0.73,Hong Kong
+10,Large,908,3,2,4,18664,10708,18604,8182, Chinese drugs and herbs,Malaysia,N,Drugs,0.71,0.74,Hong Kong
+10,Large,909,1,1,1,18643,19828,14816,9785, Optical shops,Taiwan,N,Optical,0.71,0.74,Hong Kong
+10,Large,909,1,1,2,10236,16715,17023,8017, Medicines and cosmetics,Hong Kong,N,Medicines,0.71,0.74,Hong Kong
+10,Large,909,1,1,4,18375,11905,19833,8847, Other consumer goods not elsewhere classified,Taiwan,N,Others goods,0.71,0.74,Hong Kong
+10,Large,909,1,1,3,19021,15224,12044,8983,Supermarkets and supermarket sections of department stores&,Malaysia,N,Supermakets,0.71,0.74,Hong Kong
+10,Large,910,1,1,2,10915,13442,16365,8045,"Food, alcoholic drinks and tobacco (other than supermarkets)",Malaysia,N,Food,0.71,0.74,Hong Kong
+10,Large,910,1,1,3,18711,16393,10045,9369," Fish, livestock and poultry, fresh or frozen",Taiwan,N,Food,0.71,0.74,Hong Kong
+10,Large,910,1,1,1,10663,12384,19750,9586," Fruits and vegetables, fresh",Hong Kong,N,Food,0.71,0.74,Hong Kong
+10,Large,910,1,1,4,12493,10692,18178,9039," Bread, pastry, confectionery and biscuits",Hong Kong,N,Food,0.71,0.74,Hong Kong
+10,Large,911,1,2,4,19905,15482,11328,9843, Other food not elsewhere classified,China,N,Food,0.71,0.74,Hong Kong
+10,Large,911,1,2,2,2193,2285,2231,1367, Alcoholic drinks and tobacco,Australia,N,Drinks and tabacco,0.71,0.74,Hong Kong
+10,Large,911,1,2,1,15669,13054,17622,8473,Supermarkets,USA,N,Supermakets,0.71,0.74,Hong Kong
+10,Large,911,1,2,3,13400,16398,12049,9043,Fuels,Netherlands,N,Fuels,0.71,0.74,Hong Kong
+10,Large,912,6,2,2,19297,18602,19407,8509,"Clothing, footwear and allied products",France,N,Clothing,0.71,0.74,Hong Kong
+10,Large,912,6,2,4,16715,12349,19900,8359, Wearing apparel,Canada,N,Clothing,0.71,0.74,Lantau
+10,Large,912,6,2,1,10041,11297,12371,9282," Footwear, allied products and other clothing accessories",New Zealand,Y,Clothing,0.71,0.74,Cheung Chau
+10,Large,912,6,2,3,18574,16876,10684,9843,Consumer durable goods,USA,Y,Goods,0.71,0.74,Hong Kong
+10,Large,913,24,1,2,12704,12445,17363,8976, Motor vehicles and parts,China,Y,Motor,0.71,0.74,Kowloon
+10,Large,913,24,1,1,15336,11338,10500,8008, Furniture and fixtures,Philipines,Y,Furniture,0.71,0.74,Kowloon
+10,Large,913,24,1,3,10840,15319,14346,9944, Electrical goods and other consumer durable goods not elsewhere classified,Singapore,Y,Eletrical,0.71,0.74,Kowloon
+10,Large,913,24,1,4,17883,10277,19535,9452,Department stores,China,Y,Department stores,0.72,0.75,Kowloon
+10,Large,914,9,2,2,18720,14395,15738,8070,"Jewellery, watches and clocks, and valuable gifts",Philipines,Y,Jewellery,0.72,0.75,Kowloon
+10,Large,914,9,2,1,12348,19828,17937,8552,Other consumer goods,Singapore,Y,Other,0.72,0.75,Kowloon
+10,Large,914,9,2,4,17444,19964,15442,9900," Books, newspapers, stationery and gifts",Philipines,N,Books,0.72,0.75,Kowloon
+10,Large,914,9,2,3,15234,10141,14411,9255, Chinese drugs and herbs,Singapore,N,Drugs,0.72,0.75,Kowloon
+10,Large,915,3,1,2,13522,17797,17343,9108, Optical shops,Philipines,N,Optical,0.72,0.75,Kowloon
+10,Large,915,3,1,1,18109,14669,18655,9105, Medicines and cosmetics,China,N,Medicines,0.72,0.75,Kowloon
+10,Large,915,3,1,4,18984,16985,13836,8072, Other consumer goods not elsewhere classified,Singapore,N,Others goods,0.72,0.75,Kowloon
+10,Large,915,3,1,3,16382,14062,16256,9020,Supermarkets and supermarket sections of department stores&,China,N,Supermakets,0.72,0.75,Kowloon
+10,Large,916,7,2,1,17096,16940,18987,8778,"Food, alcoholic drinks and tobacco (other than supermarkets)",China,N,Food,0.72,0.75,Kowloon
+10,Large,916,7,2,2,13566,10778,11365,9259," Fish, livestock and poultry, fresh or frozen",Singapore,N,Food,0.72,0.75,Kowloon
+10,Large,916,7,2,4,10303,17614,11976,9818," Fruits and vegetables, fresh",Malaysia,N,Food,0.72,0.75,Kowloon
+10,Large,916,7,2,3,16247,13950,15699,8009," Bread, pastry, confectionery and biscuits",Philipines,N,Food,0.72,0.75,Kowloon
+10,Large,917,14,3,4,18221,14812,11847,9104, Other food not elsewhere classified,Taiwan,N,Food,0.72,0.75,Kowloon
+10,Large,917,14,3,3,2158,3038,3064,1096, Alcoholic drinks and tobacco,Malaysia,N,Drinks and tabacco,0.72,0.75,Kowloon
+10,Large,917,14,3,1,18046,13132,11433,9114,Supermarkets,Taiwan,N,Supermakets,0.72,0.75,Kowloon
+10,Large,917,14,3,2,10141,10732,10625,9232,Fuels,Hong Kong,N,Fuels,0.72,0.75,Kowloon
+10,Large,918,6,1,1,18666,11722,12818,8208,"Clothing, footwear and allied products",Hong Kong,N,Clothing,0.72,0.75,Kowloon
+10,Large,918,6,1,3,11942,18249,16242,8581, Wearing apparel,Taiwan,N,Clothing,0.72,0.76,Kowloon
+10,Large,918,6,1,4,15239,16297,19117,8025," Footwear, allied products and other clothing accessories",Hong Kong,N,Clothing,0.72,0.76,Kowloon
+10,Large,918,6,1,2,18692,17954,12702,8790,Consumer durable goods,Malaysia,N,Goods,0.72,0.76,Kowloon
+10,Large,919,2,1,3,19111,12161,14858,8706, Motor vehicles and parts,Malaysia,N,Motor,0.72,0.76,Kowloon
+10,Large,919,2,1,1,14912,15141,10240,8509, Furniture and fixtures,Malaysia,N,Furniture,0.72,0.76,Kowloon
+10,Large,919,2,1,2,11370,12287,14104,8305, Electrical goods and other consumer durable goods not elsewhere classified,Hong Kong,N,Eletrical,0.72,0.76,New Territories
+10,Large,919,2,1,4,17901,18719,17447,8292,Department stores,Taiwan,N,Department stores,0.73,0.76,New Territories
+10,Large,920,14,2,3,11337,18493,14966,8608,"Jewellery, watches and clocks, and valuable gifts",Taiwan,N,Jewellery,0.73,0.76,New Territories
+10,Large,920,14,2,2,19952,19724,13572,8069,Other consumer goods,Malaysia,N,Other,0.73,0.76,New Territories
+10,Large,920,14,2,4,13578,11264,18444,9591," Books, newspapers, stationery and gifts",Hong Kong,N,Books,0.73,0.76,New Territories
+10,Large,920,14,2,1,13596,15448,14210,8267, Chinese drugs and herbs,Hong Kong,N,Drugs,0.73,0.76,New Territories
+10,Large,921,14,2,1,17393,11225,14115,9107, Optical shops,Malaysia,N,Optical,0.73,0.76,New Territories
+10,Large,922,9,1,1,10025,11641,12152,9266, Medicines and cosmetics,Taiwan,N,Medicines,0.73,0.76,New Territories
+10,Large,923,3,3,2,17224,14226,10528,8763, Other consumer goods not elsewhere classified,Hong Kong,N,Others goods,0.73,0.76,New Territories
+10,Large,924,7,3,1,10974,12680,10658,8827,Supermarkets and supermarket sections of department stores&,USA,N,Supermakets,0.73,0.76,New Territories
+10,Large,925,12,3,4,10884,11515,18059,8921,"Food, alcoholic drinks and tobacco (other than supermarkets)",Australia,N,Food,0.73,0.76,New Territories
+10,Large,926,8,1,4,12000,18460,19021,9075," Fish, livestock and poultry, fresh or frozen",Netherlands,N,Food,0.73,0.77,New Territories
+10,Large,927,6,2,4,16824,13449,13088,8638," Fruits and vegetables, fresh",China,N,Food,0.73,0.77,New Territories
+10,Large,928,2,3,2,14102,19355,16509,8418," Bread, pastry, confectionery and biscuits",New Zealand,N,Food,0.73,0.77,New Territories
+10,Large,929,8,2,2,13641,11225,10390,8745, Other food not elsewhere classified,France,N,Food,0.73,0.77,New Territories
+10,Large,930,13,2,3,3287,3693,3322,1464, Alcoholic drinks and tobacco,USA,Y,Drinks and tabacco,0.73,0.77,New Territories
+10,Large,931,6,2,2,12408,10570,12851,9114,Supermarkets,Canada,Y,Supermakets,0.73,0.77,New Territories
+10,Large,932,7,1,2,12152,19634,11178,8427,Fuels,Philipines,N,Fuels,0.73,0.77,New Territories
+10,Large,933,5,2,1,11450,12283,16032,9778,"Clothing, footwear and allied products",China,N,Clothing,0.73,0.77,New Territories
+10,Large,934,6,1,1,16051,10691,19647,9116, Wearing apparel,Singapore,N,Clothing,0.73,0.77,New Territories
+10,Large,935,2,1,4,10261,18574,13103,8416," Footwear, allied products and other clothing accessories",China,N,Clothing,0.73,0.77,New Territories
+10,Large,936,13,2,1,11288,13485,11568,8295,Consumer durable goods,Singapore,N,Goods,0.73,0.77,New Territories
+10,Large,937,3,3,1,18326,13935,12230,8243, Motor vehicles and parts,Philipines,N,Motor,0.73,0.77,New Territories
+10,Large,938,6,2,2,10684,12395,19173,9402, Furniture and fixtures,Singapore,N,Furniture,0.74,0.77,New Territories
+10,Large,939,6,3,4,15226,16255,13978,9700, Electrical goods and other consumer durable goods not elsewhere classified,Philipines,N,Eletrical,0.74,0.77,New Territories
+10,Large,940,8,3,1,11695,10950,14557,8396,Department stores,China,N,Department stores,0.74,0.78,New Territories
+10,Large,941,8,2,1,16946,16391,15978,9500,"Jewellery, watches and clocks, and valuable gifts",Philipines,N,Jewellery,0.74,0.78,New Territories
+10,Large,942,12,2,3,18517,19429,14225,8801,Other consumer goods,China,N,Other,0.74,0.78,New Territories
+10,Large,943,3,3,1,14638,17460,12486,9617," Books, newspapers, stationery and gifts",Singapore,N,Books,0.74,0.78,New Territories
+10,Large,944,4,1,1,13690,14636,16929,8999, Chinese drugs and herbs,China,N,Drugs,0.74,0.78,New Territories
+10,Large,945,14,1,4,15336,10815,18741,9918, Optical shops,Singapore,N,Optical,0.74,0.78,New Territories
+10,Large,946,13,3,2,13760,15274,16003,8318, Medicines and cosmetics,Philipines,N,Medicines,0.74,0.78,New Territories
+10,Large,947,5,3,2,10360,19474,15094,8644, Other consumer goods not elsewhere classified,Malaysia,N,Others goods,0.74,0.78,New Territories
+10,Large,948,9,1,2,12760,12149,10757,8778,Supermarkets and supermarket sections of department stores&,Taiwan,N,Supermakets,0.74,0.78,New Territories
+10,Large,949,8,3,3,14607,15691,18432,8956,"Food, alcoholic drinks and tobacco (other than supermarkets)",Hong Kong,N,Food,0.74,0.78,New Territories
+10,Large,950,7,3,4,18874,17753,17145,9567," Fish, livestock and poultry, fresh or frozen",Malaysia,N,Food,0.74,0.78,New Territories
+10,Large,951,2,3,3,18001,12209,19217,8890," Fruits and vegetables, fresh",Taiwan,N,Food,0.74,0.78,New Territories
+10,Large,952,6,3,1,13903,11538,12114,9812," Bread, pastry, confectionery and biscuits",Hong Kong,N,Food,0.74,0.79,New Territories
+10,Large,953,12,2,3,17921,11093,18570,9479, Other food not elsewhere classified,Malaysia,N,Food,0.74,0.79,New Territories
+10,Large,954,6,3,2,2885,2161,2115,1146, Alcoholic drinks and tobacco,Taiwan,N,Drinks and tabacco,0.74,0.79,New Territories
+10,Large,955,5,1,2,15253,10265,14750,8439,Supermarkets,Hong Kong,N,Supermakets,0.74,0.79,New Territories
+10,Large,956,9,3,4,11709,14938,17483,8432,Fuels,Malaysia,N,Fuels,0.74,0.79,New Territories
+10,Large,957,8,2,2,10609,13306,10482,8575,"Clothing, footwear and allied products",Hong Kong,Y,Clothing,0.74,0.79,New Territories
+10,Large,958,9,1,1,10607,11069,19464,9864, Wearing apparel,Malaysia,N,Clothing,0.75,0.79,New Territories
+10,Large,959,10,3,2,10102,19217,12210,8575," Footwear, allied products and other clothing accessories",Taiwan,N,Clothing,0.75,0.79,New Territories
+10,Large,960,6,1,4,19167,15464,11449,9086,Consumer durable goods,Hong Kong,N,Goods,0.75,0.79,New Territories
+10,Large,961,9,3,2,10118,16409,14995,9493, Motor vehicles and parts,Malaysia,N,Motor,0.75,0.79,New Territories
+10,Large,962,4,2,2,13162,19629,15672,8306, Furniture and fixtures,Taiwan,N,Furniture,0.75,0.8,New Territories
+10,Large,963,5,1,2,11621,12827,15915,8142, Electrical goods and other consumer durable goods not elsewhere classified,Hong Kong,N,Eletrical,0.75,0.8,New Territories
+10,Large,964,3,3,4,13966,13767,17167,8277,Department stores,Malaysia,N,Department stores,0.75,0.8,New Territories
+10,Large,965,2,1,4,19801,10678,14704,9688,"Jewellery, watches and clocks, and valuable gifts",Taiwan,N,Jewellery,0.75,0.8,New Territories
+10,Large,966,12,2,1,10455,19313,11307,8084,Other consumer goods,Hong Kong,Y,Other,0.75,0.8,New Territories
+10,Large,967,9,2,3,13804,14388,13033,9000," Books, newspapers, stationery and gifts",USA,N,Books,0.75,0.8,New Territories
+10,Large,968,7,2,2,16019,13885,18826,9504, Chinese drugs and herbs,Australia,N,Drugs,0.75,0.8,New Territories
+10,Large,969,3,3,1,16385,14801,16633,9071, Optical shops,Netherlands,N,Optical,0.75,0.8,New Territories
+10,Large,970,12,1,2,13180,19730,11307,8125, Medicines and cosmetics,China,N,Medicines,0.75,0.81,New Territories
+10,Large,971,10,1,3,10415,19871,11485,9680, Other consumer goods not elsewhere classified,New Zealand,N,Others goods,0.75,0.81,New Territories
+10,Large,972,8,1,1,13974,10909,19339,8630,Supermarkets and supermarket sections of department stores&,France,N,Supermakets,0.75,0.81,New Territories
+10,Large,973,3,2,2,11864,18651,13419,9459,"Food, alcoholic drinks and tobacco (other than supermarkets)",USA,N,Food,0.75,0.81,New Territories
+10,Large,974,3,3,3,17307,19505,19655,8382," Fish, livestock and poultry, fresh or frozen",Canada,N,Food,0.75,0.81,New Territories
+10,Large,975,9,3,3,18053,18124,16368,9846," Fruits and vegetables, fresh",Philipines,N,Food,0.75,0.81,New Territories
+10,Large,976,9,2,3,19400,12408,18168,8102," Bread, pastry, confectionery and biscuits",China,N,Food,0.76,0.81,New Territories
+10,Large,977,12,3,4,15355,11803,18660,8798, Other food not elsewhere classified,Singapore,N,Food,0.76,0.81,New Territories
+10,Large,978,5,3,4,3774,2970,3151,1270, Alcoholic drinks and tobacco,China,N,Drinks and tabacco,0.76,0.82,New Territories
+10,Large,979,11,1,2,18544,15383,17743,9710,Supermarkets,Singapore,Y,Supermakets,0.76,0.82,New Territories
+10,Large,980,3,3,3,18617,18669,15215,8467,Fuels,Philipines,N,Fuels,0.76,0.82,New Territories
+10,Large,981,11,3,3,19087,11857,17495,8337,"Clothing, footwear and allied products",Singapore,N,Clothing,0.76,0.82,New Territories
+10,Large,982,14,1,4,11746,11099,13338,9820, Wearing apparel,Philipines,N,Clothing,0.76,0.82,New Territories
+10,Large,983,8,3,3,11429,10540,18676,9884," Footwear, allied products and other clothing accessories",China,N,Clothing,0.76,0.82,New Territories
+10,Large,984,2,3,3,12594,17614,16275,8294,Consumer durable goods,Philipines,N,Goods,0.76,0.82,New Territories
+10,Large,985,7,2,4,13385,10082,19558,8096, Motor vehicles and parts,China,N,Motor,0.76,0.82,New Territories
+10,Large,986,11,2,1,15342,10695,10273,8853, Furniture and fixtures,Singapore,N,Furniture,0.76,0.83,New Territories

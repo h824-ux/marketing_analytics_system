@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Analytics Demo
+{% endblock %}
+
+{% block content %}
+    <div class="center-content">
+        <button onclick="history.back()" class="choose">Return</button>
+        <h1>Analytics Demo</h1>
+        <video width="1200" height="700" controls>
+            <source src="{% static 'demo/demo2.mp4' %}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+{% endblock %}

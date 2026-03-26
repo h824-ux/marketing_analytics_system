@@ -1,0 +1,37 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Analytics
+{% endblock %}
+
+{% block content %}
+    <div class="center-content">
+        <h1>Analytics Visualisation</h1>
+        <button onclick="history.back()" class="choose">Return</button>
+
+        <h2>Product Price by Age</h2>
+        <p>Click image to download</p>
+        <a href="{% static '2-4.png' %}" download="visual">
+            <img src="{% static '2-4.png' %}" alt="Price to Age">
+        </a>
+
+        <h2>Percentage Comparison</h2>
+        <h5>Displayed numbers:</h5>
+        <p>Line 1: Total number of related data</p>
+        <p>Line 2: Percentage of total number of each data rows</p>
+        <a href="{% static 'corr-2-4.png' %}" download="visual">
+            <img src="{% static 'corr-2-4.png' %}" alt="Price to Age">
+        </a>
+        
+        <h1>Return to Basic Analytics</h1>
+
+        <a href="/anal/price">
+            <button class="choose">Product Price</button>
+        </a>
+        <a href="/anal/age-select">
+            <button class="choose">Customer Age Group</button>
+        </a>
+
+    </div>
+{% endblock %}

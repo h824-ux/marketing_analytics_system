@@ -1,0 +1,19 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Demo
+{% endblock %}
+
+{% block content %}
+    <div class="center-content">
+        <a href="/">
+            <button class="choose">Return</button>
+        </a>
+        <h1>Demonstration</h1>
+        <video width="1200" height="700" controls>
+            <source src="{% static 'demo/demo1.mp4' %}" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+{% endblock %}

@@ -1,0 +1,617 @@
+Member_ID,Gender,Married,Category,Education,Active_Member,ServiceIncome_YTD,ServiceIncome_2022,OtherIncome,Member_Renewal,Property_Area,Country,Satisfaction_Level,Last_Evaluation,Activity_feedback,Member_Since
+MB001002,Male,No,Children,Primary,No,3320.2,2339.6,469,1,Hong Kong Island,China,0.4,0.46,Poor,2/16/2006
+MB001003,Male,No,Children,Primary,No,3092.3,1833.2,555,1,New Territories,Taiwan,0.4,0.46,Poor,12/24/2006
+MB001005,Male,No,Youth,Tertiary,Yes,2088.5,1200,772,1,Hong Kong Island,Malaysia,0.4,0.46,Poor,4/9/2006
+MB001006,Male,No,Adult,Not Graduate,No,1317.2,1033.2,825,1,Hong Kong Island,Singapore,0.4,0.46,Poor,11/8/2007
+MB001008,Male,No,Youth,Secondary,No,2655.3,2400,373,1,Hong Kong Island,Thailand,0.41,0.43,Poor,3/1/2008
+MB001011,Male,No,Elderly,Graduate,Yes,3673.8,2166.8,757,1,Hong Kong Island,Korea,0.41,0.45,Poor,8/30/2009
+MB001013,Male,No,Children,Primary,No,1232.2,933.2,950,1,Hong Kong Island,Japan,0.41,0.46,Poor,6/20/2010
+MB001014,Male,No,Youth,Tertiary,No,1381,1214.4,499,0,Kowloon,India,0.41,0.56,Satisfactory,4/16/2007
+MB001018,Male,No,Adult,Graduate,No,2547.3,1602.4,860,1,Hong Kong Island,China,0.41,0.56,Satisfactory,5/14/2012
+MB001020,Male,No,Elderly,Graduate,No,6398,5136.4,654,1,Kowloon,Taiwan,0.41,0.46,Poor,9/18/2022
+MB001024,Male,No,Children,Primary,No,2386,1280,492,1,Hong Kong Island,Malaysia,0.42,0.46,Poor,4/19/2021
+MB001027,Male,No,Youth,Tertiary,Yes,1327.1,1000,603,1,Hong Kong Island,Singapore,0.42,0.46,Poor,8/25/2021
+MB001028,Male,No,Children,Primary,No,1592.2,1229.2,493,1,Hong Kong Island,Thailand,0.42,0.46,Poor,7/17/2022
+MB001029,Male,No,Adult,Graduate,No,1181.7,741.2,782,1,New Territories,Korea,0.42,0.46,Poor,10/7/2021
+MB001030,Male,No,Youth,University,No,855.3,519.6,322,1,Hong Kong Island,Japan,0.42,0.46,Poor,2/25/2008
+MB001032,Male,No,Elderly,Graduate,No,3291.4,1980,995,1,Hong Kong Island,India,0.42,0.46,Poor,12/6/2021
+MB001034,Male,No,Children,Primary,No,2415.2,1438.4,986,1,Hong Kong Island,China,0.43,0.46,Poor,7/24/2009
+MB001036,Male,No,Youth,Secondary,No,1991.9,1404,517,0,Hong Kong Island,Taiwan,0.43,0.46,Poor,5/4/2021
+MB001038,Male,No,Adult,Not Graduate,No,3690.9,1954.8,600,1,New Territories,Malaysia,0.43,0.46,Poor,1/23/2022
+MB001041,Male,No,Elderly,Graduate,Yes,1716.7,1040,483,1,Hong Kong Island,Singapore,0.43,0.46,Poor,10/13/2021
+MB001043,Male,No,Children,Primary,No,3352,3064,670,0,Hong Kong Island,Thailand,0.43,0.46,Poor,8/10/2011
+MB001046,Male,No,Youth,University,No,3139.4,2382,285,1,Hong Kong Island,Korea,0.43,0.46,Poor,9/14/2022
+MB001047,Male,No,Adult,Not Graduate,No,1312.6,1040,496,0,Kowloon,Japan,0.44,0.46,Poor,10/18/2021
+MB001050,Male,No,Elderly,Not Graduate,No,1868,1346,930,0,New Territories,India,0.44,0.57,Satisfactory,9/21/2011
+MB001052,Male,No,Children,Primary,Yes,1915.8,1486.8,397,1,Kowloon,China,0.44,0.57,Satisfactory,3/25/2022
+MB001066,Male,No,Youth,University,Yes,6645.2,3824,636,1,Kowloon,Taiwan,0.44,0.57,Satisfactory,7/10/2022
+MB001068,Male,No,Children,Primary,No,1522.9,1119.6,236,1,Kowloon,Malaysia,0.44,0.57,Satisfactory,11/20/2021
+MB001073,Male,No,Youth,University,No,2566.2,1690.4,308,1,Hong Kong Island,Singapore,0.44,0.57,Satisfactory,9/10/2021
+MB001086,Male,No,Adult,Not Graduate,No,1046.5,576.8,783,1,Hong Kong Island,Thailand,0.45,0.57,Satisfactory,3/3/2021
+MB001087,Male,No,Elderly,Graduate,Yes,1704.1,1500,987,1,Kowloon,Korea,0.45,0.57,Satisfactory,11/10/2021
+MB001091,Male,No,Adult,Graduate,No,3172,1666.4,731,1,Hong Kong Island,Japan,0.45,0.57,Satisfactory,7/22/2022
+MB001095,Male,No,Children,Primary,No,1486.2,1266.8,556,1,Hong Kong Island,India,0.45,0.57,Satisfactory,4/30/2021
+MB001097,Male,No,Youth,Secondary,Yes,2713.1,1876.8,547,1,New Territories,China,0.45,0.57,Satisfactory,8/16/2021
+MB001098,Male,No,Elderly,Graduate,No,1758.6,1400,815,1,Kowloon,Taiwan,0.45,0.57,Satisfactory,10/8/2021
+MB001100,Male,No,Adult,Graduate,No,9854.7,5000,289,1,New Territories,Malaysia,0.46,0.57,Satisfactory,9/15/2022
+MB001106,Male,No,Children,Primary,Yes,984.9,910,794,1,Hong Kong Island,Singapore,0.46,0.57,Satisfactory,2/3/2021
+MB001109,Male,No,Youth,University,No,820.9,731.2,913,0,Hong Kong Island,Thailand,0.46,0.57,Satisfactory,7/17/2021
+MB001112,Male,No,Adult,Graduate,No,1989.9,1466.8,548,1,Kowloon,Korea,0.46,0.57,Satisfactory,3/6/2022
+MB001114,Male,No,Elderly,Graduate,No,3009.6,1666.4,807,1,Hong Kong Island,Japan,0.46,0.57,Satisfactory,6/15/2022
+MB001116,Male,No,Children,Primary,No,2735.7,1499.2,407,1,Kowloon,India,0.46,0.57,Satisfactory,9/8/2021
+MB001119,Male,No,Youth,Secondary,No,1591,1440,511,1,Hong Kong Island,China,0.47,0.57,Satisfactory,5/12/2021
+MB001120,Male,No,Adult,Graduate,No,1400.9,720,802,1,Hong Kong Island,Taiwan,0.47,0.57,Satisfactory,3/13/2021
+MB001123,Male,No,Elderly,Graduate,No,1267.1,960,485,1,Hong Kong Island,Malaysia,0.47,0.57,Satisfactory,5/2/2021
+MB001131,Male,No,Children,Primary,No,2318.7,1576.4,553,1,Kowloon,Singapore,0.47,0.58,Satisfactory,1/26/2022
+MB001136,Male,No,Youth,University,Yes,2217.1,1878,333,1,Hong Kong Island,Thailand,0.47,0.58,Satisfactory,7/1/2021
+MB001137,Male,No,Elderly,Graduate,No,1461.8,1364,943,1,Hong Kong Island,Korea,0.47,0.58,Satisfactory,5/31/2021
+MB001138,Male,No,Children,Primary,No,3349.1,2259.6,455,1,Hong Kong Island,Japan,0.47,0.58,Satisfactory,3/9/2021
+MB001144,Male,No,Youth,University,No,3338.4,2328.4,283,1,Hong Kong Island,India,0.47,0.58,Satisfactory,3/10/2022
+MB001146,Male,No,Adult,Graduate,No,1904.3,1058,418,0,Hong Kong Island,China,0.48,0.58,Satisfactory,11/3/2021
+MB001151,Male,No,Children,Primary,No,1872.1,1600,479,1,Kowloon,Taiwan,0.48,0.58,Satisfactory,3/8/2022
+MB001155,Male,No,Elderly,Not Graduate,No,1120.7,771.2,407,1,Kowloon,Malaysia,0.48,0.58,Satisfactory,7/18/2021
+MB001157,Male,No,Youth,Secondary,No,1715.2,1234.4,967,1,Kowloon,Singapore,0.48,0.58,Satisfactory,10/31/2021
+MB001164,Male,No,Adult,Graduate,No,2745.9,1692,935,1,Kowloon,Thailand,0.48,0.58,Satisfactory,9/23/2021
+MB001179,Male,No,Children,Primary,No,2894.1,1846.4,628,1,Hong Kong Island,Korea,0.48,0.58,Satisfactory,1/27/2022
+MB001186,Male,No,Youth,University,Yes,5632.9,4600,488,0,Hong Kong Island,Japan,0.48,0.58,Satisfactory,9/5/2022
+MB001194,Male,No,Adult,Graduate,No,1805.2,1083.2,539,1,Kowloon,India,0.48,0.58,Satisfactory,7/3/2021
+MB001195,Male,No,Elderly,Graduate,No,1169.2,852.8,720,1,Kowloon,China,0.49,0.58,Satisfactory,6/26/2021
+MB001197,Male,No,Children,Primary,No,2585.9,1346.4,493,1,New Territories,Taiwan,0.49,0.58,Satisfactory,1/29/2022
+MB001198,Male,No,Youth,University,No,5632.6,3232,453,1,Hong Kong Island,Malaysia,0.49,0.58,Satisfactory,6/7/2022
+MB001199,Male,No,Children,Primary,No,1705.8,1342.8,631,1,Hong Kong Island,Singapore,0.49,0.58,Satisfactory,3/7/2022
+MB001205,Male,No,Youth,University,No,1116.2,1000,831,1,Hong Kong Island,Thailand,0.49,0.58,Satisfactory,11/6/2021
+MB001206,Male,Yes,Adult,Graduate,No,2118.7,1211.6,252,1,Hong Kong Island,Korea,0.49,0.58,Satisfactory,7/11/2021
+MB001207,Male,Yes,Elderly,Not Graduate,Yes,1336.7,1043.6,276,0,New Territories,Japan,0.49,0.58,Satisfactory,5/8/2022
+MB001213,Male,Yes,Adult,Graduate,No,2423,1978,971,0,New Territories,India,0.49,0.58,Satisfactory,2/19/2021
+MB002991,Female,No,Youth,Tertiary,Yes,1936.1,1000,321,0,Kowloon,Korea,0.73,0.83,Excellent,1/20/2022
+MB002992,Female,No,Adult,Graduate,Yes,1936.1,1000,453,0,Kowloon,Korea,0.73,0.83,Excellent,1/20/2022
+MB001267,Female,Yes,Adult,Graduate,No,1075.4,551.2,544,1,Hong Kong Island,Malaysia,0.52,0.59,Satisfactory,5/12/2022
+MB002287,Female,No,Adult,Graduate,No,573,600,397,0,Kowloon,India,0.66,0.7,Excellent,8/1/2021
+MB001518,Female,Yes,Elderly,Graduate,No,1126.7,615.2,336,1,Hong Kong Island,Singapore,0.57,0.62,Good,3/1/2021
+MB001977,Female,Yes,Elderly,Graduate,No,708.1,650,318,1,Hong Kong Island,India,0.63,0.67,Good,6/25/2021
+MB001343,Female,Yes,Adult,Graduate,No,1007.1,703.6,897,1,Kowloon,Singapore,0.53,0.6,Satisfactory,1/9/2022
+MB001964,Female,Yes,Elderly,Not Graduate,No,710.5,720,864,0,Hong Kong Island,Thailand,0.63,0.67,Good,6/8/2021
+MB001825,Female,Yes,Adult,Graduate,No,1134.1,723.6,910,1,Hong Kong Island,Taiwan,0.61,0.65,Good,6/5/2021
+MB001917,Female,No,Youth,Secondary,No,542.7,724.4,920,1,Hong Kong Island,Singapore,0.62,0.66,Good,3/20/2021
+MB001581,Female,Yes,Adult,Not Graduate,Yes,990.2,728,378,1,New Territories,Malaysia,0.58,0.63,Good,6/17/2021
+MB002113,Female,No,Children,Primary,Yes,898.8,732,280,0,Hong Kong Island,Malaysia,0.64,0.68,Good,2/4/2021
+MB001560,Female,Yes,Elderly,Not Graduate,No,1072.1,745.2,806,1,Kowloon,China,0.57,0.62,Good,7/7/2021
+MB001245,Female,Yes,Elderly,Not Graduate,Yes,963.4,750,759,1,Kowloon,India,0.5,0.59,Satisfactory,7/4/2021
+MB001669,Female,No,Youth,Secondary,No,949.4,762.8,990,1,Hong Kong Island,Korea,0.59,0.64,Good,10/30/2021
+MB001634,Female,No,Elderly,Graduate,No,926.5,766.4,237,1,New Territories,Korea,0.58,0.63,Good,4/10/2021
+MB002300,Female,No,Youth,Secondary,No,477.7,785.2,385,1,Kowloon,Singapore,0.66,0.7,Excellent,3/19/2021
+MB001333,Female,Yes,Adult,Graduate,No,1231.9,790.8,932,1,Kowloon,Taiwan,0.53,0.6,Satisfactory,3/17/2021
+MB001990,Female,No,Adult,Not Graduate,No,836.8,800,614,1,Hong Kong Island,Taiwan,0.63,0.67,Good,2/6/2021
+MB001473,Female,No,Adult,Graduate,No,820.1,805.6,609,1,Hong Kong Island,Singapore,0.56,0.61,Good,4/29/2021
+MB001963,Female,Yes,Adult,Graduate,No,489.7,805.6,332,1,Hong Kong Island,Singapore,0.63,0.67,Good,9/28/2021
+MB002670,Female,Yes,Adult,Graduate,No,641.2,812.4,953,1,Kowloon,Thailand,0.69,0.74,Excellent,9/27/2021
+MB001608,Female,Yes,Adult,Graduate,No,1438,818,895,1,New Territories,China,0.58,0.63,Good,7/28/2021
+MB001868,Female,No,Elderly,Graduate,No,530.2,824,623,1,Kowloon,Korea,0.62,0.65,Good,1/25/2022
+MB001384,Female,Yes,Adult,Not Graduate,No,514.4,828.4,686,1,Kowloon,Korea,0.54,0.6,Good,6/11/2021
+MB001431,Female,No,Adult,Graduate,No,1451.3,854.8,891,0,Kowloon,Malaysia,0.55,0.61,Good,2/11/2022
+MB002743,Female,No,Children,Primary,No,760.7,855.2,428,0,Kowloon,Korea,0.7,0.76,Excellent,7/10/2021
+MB002335,Female,Yes,Elderly,Not Graduate,No,546.7,859.6,599,0,Kowloon,Japan,0.66,0.7,Excellent,6/3/2022
+MB002917,Female,No,Children,Primary,No,1145.3,866,277,1,Kowloon,Singapore,0.72,0.79,Excellent,4/15/2021
+MB001641,Female,Yes,Adult,Graduate,Yes,1716.2,871.2,348,0,New Territories,Malaysia,0.59,0.63,Good,4/6/2021
+MB002314,Female,No,Children,Primary,No,724.1,885.2,644,1,New Territories,India,0.66,0.7,Excellent,4/7/2021
+MB002401,Female,Yes,Adult,Graduate,Yes,1202.9,885.2,285,1,Hong Kong Island,Korea,0.67,0.71,Excellent,2/5/2021
+MB001405,Female,Yes,Elderly,Graduate,No,935,885.6,340,1,Hong Kong Island,Korea,0.55,0.61,Good,5/24/2021
+MB001736,Female,Yes,Adult,Graduate,No,1144.5,888.4,521,0,Hong Kong Island,Thailand,0.6,0.64,Good,3/31/2021
+MB001579,Female,No,Youth,Secondary,No,1698.3,894.8,378,0,Kowloon,China,0.58,0.63,Good,4/4/2021
+MB001532,Female,Yes,Adult,Not Graduate,No,1472.3,912.4,434,1,New Territories,Taiwan,0.57,0.62,Good,10/2/2021
+MB001915,Female,Yes,Adult,Graduate,No,1001.5,920.4,883,1,Hong Kong Island,Malaysia,0.62,0.66,Good,5/6/2021
+MB001514,Female,Yes,Elderly,Graduate,No,1629.9,932,742,1,Kowloon,Taiwan,0.57,0.62,Good,7/14/2021
+MB001630,Female,No,Adult,Not Graduate,No,1478.1,933.2,312,0,Hong Kong Island,Singapore,0.58,0.63,Good,7/30/2021
+MB001279,Female,No,Adult,Graduate,No,1061.2,946.4,390,1,Kowloon,Korea,0.52,0.59,Satisfactory,2/6/2022
+MB002116,Female,No,Adult,Graduate,No,467.7,951.2,282,1,New Territories,Korea,0.64,0.68,Excellent,3/12/2021
+MB002840,Female,No,Children,Primary,No,553.8,951.2,490,1,Hong Kong Island,China,0.71,0.78,Excellent,2/24/2021
+MB001643,Female,Yes,Elderly,Graduate,No,1397.5,953.2,417,1,New Territories,Singapore,0.59,0.63,Good,3/27/2021
+MB001947,Female,Yes,Adult,Graduate,No,821.8,953.2,931,1,Kowloon,Japan,0.63,0.66,Good,5/19/2022
+MB001266,Female,Yes,Elderly,Graduate,Yes,1877.9,958,620,1,Kowloon,Taiwan,0.52,0.59,Satisfactory,2/8/2021
+MB001994,Female,No,Children,Primary,No,742.8,960,218,0,Hong Kong Island,Singapore,0.63,0.67,Good,8/4/2021
+MB002143,Female,Yes,Elderly,Graduate,No,1334.1,969.2,530,1,Kowloon,Malaysia,0.65,0.68,Good,12/29/2021
+MB001644,Female,Yes,Adult,Graduate,Yes,1306.3,969.6,209,1,New Territories,Thailand,0.59,0.63,Good,5/13/2022
+MB001578,Female,Yes,Adult,Graduate,No,1091,975.6,835,1,New Territories,India,0.58,0.63,Good,12/27/2021
+MB002502,Female,Yes,Elderly,Not Graduate,Yes,600.7,984,471,1,Kowloon,Thailand,0.68,0.72,Excellent,7/6/2021
+MB002024,Female,Yes,Adult,Graduate,No,760.8,989.2,631,1,New Territories,Malaysia,0.63,0.67,Good,4/19/2022
+MB001699,Female,No,Elderly,Graduate,No,1464.8,991.6,483,1,Hong Kong Island,China,0.6,0.64,Good,3/28/2021
+MB001327,Female,Yes,Elderly,Graduate,No,1923.5,993.6,883,1,Kowloon,China,0.53,0.6,Satisfactory,2/12/2022
+MB001765,Female,Yes,Elderly,Graduate,No,1540.9,996.4,965,1,Kowloon,Japan,0.6,0.65,Good,8/7/2021
+MB001282,Female,Yes,Adult,Graduate,No,1220.7,1000,371,1,Kowloon,India,0.52,0.59,Satisfactory,8/9/2021
+MB002087,Female,No,Children,Primary,No,812.5,1000,509,1,Hong Kong Island,Taiwan,0.64,0.67,Good,4/11/2021
+MB002522,Female,No,Adult,Graduate,Yes,1360.1,1000,582,1,Hong Kong Island,Taiwan,0.68,0.72,Excellent,6/9/2021
+MB002006,Female,No,Children,Primary,No,973.9,1002.8,898,1,New Territories,China,0.63,0.67,Good,3/25/2021
+MB001800,Female,Yes,Adult,Not Graduate,No,1864.5,1004,545,1,Hong Kong Island,Taiwan,0.61,0.65,Good,2/24/2022
+MB001529,Female,Yes,Elderly,Graduate,Yes,1922.6,1030.8,606,1,New Territories,India,0.57,0.62,Good,3/28/2022
+MB001841,Female,No,Elderly,Not Graduate,Yes,1326,1033.2,227,1,New Territories,Thailand,0.61,0.65,Good,8/8/2021
+MB001674,Female,Yes,Elderly,Not Graduate,No,2055.9,1040,236,1,Kowloon,China,0.59,0.64,Good,6/7/2021
+MB001925,Female,No,Elderly,Graduate,Yes,1340.4,1040,834,1,Kowloon,Japan,0.63,0.66,Good,7/9/2021
+MB002341,Female,No,Elderly,Graduate,No,1253.2,1040,713,1,Hong Kong Island,China,0.66,0.7,Excellent,4/22/2022
+MB001894,Female,Yes,Adult,Graduate,No,939.4,1048,400,1,Kowloon,Taiwan,0.62,0.66,Good,3/16/2022
+MB001843,Female,Yes,Adult,Not Graduate,No,1128.4,1064.4,390,1,Kowloon,Korea,0.61,0.65,Good,9/3/2022
+MB002794,Female,No,Youth,Tertiary,No,1199.8,1066.8,319,1,Hong Kong Island,Thailand,0.71,0.77,Excellent,5/20/2021
+MB001507,Female,Yes,Elderly,Graduate,No,1642.4,1079.2,754,1,Kowloon,India,0.57,0.62,Good,11/19/2021
+MB001478,Female,No,Elderly,Graduate,No,1395.2,1087.2,794,1,Kowloon,Thailand,0.56,0.61,Good,4/17/2021
+MB002357,Female,No,Children,Primary,No,1361.7,1088,891,0,Hong Kong Island,Korea,0.67,0.7,Excellent,5/10/2021
+MB001900,Female,Yes,Adult,Graduate,No,1361.8,1100,413,1,Kowloon,Singapore,0.62,0.66,Good,10/12/2021
+MB002209,Female,No,Children,Primary,Yes,1018,1105.6,258,1,Hong Kong Island,Japan,0.65,0.69,Excellent,8/29/2021
+MB001892,Female,No,Elderly,Graduate,No,894.8,1133.2,918,1,New Territories,China,0.62,0.66,Good,12/11/2021
+MB001972,Female,Yes,Adult,Not Graduate,No,712.1,1150,577,1,Kowloon,Korea,0.63,0.67,Good,8/11/2021
+MB001884,Female,No,Youth,Secondary,No,965.2,1150.4,807,1,Hong Kong Island,Korea,0.62,0.66,Good,6/2/2021
+MB001824,Female,Yes,Elderly,Graduate,No,2219.1,1152.8,754,1,Kowloon,China,0.61,0.65,Good,11/25/2021
+MB002978,Female,No,Elderly,Graduate,No,880.7,1160,799,1,New Territories,Taiwan,0.73,0.82,Excellent,4/21/2021
+MB002002,Female,No,Adult,Graduate,No,1046.2,1166.8,811,1,Kowloon,Japan,0.63,0.67,Good,5/21/2021
+MB002004,Female,No,Elderly,Not Graduate,No,1015.1,1170.8,923,1,Kowloon,India,0.63,0.67,Good,9/14/2021
+MB001387,Female,Yes,Elderly,Graduate,Yes,1592.9,1171.6,864,1,Kowloon,India,0.54,0.6,Satisfactory,2/22/2022
+MB001432,Female,Yes,Adult,Graduate,No,1808.1,1182.8,329,1,Kowloon,Singapore,0.55,0.61,Good,5/16/2021
+MB001316,Female,Yes,Adult,Graduate,No,1461.1,1183.2,736,1,Kowloon,Malaysia,0.53,0.6,Satisfactory,1/11/2022
+MB001806,Female,No,Children,Primary,No,2088,1186,400,1,Hong Kong Island,Malaysia,0.61,0.65,Good,4/6/2022
+MB001744,Female,No,Adult,Graduate,No,1592.6,1188.4,753,1,Kowloon,Japan,0.6,0.64,Good,3/5/2022
+MB001546,Female,No,Children,Primary,Yes,1908.7,1192,663,1,New Territories,Japan,0.57,0.62,Good,11/1/2021
+MB002337,Female,No,Adult,Graduate,No,1299.3,1198,733,1,Hong Kong Island,India,0.66,0.7,Excellent,3/30/2021
+MB002243,Female,Yes,Elderly,Not Graduate,Yes,1587.4,1204,314,0,Hong Kong Island,Singapore,0.66,0.69,Excellent,2/2/2021
+MB002757,Female,Yes,Elderly,Not Graduate,No,590.1,1206.8,600,1,Kowloon,China,0.7,0.76,Excellent,7/29/2021
+MB001367,Female,Yes,Elderly,Graduate,No,1798.9,1220.8,760,1,Hong Kong Island,Taiwan,0.54,0.6,Good,7/25/2021
+MB001936,Female,Yes,Elderly,Graduate,No,913,1230,508,1,New Territories,Malaysia,0.63,0.66,Good,2/21/2022
+MB001846,Female,No,Youth,Secondary,No,1212.8,1233.2,212,1,New Territories,India,0.61,0.65,Good,8/19/2022
+MB001565,Female,Yes,Elderly,Graduate,No,1343.4,1235.6,337,0,Kowloon,Malaysia,0.58,0.62,Good,11/18/2021
+MB001904,Female,Yes,Adult,Graduate,No,1564.5,1241.2,835,1,Hong Kong Island,Korea,0.62,0.66,Good,5/7/2021
+MB001665,Female,Yes,Elderly,Graduate,No,1688.9,1250,576,1,Kowloon,Singapore,0.59,0.63,Good,5/16/2022
+MB001722,Female,Yes,Adult,Graduate,No,2034.2,1260,482,1,New Territories,China,0.6,0.64,Good,2/3/2022
+MB001940,Female,Yes,Elderly,Graduate,No,591.7,1261.2,928,1,Hong Kong Island,Thailand,0.63,0.66,Good,1/24/2022
+MB001778,Female,Yes,Elderly,Graduate,No,1853.8,1262,728,1,Kowloon,Malaysia,0.61,0.65,Good,2/25/2022
+MB001924,Female,No,Adult,Graduate,No,694.8,1263.2,336,1,New Territories,Korea,0.62,0.66,Good,6/1/2021
+MB002606,Female,No,Children,Primary,No,1159.1,1263.6,427,1,Kowloon,Korea,0.69,0.74,Excellent,7/19/2021
+MB002055,Female,No,Adult,Graduate,No,1521,1266.4,818,1,New Territories,Singapore,0.64,0.67,Good,1/13/2022
+MB002894,Female,Yes,Elderly,Graduate,No,1658.4,1266.4,978,1,Kowloon,Japan,0.72,0.79,Excellent,3/4/2021
+MB001263,Female,Yes,Elderly,Graduate,No,1896.3,1266.8,350,0,Kowloon,Japan,0.51,0.59,Satisfactory,6/5/2022
+MB001404,Female,Yes,Adult,Graduate,No,1388.3,1266.8,879,1,Kowloon,Thailand,0.55,0.61,Good,4/3/2022
+MB001716,Female,Yes,Adult,Graduate,No,1565.1,1269.2,546,1,Hong Kong Island,Japan,0.6,0.64,Good,2/13/2022
+MB002277,Female,No,Children,Primary,No,863.9,1272,280,0,Hong Kong Island,Thailand,0.66,0.69,Excellent,4/25/2021
+MB001770,Female,No,Children,Primary,No,2101.3,1275.6,245,1,New Territories,China,0.61,0.65,Good,11/2/2021
+MB001228,Female,No,Children,Primary,No,1733.1,1280,240,0,Hong Kong Island,Malaysia,0.5,0.59,Satisfactory,12/12/2021
+MB001243,Female,Yes,Adult,Graduate,No,2369.6,1283.2,444,1,Hong Kong Island,Japan,0.5,0.59,Satisfactory,5/22/2022
+MB001888,Female,No,Adult,Graduate,No,806.1,1294.8,926,1,Hong Kong Island,Japan,0.62,0.66,Good,3/2/2021
+MB001693,Female,No,Youth,Secondary,No,1792.4,1297.6,780,1,Hong Kong Island,Japan,0.59,0.64,Good,5/11/2021
+MB001751,Female,Yes,Adult,Graduate,No,2326,1300,304,1,New Territories,Taiwan,0.6,0.64,Good,5/18/2022
+MB001535,Female,No,Elderly,Graduate,No,1671.8,1301.6,404,1,Hong Kong Island,Malaysia,0.57,0.62,Good,3/16/2021
+MB001319,Female,Yes,Adult,Not Graduate,No,2499.6,1309.2,282,1,Hong Kong Island,Thailand,0.53,0.6,Satisfactory,5/15/2021
+MB001792,Female,Yes,Adult,Graduate,No,1701.6,1326,831,1,Kowloon,India,0.61,0.65,Good,6/30/2021
+MB001491,Female,Yes,Adult,Graduate,Yes,1361.4,1326.4,832,1,Hong Kong Island,Taiwan,0.56,0.61,Good,5/30/2021
+MB002586,Female,Yes,Adult,Graduate,No,731.5,1330.4,715,1,Kowloon,India,0.69,0.73,Excellent,8/13/2021
+MB001264,Female,Yes,Adult,Not Graduate,Yes,1698.1,1333.2,428,1,Kowloon,India,0.51,0.59,Satisfactory,1/4/2022
+MB001280,Female,Yes,Elderly,Not Graduate,No,1731.9,1333.2,366,1,Kowloon,Japan,0.52,0.59,Satisfactory,7/12/2021
+MB002031,Female,Yes,Elderly,Not Graduate,No,1430.7,1359.6,347,1,Hong Kong Island,Singapore,0.63,0.67,Good,9/16/2021
+MB002684,Female,No,Adult,Not Graduate,No,880.3,1360,412,1,New Territories,India,0.7,0.75,Excellent,6/22/2021
+MB001811,Female,Yes,Adult,Not Graduate,No,2630.6,1362.4,464,1,Kowloon,Thailand,0.61,0.65,Good,11/26/2021
+MB001671,Female,Yes,Adult,Graduate,No,1862.4,1366.4,326,1,Kowloon,Japan,0.59,0.64,Good,10/4/2021
+MB001702,Female,No,Children,Primary,No,2178,1367.2,506,1,Kowloon,Taiwan,0.6,0.64,Good,12/14/2021
+MB001883,Female,No,Children,Primary,No,1340.3,1367.2,662,1,New Territories,Thailand,0.62,0.66,Good,1/28/2022
+MB001836,Female,No,Adult,Graduate,No,2219.9,1370.8,302,1,Hong Kong Island,Singapore,0.61,0.65,Good,2/19/2022
+MB001711,Female,Yes,Elderly,Graduate,No,1387.2,1372,379,0,Kowloon,Singapore,0.6,0.64,Good,12/22/2021
+MB001482,Female,Yes,Elderly,Graduate,Yes,1542.4,1383.6,619,1,Kowloon,Korea,0.56,0.61,Good,2/27/2021
+MB001788,Female,No,Adult,Graduate,Yes,1440.6,1385.2,897,1,Hong Kong Island,Korea,0.61,0.65,Good,11/22/2021
+MB001870,Female,No,Children,Primary,No,877.1,1392.4,972,1,Kowloon,Japan,0.62,0.65,Good,4/7/2022
+MB001606,Female,Yes,Elderly,Graduate,No,2075.2,1398.8,730,1,New Territories,India,0.58,0.63,Good,10/22/2021
+MB001248,Female,No,Adult,Graduate,No,2574.3,1400,853,1,Kowloon,China,0.51,0.59,Satisfactory,5/17/2021
+MB001259,Female,Yes,Adult,Graduate,Yes,2033.8,1400,348,1,Hong Kong Island,Korea,0.51,0.59,Satisfactory,9/4/2021
+MB001688,Female,Yes,Elderly,Not Graduate,No,2544.4,1400,347,1,Hong Kong Island,Singapore,0.59,0.64,Good,1/31/2022
+MB001586,Female,Yes,Adult,Not Graduate,No,2544.8,1408.8,830,1,New Territories,Thailand,0.58,0.63,Good,5/18/2021
+MB002043,Female,No,Youth,Secondary,No,1643,1416.4,428,1,Kowloon,Japan,0.64,0.67,Good,9/20/2021
+MB001391,Female,Yes,Adult,Not Graduate,No,2068.1,1428.8,334,0,New Territories,China,0.55,0.6,Satisfactory,3/29/2022
+MB001325,Female,No,Youth,Secondary,No,2671.4,1448,796,1,Kowloon,Japan,0.53,0.6,Satisfactory,2/26/2021
+MB001639,Female,Yes,Adult,Graduate,No,1758.4,1450,855,1,Kowloon,China,0.59,0.63,Good,8/23/2021
+MB002753,Female,No,Youth,Tertiary,Yes,900.8,1460.8,339,1,Kowloon,Japan,0.7,0.76,Excellent,6/19/2021
+MB001443,Female,No,Elderly,Graduate,No,2498.3,1476.8,353,1,New Territories,Korea,0.55,0.61,Good,6/10/2021
+MB001926,Female,Yes,Adult,Graduate,No,1912,1481.6,381,1,New Territories,India,0.63,0.66,Good,11/4/2021
+MB001574,Female,Yes,Adult,Graduate,No,2565.4,1482.8,302,1,New Territories,Korea,0.58,0.62,Good,6/12/2022
+MB001768,Female,Yes,Adult,Graduate,Yes,2905.5,1486.4,814,1,New Territories,India,0.6,0.65,Good,3/7/2021
+MB001726,Female,Yes,Elderly,Graduate,No,1863.7,1490.8,480,1,Kowloon,Taiwan,0.6,0.64,Good,1/10/2022
+MB001255,Female,No,Elderly,Graduate,No,2293.2,1500,994,1,Hong Kong Island,Singapore,0.51,0.59,Satisfactory,10/5/2021
+MB001256,Female,No,Children,Primary,No,1879.2,1500,607,1,Hong Kong Island,Thailand,0.51,0.59,Satisfactory,6/2/2022
+MB001616,Female,Yes,Adult,Graduate,No,2963.5,1500,766,1,Kowloon,Malaysia,0.58,0.63,Good,10/21/2021
+MB001993,Female,No,Elderly,Graduate,No,1862.2,1504.8,998,1,New Territories,Malaysia,0.63,0.67,Good,1/30/2022
+MB001379,Female,Yes,Elderly,Graduate,No,2358.5,1520,323,0,Hong Kong Island,Thailand,0.54,0.6,Good,8/2/2022
+MB001790,Female,No,Elderly,Graduate,No,2955.1,1524.8,863,1,New Territories,Japan,0.61,0.65,Good,9/22/2021
+MB002144,Female,No,Children,Primary,No,1184.1,1525.2,410,1,Hong Kong Island,Singapore,0.65,0.68,Good,10/17/2021
+MB001357,Female,No,Elderly,Graduate,No,1182.9,1526.4,872,1,Hong Kong Island,China,0.54,0.6,Good,4/25/2022
+MB001265,Female,No,Youth,Secondary,No,2692.1,1538.4,407,1,Kowloon,China,0.52,0.59,Satisfactory,9/15/2021
+MB001720,Female,Yes,Elderly,Not Graduate,No,1683.9,1540,314,1,Kowloon,India,0.6,0.64,Good,7/26/2021
+MB001658,Female,No,Adult,Graduate,No,2292.6,1543.2,428,1,Kowloon,Taiwan,0.59,0.63,Good,5/5/2021
+MB001449,Female,No,Children,Primary,No,2488.9,1546,676,1,New Territories,India,0.56,0.61,Good,2/11/2021
+MB002318,Female,No,Youth,Tertiary,Yes,1015.1,1546.8,716,1,Kowloon,Malaysia,0.66,0.7,Excellent,4/3/2021
+MB001896,Female,Yes,Elderly,Graduate,No,1357.3,1560,607,1,Kowloon,Malaysia,0.62,0.66,Good,6/3/2021
+MB001691,Female,Yes,Adult,Not Graduate,No,1759.9,1566.8,680,1,Kowloon,Thailand,0.59,0.64,Good,11/30/2021
+MB001914,Female,Yes,Elderly,Graduate,No,1428.1,1570.8,513,1,Kowloon,Taiwan,0.62,0.66,Good,9/19/2021
+MB001698,Female,No,Adult,Not Graduate,No,2883.8,1590,601,1,New Territories,India,0.59,0.64,Good,3/23/2021
+MB001275,Female,Yes,Adult,Graduate,No,2228.3,1595.2,603,1,Hong Kong Island,Thailand,0.52,0.59,Satisfactory,3/18/2021
+MB001682,Female,Yes,Adult,Not Graduate,No,3053.3,1596.8,784,1,Hong Kong Island,Malaysia,0.59,0.64,Good,2/17/2021
+MB001903,Female,Yes,Elderly,Graduate,No,1005.8,1597.2,328,1,Kowloon,Thailand,0.62,0.66,Good,7/25/2022
+MB001488,Female,Yes,Adult,Graduate,No,2543.3,1600,863,1,Kowloon,India,0.56,0.61,Good,9/6/2022
+MB001978,Female,No,Youth,Secondary,No,1330.6,1600,665,1,New Territories,China,0.63,0.67,Good,2/23/2022
+MB001743,Female,Yes,Elderly,Graduate,No,1983.1,1603.6,263,1,Kowloon,Korea,0.6,0.64,Good,10/19/2021
+MB001910,Female,No,Children,Primary,Yes,1268.3,1621.2,352,0,Hong Kong Island,China,0.62,0.66,Good,4/13/2022
+MB001875,Female,No,Elderly,Graduate,No,739.3,1638,591,1,New Territories,Taiwan,0.62,0.66,Good,3/23/2022
+MB001908,Female,Yes,Adult,Not Graduate,No,835.4,1640,609,1,New Territories,India,0.62,0.66,Good,11/27/2021
+MB001931,Female,No,Children,Primary,No,2233.4,1649.6,748,1,Kowloon,China,0.63,0.66,Good,10/9/2021
+MB001322,Female,No,Children,Primary,No,2414,1653.2,248,1,Kowloon,Korea,0.53,0.6,Satisfactory,11/21/2021
+MB002114,Female,No,Youth,Secondary,No,1947.3,1664,332,1,Kowloon,Singapore,0.64,0.68,Good,4/23/2021
+MB001222,Female,No,Elderly,Graduate,No,2786.9,1666.4,516,0,Kowloon,China,0.5,0.58,Satisfactory,10/20/2021
+MB001430,Female,No,Youth,Secondary,No,2417.4,1666.4,698,1,Kowloon,Taiwan,0.55,0.61,Good,3/8/2021
+MB001570,Female,Yes,Adult,Graduate,No,2547.3,1666.8,635,1,New Territories,Singapore,0.58,0.62,Good,4/18/2022
+MB001835,Female,Yes,Elderly,Not Graduate,No,1845.3,1667.2,725,0,Kowloon,Malaysia,0.61,0.65,Good,7/21/2022
+MB002804,Female,Yes,Adult,Graduate,No,2255.3,1672,503,1,Kowloon,India,0.71,0.77,Excellent,6/11/2022
+MB001334,Female,Yes,Elderly,Not Graduate,No,2879.9,1675.2,333,1,Kowloon,Malaysia,0.53,0.6,Satisfactory,10/15/2021
+MB001664,Female,No,Elderly,Graduate,No,2565.7,1676.4,564,1,New Territories,Malaysia,0.59,0.63,Good,11/11/2021
+MB001493,Female,Yes,Elderly,Not Graduate,No,3349.1,1680,591,1,New Territories,Singapore,0.56,0.62,Good,12/28/2021
+MB001734,Female,Yes,Elderly,Graduate,No,2887.6,1713.2,913,1,Kowloon,Singapore,0.6,0.64,Good,12/15/2021
+MB001345,Female,Yes,Elderly,Not Graduate,No,1853.5,1715.2,363,1,Hong Kong Island,Thailand,0.54,0.6,Satisfactory,1/21/2022
+MB001241,Female,No,Youth,Secondary,No,2201.9,1720,656,0,Kowloon,Korea,0.5,0.59,Satisfactory,2/9/2022
+MB001439,Female,Yes,Elderly,Not Graduate,No,1749.6,1720,923,1,New Territories,Thailand,0.55,0.61,Good,7/14/2022
+MB001882,Female,Yes,Adult,Graduate,No,2136.1,1733.2,526,0,Hong Kong Island,Singapore,0.62,0.66,Good,4/26/2022
+MB002086,Female,Yes,Elderly,Graduate,No,1234.8,1733.2,296,1,Hong Kong Island,China,0.64,0.67,Good,9/9/2021
+MB001603,Female,Yes,Adult,Not Graduate,Yes,3156.7,1737.6,929,1,Kowloon,Japan,0.58,0.63,Good,5/27/2021
+MB002534,Female,No,Children,Primary,No,1728.3,1740,890,1,New Territories,China,0.68,0.73,Excellent,4/2/2022
+MB001938,Female,Yes,Adult,Graduate,No,1711.8,1760,642,0,Kowloon,Singapore,0.63,0.66,Good,12/13/2021
+MB001692,Female,No,Children,Primary,No,3226,1763.2,393,1,Kowloon,Korea,0.59,0.64,Good,11/9/2021
+MB001949,Female,Yes,Elderly,Graduate,Yes,2919,1766.4,908,1,Hong Kong Island,India,0.63,0.66,Good,9/11/2021
+MB002305,Female,No,Elderly,Graduate,No,1893.2,1818.8,332,1,Kowloon,Korea,0.66,0.7,Excellent,10/14/2021
+MB001489,Female,Yes,Elderly,Graduate,No,2921.5,1833.2,398,1,New Territories,China,0.56,0.61,Good,5/23/2021
+MB001552,Female,Yes,Adult,Graduate,No,2098.1,1833.2,381,1,Kowloon,India,0.57,0.62,Good,8/20/2022
+MB001577,Female,Yes,Elderly,Graduate,No,3178.9,1833.2,351,1,New Territories,Japan,0.58,0.62,Good,9/24/2021
+MB002990,Female,No,Children,Primary,Yes,1936.1,1833.2,716,0,Kowloon,Korea,0.73,0.83,Excellent,1/20/2022
+MB001636,Female,Yes,Adult,Graduate,No,2879.4,1840,686,1,Kowloon,Japan,0.58,0.63,Good,4/27/2021
+MB002367,Female,No,Youth,Tertiary,No,2297.3,1842.4,525,1,New Territories,Malaysia,0.67,0.7,Excellent,5/14/2021
+MB002741,Female,Yes,Elderly,Graduate,No,1102.3,1843.2,600,1,Kowloon,Thailand,0.7,0.76,Excellent,2/26/2022
+MB001356,Female,Yes,Adult,Graduate,No,2634.9,1860.8,400,1,Kowloon,India,0.54,0.6,Good,2/14/2021
+MB001954,Female,Yes,Elderly,Graduate,No,1554.6,1866.4,900,1,Hong Kong Island,Taiwan,0.63,0.66,Good,2/2/2022
+MB001877,Female,Yes,Elderly,Graduate,No,1044.7,1883.2,222,1,Kowloon,Malaysia,0.62,0.66,Good,3/19/2022
+MB002161,Female,No,Youth,Secondary,No,1489.2,1889.2,351,1,Kowloon,China,0.65,0.68,Good,5/13/2021
+MB001754,Female,Yes,Adult,Not Graduate,Yes,1125,1894,1000,1,Hong Kong Island,Malaysia,0.6,0.64,Good,2/15/2022
+MB001250,Female,Yes,Adult,Not Graduate,No,3562.8,1902,539,0,Kowloon,Taiwan,0.51,0.59,Satisfactory,6/23/2021
+MB001760,Female,No,Children,Primary,No,963.8,1903.2,242,1,Kowloon,Thailand,0.6,0.64,Good,4/14/2022
+MB001349,Female,No,Elderly,Graduate,No,2384.9,1937.2,339,1,Kowloon,Korea,0.54,0.6,Good,3/26/2022
+MB001520,Female,Yes,Adult,Graduate,No,2879.7,1944,391,1,Kowloon,Korea,0.57,0.62,Good,12/5/2021
+MB001653,Female,No,Children,Primary,No,2467.6,1954,300,1,New Territories,Japan,0.59,0.63,Good,3/14/2021
+MB001487,Female,No,Children,Primary,No,2007.8,1958,566,1,Kowloon,Japan,0.56,0.61,Good,7/31/2021
+MB001677,Female,No,Elderly,Graduate,No,3272.8,1969.2,467,0,Kowloon,Taiwan,0.59,0.64,Good,5/11/2022
+MB001864,Female,Yes,Elderly,Not Graduate,No,1162,1972.4,343,1,Kowloon,Singapore,0.62,0.65,Good,12/21/2021
+MB001732,Female,Yes,Adult,Graduate,Yes,2096.8,2000,419,0,Kowloon,Malaysia,0.6,0.64,Good,4/26/2021
+MB001955,Female,No,Elderly,Graduate,No,2361.8,2000,502,1,New Territories,Malaysia,0.63,0.66,Good,3/24/2022
+MB001974,Female,No,Children,Primary,No,2233.9,2000,873,1,New Territories,Japan,0.63,0.67,Good,1/17/2022
+MB002776,Female,No,Children,Primary,No,1037.9,2000,201,0,Kowloon,Thailand,0.71,0.76,Excellent,8/3/2021
+MB001497,Female,Yes,Adult,Graduate,No,3145.7,2016.8,748,1,New Territories,Thailand,0.56,0.62,Good,6/18/2022
+MB001398,Female,No,Elderly,Graduate,Yes,2257.3,2020,602,1,Kowloon,Malaysia,0.55,0.61,Good,10/26/2021
+MB001872,Female,No,Adult,Graduate,Yes,2532.7,2066.4,503,1,Kowloon,China,0.62,0.66,Good,12/23/2021
+MB002489,Female,No,Elderly,Not Graduate,Yes,1051.6,2076.4,453,1,Kowloon,India,0.68,0.72,Excellent,1/18/2022
+MB001854,Female,Yes,Elderly,Graduate,No,3259.6,2100,912,1,Hong Kong Island,Taiwan,0.61,0.65,Good,6/14/2021
+MB001253,Female,Yes,Elderly,Graduate,Yes,2780.2,2106.4,698,1,Kowloon,Malaysia,0.51,0.59,Satisfactory,7/1/2022
+MB001385,Female,No,Youth,Secondary,No,2746.9,2126.4,764,1,Hong Kong Island,Japan,0.54,0.6,Good,2/8/2022
+MB001498,Female,No,Adult,Graduate,No,3679,2166.8,814,1,Hong Kong Island,Korea,0.56,0.62,Good,5/15/2022
+MB001945,Female,No,Adult,Graduate,No,2056.9,2166.8,300,0,Hong Kong Island,Korea,0.63,0.66,Good,3/4/2022
+MB001784,Female,Yes,Adult,Graduate,No,3378.8,2200,619,1,New Territories,Singapore,0.61,0.65,Good,5/17/2022
+MB002142,Female,Yes,Adult,Graduate,Yes,3046.3,2200,367,0,New Territories,Taiwan,0.65,0.68,Good,8/12/2021
+MB001610,Female,Yes,Elderly,Graduate,No,3065.1,2206.4,565,0,Kowloon,Taiwan,0.58,0.63,Good,10/1/2022
+MB001421,Female,Yes,Adult,Graduate,No,2281.9,2227.2,832,1,New Territories,Japan,0.55,0.61,Good,5/27/2022
+MB002603,Female,No,Elderly,Graduate,No,1689.5,2258,355,1,New Territories,Thailand,0.69,0.74,Excellent,10/6/2021
+MB001426,Female,Yes,Adult,Graduate,No,2668.4,2266.8,678,1,New Territories,China,0.55,0.61,Good,6/4/2022
+MB001310,Female,Yes,Elderly,Graduate,No,2624.6,2278,942,1,Kowloon,Taiwan,0.52,0.6,Satisfactory,5/29/2022
+MB001715,Female,Yes,Elderly,Not Graduate,Yes,3037.9,2281.2,667,1,New Territories,Korea,0.6,0.64,Good,1/6/2022
+MB001594,Female,Yes,Elderly,Graduate,No,2446.3,2283.2,308,1,Kowloon,Korea,0.58,0.63,Good,6/30/2022
+MB001225,Female,Yes,Elderly,Graduate,No,4462.5,2290.4,881,1,Kowloon,Taiwan,0.5,0.59,Satisfactory,8/23/2022
+MB001786,Female,Yes,Elderly,Graduate,Yes,4579.2,2298.4,557,1,Hong Kong Island,Thailand,0.61,0.65,Good,8/21/2022
+MB002008,Female,Yes,Elderly,Graduate,Yes,2308.2,2298.4,742,1,New Territories,Taiwan,0.63,0.67,Good,3/9/2022
+MB001798,Female,Yes,Elderly,Graduate,No,3887.2,2327.6,231,1,New Territories,China,0.61,0.65,Good,11/15/2021
+MB001273,Female,Yes,Elderly,Graduate,No,4296.2,2400,348,1,Kowloon,Singapore,0.52,0.59,Satisfactory,8/29/2022
+MB001541,Female,Yes,Adult,Graduate,No,4477.6,2400,670,1,New Territories,Thailand,0.57,0.62,Good,4/30/2022
+MB002231,Female,No,Elderly,Graduate,No,1021.6,2400,867,1,Hong Kong Island,Japan,0.66,0.69,Excellent,4/10/2022
+MB001657,Female,Yes,Adult,Not Graduate,No,4648.7,2413.2,763,1,Hong Kong Island,China,0.59,0.63,Good,4/29/2022
+MB001849,Female,No,Adult,Not Graduate,No,3352.9,2418,908,0,New Territories,China,0.61,0.65,Good,10/16/2021
+MB001813,Female,No,Youth,Secondary,Yes,3717.4,2420,745,1,Hong Kong Island,Korea,0.61,0.65,Good,11/14/2021
+MB001465,Female,Yes,Adult,Graduate,No,3706.2,2432,316,1,New Territories,Taiwan,0.56,0.61,Good,6/13/2022
+MB001865,Female,Yes,Adult,Graduate,No,1645.7,2433.2,970,1,Hong Kong Island,Thailand,0.62,0.65,Good,9/17/2022
+MB001318,Female,Yes,Elderly,Graduate,No,3688,2500,854,1,Kowloon,Singapore,0.53,0.6,Satisfactory,7/7/2022
+MB001750,Female,Yes,Elderly,Graduate,No,2617.3,2500,881,1,Kowloon,China,0.6,0.64,Good,12/25/2021
+MB001758,Female,Yes,Adult,Graduate,No,3828.1,2500,438,1,Kowloon,Singapore,0.6,0.64,Good,7/28/2022
+MB001807,Female,Yes,Elderly,Graduate,Yes,3843.1,2500,423,1,New Territories,Singapore,0.61,0.65,Good,8/24/2021
+MB001528,Female,No,Youth,Secondary,No,4167.8,2510.8,599,0,New Territories,Japan,0.57,0.62,Good,10/25/2021
+MB002035,Male,Yes,Adult,Graduate,No,1076.1,1486.8,782,1,Kowloon,Thailand,0.64,0.67,Good,11/7/2021
+MB002036,Male,Yes,Elderly,Graduate,No,552.2,823.2,626,1,Hong Kong Island,Korea,0.64,0.67,Good,5/28/2021
+MB001633,Female,Yes,Elderly,Graduate,No,4531.3,2560,995,0,Hong Kong Island,Thailand,0.58,0.63,Good,6/8/2022
+MB002050,Male,Yes,Adult,Graduate,Yes,3875,4000,972,1,New Territories,India,0.64,0.67,Good,4/9/2022
+MB002051,Male,Yes,Elderly,Graduate,No,423.7,960,628,1,Kowloon,China,0.64,0.67,Good,10/11/2021
+MB002053,Male,Yes,Adult,Graduate,No,2217,1736.8,397,1,Kowloon,Taiwan,0.64,0.67,Good,11/28/2021
+MB002054,Male,Yes,Elderly,Not Graduate,No,995.1,1440.4,223,1,New Territories,Malaysia,0.64,0.67,Good,2/12/2021
+MB001761,Female,No,Elderly,Graduate,Yes,3072.6,2560,436,1,New Territories,Korea,0.6,0.65,Good,7/19/2022
+MB002065,Male,Yes,Adult,Graduate,No,7889.5,6000,875,1,New Territories,Thailand,0.64,0.67,Good,9/9/2022
+MB002067,Male,Yes,Elderly,Graduate,Yes,3058.3,3466.4,675,0,New Territories,Korea,0.64,0.67,Good,9/22/2022
+MB002068,Male,No,Elderly,Graduate,No,1604.8,1966.8,966,0,New Territories,Japan,0.64,0.67,Good,12/31/2021
+MB002082,Male,Yes,Adult,Graduate,Yes,2607.7,2327.2,790,1,Kowloon,India,0.64,0.67,Good,6/16/2022
+MB001819,Female,Yes,Adult,Not Graduate,No,3840.8,2643.2,584,1,Hong Kong Island,India,0.61,0.65,Good,2/14/2022
+MB001585,Female,Yes,Elderly,Graduate,No,2865.7,2705.2,741,1,Hong Kong Island,Singapore,0.58,0.63,Good,10/8/2022
+MB002097,Male,No,Youth,Secondary,No,1790.2,1753.6,751,1,Hong Kong Island,Malaysia,0.64,0.67,Good,10/23/2021
+MB002098,Male,No,Adult,Graduate,No,1047.7,1174,729,1,Kowloon,Singapore,0.64,0.67,Good,7/8/2021
+MB002100,Male,No,Elderly,Graduate,No,1280.3,1133.2,425,1,Hong Kong Island,Thailand,0.64,0.67,Good,4/24/2021
+MB002101,Male,Yes,Adult,Graduate,Yes,1715.3,2334.8,725,1,Hong Kong Island,Korea,0.64,0.67,Good,9/30/2022
+MB002103,Male,Yes,Elderly,Graduate,Yes,4618.8,3933.2,629,1,Hong Kong Island,Japan,0.64,0.67,Good,6/14/2022
+MB002106,Male,Yes,Adult,Graduate,Yes,2451.4,2201.2,573,1,Kowloon,India,0.64,0.67,Good,4/16/2021
+MB002110,Male,Yes,Elderly,Graduate,Yes,1330.6,2100,811,1,New Territories,China,0.64,0.67,Good,4/28/2022
+MB002112,Male,Yes,Adult,Graduate,Yes,842,1000,808,1,New Territories,Taiwan,0.64,0.68,Good,6/1/2022
+MB001326,Female,No,Adult,Graduate,Yes,5151.9,2712.8,956,1,Hong Kong Island,India,0.53,0.6,Satisfactory,2/21/2021
+MB001953,Female,Yes,Adult,Graduate,No,3513.6,2750,273,1,Kowloon,China,0.63,0.66,Good,7/16/2022
+MB002115,Male,Yes,Elderly,Not Graduate,No,1070.4,1058.8,344,1,New Territories,Thailand,0.64,0.68,Good,5/25/2022
+MB001504,Female,No,Elderly,Graduate,Yes,5432.5,2780,709,1,Kowloon,Japan,0.57,0.62,Good,5/31/2022
+MB002119,Male,Yes,Adult,Not Graduate,No,1463.2,1821.6,761,1,Hong Kong Island,Japan,0.64,0.68,Excellent,4/17/2022
+MB002126,Male,Yes,Elderly,Not Graduate,No,903.1,1269.2,533,1,Kowloon,India,0.64,0.68,Excellent,4/28/2021
+MB002128,Male,Yes,Adult,Graduate,Yes,1336.6,1033.2,792,1,New Territories,China,0.64,0.68,Excellent,12/3/2021
+MB002129,Male,Yes,Elderly,Graduate,No,601.7,999.6,233,1,Kowloon,Taiwan,0.64,0.68,Excellent,4/20/2022
+MB002130,Male,Yes,Adult,Not Graduate,No,1849.9,1409.2,746,0,New Territories,Malaysia,0.64,0.68,Excellent,3/27/2022
+MB002131,Male,Yes,Elderly,Not Graduate,No,1160.4,1233.2,733,1,Hong Kong Island,Singapore,0.64,0.68,Excellent,12/10/2021
+MB002137,Male,Yes,Adult,Graduate,No,1437.5,2533.2,335,1,Kowloon,Thailand,0.65,0.68,Excellent,8/24/2022
+MB002138,Male,Yes,Elderly,Graduate,No,552.2,1050,203,1,New Territories,Korea,0.65,0.68,Excellent,6/24/2022
+MB002139,Male,Yes,Adult,Graduate,No,2156.2,3633.2,986,1,Kowloon,Japan,0.65,0.68,Excellent,8/7/2022
+MB002140,Male,No,Elderly,Graduate,No,1536.9,3500,828,1,New Territories,India,0.65,0.68,Good,9/11/2022
+MB002141,Male,Yes,Elderly,Graduate,No,1364.5,1066.4,501,1,New Territories,China,0.65,0.68,Good,6/18/2021
+MB001238,Female,Yes,Elderly,Not Graduate,Yes,5475.5,2840,709,1,Hong Kong Island,Thailand,0.5,0.59,Satisfactory,12/8/2021
+MB002407,Female,Yes,Elderly,Not Graduate,Yes,3494.8,2856.8,624,1,New Territories,India,0.67,0.71,Excellent,2/18/2022
+MB001871,Female,No,Youth,Secondary,No,2058.7,2880,464,1,New Territories,India,0.62,0.66,Good,11/13/2021
+MB002149,Male,Yes,Adult,Graduate,No,1420.1,3333.2,879,1,New Territories,Thailand,0.65,0.68,Good,5/9/2022
+MB002151,Male,Yes,Elderly,Graduate,No,1210,1550,890,1,Hong Kong Island,Korea,0.65,0.68,Good,4/12/2021
+MB002158,Male,Yes,Adult,Not Graduate,No,1575.8,1200,588,0,Hong Kong Island,Japan,0.65,0.68,Good,7/20/2021
+MB002160,Male,Yes,Elderly,Graduate,No,2162.5,2066.8,380,1,Kowloon,India,0.65,0.68,Good,7/18/2022
+MB001370,Female,No,Children,Primary,No,3348,2933.2,311,1,New Territories,Singapore,0.54,0.6,Good,11/12/2021
+MB002170,Male,Yes,Adult,Graduate,No,2706.9,2000,780,1,Kowloon,Taiwan,0.65,0.68,Good,8/10/2022
+MB002175,Male,Yes,Elderly,Graduate,No,1947.7,1900,806,1,Hong Kong Island,Malaysia,0.65,0.68,Good,12/30/2021
+MB002178,Male,Yes,Adult,Graduate,No,757.1,1205.2,379,1,Hong Kong Island,Singapore,0.65,0.68,Good,6/16/2021
+MB002180,Male,No,Adult,Graduate,Yes,1512.7,2728.8,694,1,New Territories,Thailand,0.65,0.68,Good,2/28/2022
+MB002181,Male,No,Elderly,Not Graduate,No,3351.7,2486.4,750,1,New Territories,Korea,0.65,0.68,Excellent,1/19/2022
+MB002187,Male,No,Children,Primary,No,1018,1000,440,1,Kowloon,Japan,0.65,0.68,Excellent,6/28/2021
+MB002188,Male,No,Youth,Secondary,No,2111.4,2049.6,428,0,New Territories,India,0.65,0.68,Excellent,12/1/2021
+MB002190,Male,Yes,Elderly,Graduate,No,3535.2,2530,833,1,Kowloon,China,0.65,0.68,Excellent,5/26/2022
+MB002191,Male,Yes,Adult,Graduate,No,8391.2,7892,379,1,New Territories,Taiwan,0.65,0.69,Excellent,10/4/2022
+MB002949,Female,No,Youth,Tertiary,Yes,1561.8,2966.4,824,1,Hong Kong Island,China,0.73,0.81,Excellent,9/19/2022
+MB002197,Male,Yes,Elderly,Graduate,No,1809.1,2074,735,1,Kowloon,Singapore,0.65,0.69,Excellent,4/8/2022
+MB002201,Male,Yes,Adult,Graduate,Yes,4068.6,3729.2,520,1,New Territories,Thailand,0.65,0.69,Excellent,9/23/2022
+MB002205,Male,No,Elderly,Graduate,No,1457.3,1224.8,829,0,Hong Kong Island,Korea,0.65,0.69,Excellent,9/13/2021
+MB002301,Female,No,Adult,Graduate,Yes,3484.6,2976.4,218,1,New Territories,Thailand,0.66,0.7,Excellent,7/13/2022
+MB002211,Male,Yes,Elderly,Graduate,No,1675.1,1926.8,831,1,Hong Kong Island,India,0.65,0.69,Excellent,10/29/2021
+MB002219,Male,Yes,Adult,Graduate,No,4563.2,3500,233,1,New Territories,China,0.65,0.69,Excellent,1/7/2022
+MB002223,Male,Yes,Elderly,Graduate,No,2387.3,1724,275,1,Kowloon,Taiwan,0.65,0.69,Excellent,1/5/2022
+MB002224,Male,No,Youth,Secondary,No,1544.3,1227.6,360,1,Hong Kong Island,Malaysia,0.65,0.69,Excellent,4/22/2021
+MB002225,Male,Yes,Adult,Graduate,No,2330.2,2156.4,855,1,Hong Kong Island,Singapore,0.65,0.69,Excellent,1/3/2022
+MB002226,Male,Yes,Elderly,Graduate,Yes,731.7,1333.2,659,1,Kowloon,Thailand,0.65,0.69,Excellent,12/17/2021
+MB002229,Male,No,Adult,Graduate,No,2450.7,2376.4,656,1,Kowloon,Korea,0.65,0.69,Excellent,9/8/2022
+MB001392,Female,No,Adult,Graduate,Yes,4169.9,2980.4,312,1,Kowloon,Taiwan,0.55,0.61,Good,2/20/2021
+MB002234,Male,No,Children,Primary,Yes,1505.3,2866.8,321,1,Hong Kong Island,India,0.66,0.69,Excellent,12/20/2021
+MB002236,Male,Yes,Adult,Graduate,No,2443.8,1826.4,906,1,Hong Kong Island,China,0.66,0.69,Excellent,7/22/2021
+MB002237,Male,No,Youth,Secondary,Yes,918.5,1466.8,725,1,Hong Kong Island,Taiwan,0.66,0.69,Excellent,10/1/2021
+MB002239,Male,No,Adult,Not Graduate,No,1278.6,938.4,220,1,Kowloon,Malaysia,0.66,0.69,Excellent,1/15/2022
+MB001749,Female,Yes,Adult,Graduate,No,4442.7,3031.2,530,1,Kowloon,India,0.6,0.64,Good,5/30/2022
+MB002244,Male,Yes,Adult,Graduate,No,896.6,933.2,906,1,Hong Kong Island,Thailand,0.66,0.69,Excellent,2/5/2022
+MB002250,Male,Yes,Elderly,Graduate,No,2194.1,2195.2,527,1,New Territories,Korea,0.66,0.69,Excellent,12/4/2021
+MB002255,Male,No,Elderly,Graduate,No,4535.6,3666.8,836,1,New Territories,Japan,0.66,0.69,Excellent,6/20/2022
+MB002262,Male,Yes,Adult,Graduate,No,4462,3801.6,543,1,New Territories,India,0.66,0.69,Excellent,9/1/2022
+MB002263,Male,Yes,Elderly,Graduate,No,458.5,1033.2,794,1,Hong Kong Island,China,0.66,0.69,Excellent,10/28/2021
+MB002265,Male,Yes,Adult,Not Graduate,No,955.7,797.2,962,1,Kowloon,Taiwan,0.66,0.69,Excellent,9/26/2021
+MB002266,Male,Yes,Elderly,Graduate,No,580.1,1240,375,1,Hong Kong Island,Malaysia,0.66,0.69,Excellent,9/29/2021
+MB002272,Male,Yes,Adult,Graduate,No,1742.8,1310.4,650,1,Kowloon,Singapore,0.66,0.69,Excellent,2/1/2022
+MB001998,Female,Yes,Adult,Not Graduate,No,1914.5,3066.8,645,1,New Territories,Korea,0.63,0.67,Good,6/19/2022
+MB002281,Male,Yes,Elderly,Graduate,No,1552.5,1213.2,758,1,Hong Kong Island,Korea,0.66,0.69,Excellent,6/21/2021
+MB002284,Male,No,Youth,Secondary,No,2172.1,1560.8,627,1,New Territories,Japan,0.66,0.69,Excellent,8/26/2021
+MB001713,Female,Yes,Adult,Graduate,Yes,3183.2,3114.8,644,1,Hong Kong Island,Thailand,0.6,0.64,Good,8/12/2022
+MB002288,Male,Yes,Adult,Not Graduate,No,1471.4,1155.6,490,0,Hong Kong Island,China,0.66,0.7,Excellent,3/10/2021
+MB002296,Male,No,Elderly,Not Graduate,No,763.4,1102,760,1,New Territories,Taiwan,0.66,0.7,Excellent,4/5/2021
+MB002297,Male,No,Children,Primary,No,739,1000,615,1,Kowloon,Malaysia,0.66,0.7,Excellent,8/2/2021
+MB001562,Female,Yes,Adult,Graduate,No,4988.4,3173.2,444,1,Hong Kong Island,Taiwan,0.57,0.62,Good,9/2/2022
+MB001580,Female,Yes,Elderly,Graduate,No,5429.3,3200,428,1,Kowloon,Taiwan,0.58,0.63,Good,7/20/2022
+MB001666,Female,No,Children,Primary,No,5698.1,3333.2,597,1,New Territories,Thailand,0.59,0.63,Good,7/4/2022
+MB002308,Male,Yes,Elderly,Not Graduate,No,955.9,866.8,207,1,Hong Kong Island,Japan,0.66,0.7,Excellent,10/10/2021
+MB001776,Female,No,Youth,Secondary,No,4968.7,3333.2,917,1,Kowloon,Taiwan,0.61,0.65,Good,9/4/2022
+MB002315,Male,Yes,Adult,Graduate,No,4242.1,3320,358,0,Kowloon,China,0.66,0.7,Excellent,3/30/2022
+MB002317,Male,Yes,Elderly,Graduate,No,2902.4,3400,272,0,New Territories,Taiwan,0.66,0.7,Excellent,9/20/2022
+MB001289,Female,No,Elderly,Graduate,No,5158.9,3426.4,931,1,Hong Kong Island,China,0.52,0.59,Satisfactory,7/29/2022
+MB002319,Male,Yes,Adult,Graduate,Yes,3166.4,2502.4,535,1,Hong Kong Island,Singapore,0.66,0.7,Excellent,4/23/2022
+MB002328,Male,Yes,Elderly,Not Graduate,No,2460.9,2438.4,515,0,New Territories,Thailand,0.66,0.7,Excellent,8/3/2022
+MB002332,Male,Yes,Adult,Not Graduate,No,951.4,901.2,279,1,New Territories,Korea,0.66,0.7,Excellent,8/27/2021
+MB002377,Female,No,Elderly,Graduate,Yes,2514.6,3449.6,688,1,Kowloon,Japan,0.67,0.71,Excellent,3/21/2022
+MB001637,Female,Yes,Elderly,Graduate,No,5868.1,3538.4,261,1,Kowloon,India,0.58,0.63,Good,8/28/2022
+MB001531,Female,No,Adult,Graduate,No,5408.1,3666.4,520,1,Hong Kong Island,China,0.57,0.62,Good,8/15/2022
+MB002342,Male,Yes,Adult,Graduate,Yes,337.8,640,900,1,Hong Kong Island,Taiwan,0.66,0.7,Excellent,8/11/2022
+MB002345,Male,Yes,Elderly,Graduate,No,499.7,410,389,1,New Territories,Malaysia,0.67,0.7,Excellent,9/18/2021
+MB002347,Male,Yes,Adult,Graduate,No,925.4,1298.4,301,1,Kowloon,Singapore,0.67,0.7,Excellent,2/16/2022
+MB002348,Male,Yes,Adult,Graduate,No,1975.6,2331.6,537,1,New Territories,Thailand,0.67,0.7,Excellent,2/20/2022
+MB001572,Female,Yes,Elderly,Graduate,No,5479.2,3729.2,854,1,Hong Kong Island,Thailand,0.58,0.62,Good,5/3/2021
+MB002361,Male,Yes,Elderly,Graduate,No,401.9,728,495,1,Hong Kong Island,Japan,0.67,0.7,Excellent,7/13/2021
+MB002362,Male,Yes,Adult,Graduate,No,3727.8,2900,943,0,Hong Kong Island,India,0.67,0.7,Excellent,9/7/2021
+MB002364,Male,Yes,Elderly,Graduate,No,8014.3,5952,457,1,Kowloon,China,0.67,0.7,Excellent,7/2/2021
+MB002366,Male,Yes,Adult,Graduate,No,1131.3,1066.4,839,1,New Territories,Taiwan,0.67,0.7,Excellent,11/17/2021
+MB001647,Female,Yes,Elderly,Graduate,No,4167.9,3731.2,272,1,New Territories,Korea,0.59,0.63,Good,7/8/2022
+MB002368,Male,Yes,Elderly,Graduate,No,2251.8,2374,974,1,Kowloon,Singapore,0.67,0.71,Excellent,1/22/2022
+MB002369,Male,Yes,Adult,Graduate,No,1587.2,1168,283,1,New Territories,Thailand,0.67,0.71,Excellent,5/26/2021
+MB002370,Male,No,Adult,Not Graduate,No,1176.9,1086.8,273,1,Hong Kong Island,Korea,0.67,0.71,Excellent,4/1/2021
+MB001935,Female,No,Youth,Secondary,No,3059.5,3803.2,884,1,New Territories,Taiwan,0.63,0.66,Good,7/2/2022
+MB002379,Male,No,Children,Primary,No,1646.7,2600,902,0,New Territories,India,0.67,0.71,Excellent,8/14/2021
+MB002386,Male,No,Youth,Tertiary,Yes,2402.9,5150.4,557,1,Kowloon,China,0.67,0.71,Excellent,9/25/2022
+MB002387,Male,Yes,Elderly,Graduate,No,1331.7,970,472,1,Kowloon,Taiwan,0.67,0.71,Excellent,3/3/2022
+MB002390,Male,No,Adult,Graduate,No,1126.3,1500,944,1,Hong Kong Island,Malaysia,0.67,0.71,Excellent,7/16/2021
+MB001543,Female,Yes,Elderly,Graduate,No,7095.9,3815.2,800,1,Hong Kong Island,Korea,0.57,0.62,Good,7/3/2022
+MB002398,Male,No,Elderly,Graduate,No,971,770.4,799,1,Kowloon,Thailand,0.67,0.71,Excellent,3/15/2021
+MB001814,Female,Yes,Elderly,Graduate,No,4246.3,3881.2,920,1,Hong Kong Island,Japan,0.61,0.65,Good,9/25/2021
+MB002403,Male,No,Children,Primary,Yes,5684.3,4166.4,609,0,Hong Kong Island,Japan,0.67,0.71,Excellent,6/27/2022
+MB001519,Female,No,Children,Primary,No,4479,4000,546,1,New Territories,Thailand,0.57,0.62,Good,8/4/2022
+MB002408,Male,No,Youth,Tertiary,No,1868.9,1464,508,1,Kowloon,China,0.67,0.71,Excellent,6/25/2022
+MB002409,Male,Yes,Adult,Graduate,No,3910,3160.4,454,1,New Territories,Taiwan,0.67,0.71,Excellent,6/6/2022
+MB002418,Male,No,Adult,Not Graduate,No,917.5,1882.8,973,1,Kowloon,Malaysia,0.67,0.71,Excellent,3/13/2022
+MB002422,Male,No,Elderly,Graduate,No,6886.1,9087.6,937,1,Kowloon,Singapore,0.67,0.71,Excellent,3/31/2022
+MB002424,Male,Yes,Adult,Graduate,No,3220,2933.2,987,1,New Territories,Thailand,0.67,0.71,Excellent,5/28/2022
+MB002429,Male,Yes,Adult,Graduate,Yes,1301,1386.4,354,1,New Territories,Korea,0.67,0.71,Excellent,1/2/2022
+MB002434,Male,Yes,Elderly,Not Graduate,No,997.3,1860.8,397,1,New Territories,Japan,0.67,0.71,Excellent,9/6/2021
+MB002435,Male,Yes,Adult,Graduate,Yes,907,1415.6,206,1,New Territories,India,0.67,0.71,Excellent,3/21/2021
+MB002443,Male,Yes,Elderly,Graduate,No,1692.6,1336,833,0,New Territories,China,0.67,0.71,Excellent,3/17/2022
+MB002444,Male,No,Children,Primary,Yes,582.6,1107.6,456,1,Kowloon,Taiwan,0.67,0.71,Excellent,7/9/2022
+MB002446,Male,Yes,Adult,Not Graduate,No,509.2,923.6,435,0,New Territories,Malaysia,0.67,0.71,Excellent,12/2/2021
+MB002447,Male,Yes,Elderly,Not Graduate,No,1076.1,783.2,814,1,Hong Kong Island,Singapore,0.67,0.71,Excellent,3/29/2021
+MB002448,Male,Yes,Adult,Graduate,No,667.7,1579.2,531,0,New Territories,Thailand,0.67,0.71,Excellent,3/15/2022
+MB002449,Male,Yes,Elderly,Graduate,No,913.8,993.2,770,0,New Territories,Korea,0.67,0.72,Excellent,6/6/2021
+MB002453,Male,No,Youth,Tertiary,Yes,2498.8,2834,670,1,Kowloon,Japan,0.67,0.72,Excellent,5/22/2021
+MB002455,Male,Yes,Adult,Graduate,No,1337.4,1543.6,741,1,Kowloon,India,0.67,0.72,Excellent,6/29/2021
+MB002459,Male,Yes,Elderly,Graduate,No,2254.4,1720.4,491,1,Hong Kong Island,China,0.68,0.72,Excellent,10/24/2021
+MB002467,Male,Yes,Adult,Graduate,No,1568.8,1483.2,317,1,Hong Kong Island,Taiwan,0.68,0.72,Excellent,5/23/2022
+MB002472,Male,No,Adult,Graduate,No,2093.1,1741.6,305,1,New Territories,Malaysia,0.68,0.72,Excellent,2/7/2022
+MB002473,Male,Yes,Elderly,Graduate,No,4242,3333.6,558,1,Kowloon,Singapore,0.68,0.72,Excellent,4/24/2022
+MB002478,Male,Yes,Adult,Graduate,Yes,1076.8,833.2,289,1,Kowloon,Thailand,0.68,0.72,Excellent,4/21/2022
+MB002484,Male,Yes,Elderly,Graduate,No,1921.7,3096,287,1,Hong Kong Island,Korea,0.68,0.72,Excellent,12/26/2021
+MB002487,Male,Yes,Adult,Graduate,No,986.5,1206,835,1,New Territories,Japan,0.68,0.72,Excellent,4/1/2022
+MB001708,Female,No,Youth,Secondary,No,7904.2,4000,272,1,Kowloon,Malaysia,0.6,0.64,Good,7/31/2022
+MB002493,Male,No,Children,Primary,No,1223.7,1666.4,709,0,Kowloon,China,0.68,0.72,Excellent,7/5/2021
+MB002494,Male,No,Youth,Tertiary,No,1795.7,2400,365,1,New Territories,Taiwan,0.68,0.72,Excellent,2/27/2022
+MB002500,Male,Yes,Elderly,Not Graduate,No,1266.7,1178.8,546,0,Hong Kong Island,Malaysia,0.68,0.72,Excellent,4/14/2021
+MB002501,Male,Yes,Adult,Graduate,No,8297.8,6676.8,305,1,Kowloon,Singapore,0.68,0.72,Excellent,9/12/2021
+MB002393,Female,No,Youth,Tertiary,No,3709.3,4018.8,246,1,Kowloon,Singapore,0.67,0.71,Excellent,2/13/2021
+MB002505,Male,Yes,Adult,Graduate,No,1803.8,1733.2,292,1,Hong Kong Island,Korea,0.68,0.72,Excellent,9/1/2021
+MB002515,Male,Yes,Elderly,Graduate,Yes,1494.7,1380,858,1,Kowloon,Japan,0.68,0.72,Excellent,5/4/2022
+MB002517,Male,Yes,Adult,Not Graduate,No,1201.9,1061.2,256,0,New Territories,India,0.68,0.72,Excellent,9/30/2021
+MB002519,Male,Yes,Elderly,Graduate,No,875.6,1876.4,868,1,Kowloon,China,0.68,0.72,Excellent,7/27/2008
+MB001422,Female,No,Children,Primary,No,5240.8,4163.2,279,1,Hong Kong Island,India,0.55,0.61,Good,8/25/2022
+MB002524,Male,No,Elderly,Graduate,No,1190.8,2212.8,409,1,New Territories,Malaysia,0.68,0.72,Excellent,5/6/2022
+MB002527,Male,Yes,Adult,Graduate,Yes,5834.4,6610,626,1,New Territories,Singapore,0.68,0.72,Excellent,3/22/2022
+MB002529,Male,Yes,Elderly,Graduate,No,1560.3,2680,457,1,Kowloon,Thailand,0.68,0.72,Excellent,8/8/2022
+MB002530,Male,Yes,Adult,Graduate,No,1544.8,1149.2,307,0,Kowloon,Korea,0.68,0.73,Excellent,1/14/2022
+MB002531,Male,Yes,Elderly,Graduate,Yes,8443.3,6666.8,662,1,Kowloon,Japan,0.68,0.73,Excellent,5/25/2021
+MB002533,Male,Yes,Adult,Graduate,No,1173.2,1178.8,541,1,Hong Kong Island,India,0.68,0.73,Excellent,2/10/2021
+MB001451,Female,Yes,Elderly,Graduate,Yes,4417.3,4205.2,220,0,Hong Kong Island,China,0.56,0.61,Good,5/1/2022
+MB002536,Male,Yes,Elderly,Not Graduate,No,989.3,1238,896,1,New Territories,Taiwan,0.68,0.73,Excellent,10/3/2021
+MB002537,Male,Yes,Adult,Graduate,No,394.2,833.2,750,1,Kowloon,Malaysia,0.68,0.73,Excellent,12/16/2021
+MB002541,Male,Yes,Elderly,Graduate,No,3171.9,4333.2,805,1,Kowloon,Singapore,0.68,0.73,Excellent,8/9/2022
+MB002543,Male,Yes,Adult,Graduate,No,4249.5,3333.2,543,1,Kowloon,Thailand,0.68,0.73,Excellent,8/16/2022
+MB002544,Male,Yes,Elderly,Not Graduate,No,720.2,783.2,407,1,New Territories,Korea,0.68,0.73,Excellent,1/8/2022
+MB002545,Male,No,Youth,Tertiary,No,666.7,1418.8,984,0,New Territories,Japan,0.68,0.73,Excellent,5/8/2021
+MB002547,Male,Yes,Adult,Graduate,No,8767.7,7333.2,858,1,Hong Kong Island,India,0.68,0.73,Excellent,10/3/2022
+MB002555,Male,Yes,Elderly,Graduate,Yes,921.6,1833.2,902,1,Kowloon,China,0.69,0.73,Excellent,4/27/2022
+MB002556,Male,No,Adult,Graduate,No,1120.7,974,724,1,Hong Kong Island,Taiwan,0.69,0.73,Excellent,5/1/2021
+MB002560,Male,No,Elderly,Not Graduate,No,1432.7,1079.6,281,1,Kowloon,Malaysia,0.69,0.73,Excellent,6/27/2021
+MB002562,Male,Yes,Adult,Not Graduate,No,2504.1,2133.2,465,1,Hong Kong Island,Singapore,0.69,0.73,Excellent,6/23/2022
+MB002571,Male,No,Children,Primary,No,1351.3,1476.4,999,1,New Territories,Thailand,0.69,0.73,Excellent,8/31/2021
+MB001233,Female,Yes,Adult,Graduate,No,8570.9,4300,439,1,Hong Kong Island,Singapore,0.5,0.59,Satisfactory,9/13/2022
+MB002585,Male,Yes,Elderly,Graduate,No,1153.9,1438.8,303,0,New Territories,Japan,0.69,0.73,Excellent,10/27/2021
+MB001673,Female,No,Adult,Graduate,Yes,7281.4,4400,601,1,Hong Kong Island,India,0.59,0.64,Good,5/19/2021
+MB002587,Male,Yes,Elderly,Not Graduate,No,723.1,1040,372,1,New Territories,China,0.69,0.73,Excellent,8/19/2021
+MB002588,Male,Yes,Adult,Graduate,No,1788.4,1850,346,1,Hong Kong Island,Taiwan,0.69,0.73,Excellent,9/17/2021
+MB002600,Male,Yes,Elderly,Graduate,Yes,1091.2,1158,701,1,Kowloon,Malaysia,0.69,0.73,Excellent,6/15/2021
+MB002602,Male,No,Adult,Graduate,No,2431.7,2513.2,768,0,New Territories,Singapore,0.69,0.74,Excellent,7/27/2022
+MB001891,Female,Yes,Elderly,Graduate,No,3298.7,4458.4,224,1,Hong Kong Island,India,0.62,0.66,Good,2/10/2022
+MB001369,Female,Yes,Adult,Graduate,No,6917.4,4566.8,806,1,Hong Kong Island,Malaysia,0.54,0.6,Satisfactory,8/6/2022
+MB002615,Male,Yes,Adult,Graduate,No,1709.5,1946,611,1,Kowloon,Japan,0.69,0.74,Excellent,7/26/2022
+MB002618,Male,Yes,Elderly,Not Graduate,No,1980.2,1620,792,1,New Territories,India,0.69,0.74,Excellent,2/17/2022
+MB002619,Male,Yes,Adult,Not Graduate,No,916,1525.6,428,1,Kowloon,China,0.69,0.74,Excellent,11/29/2021
+MB002622,Male,Yes,Elderly,Graduate,No,1598.4,1404,596,1,New Territories,Taiwan,0.69,0.74,Excellent,8/14/2022
+MB002624,Male,Yes,Adult,Graduate,No,3561.9,8333.2,477,1,Hong Kong Island,Malaysia,0.69,0.74,Excellent,9/29/2022
+MB002625,Male,No,Youth,Tertiary,No,1530.9,1433.2,786,1,Hong Kong Island,Singapore,0.69,0.74,Excellent,6/24/2021
+MB002626,Male,Yes,Elderly,Graduate,Yes,918.8,991.6,320,1,Hong Kong Island,Thailand,0.69,0.74,Excellent,7/6/2022
+MB001508,Female,Yes,Adult,Graduate,No,5134.2,4702.8,524,1,Hong Kong Island,China,0.57,0.62,Good,7/5/2022
+MB002637,Male,No,Elderly,Not Graduate,No,1033.9,1439.2,542,1,New Territories,Japan,0.69,0.74,Excellent,7/21/2021
+MB002640,Male,Yes,Adult,Graduate,No,1132.6,2426,324,1,Kowloon,India,0.69,0.74,Excellent,8/17/2022
+MB002643,Male,Yes,Elderly,Graduate,No,580.7,1313.2,537,1,Hong Kong Island,China,0.69,0.74,Excellent,3/14/2022
+MB002648,Male,Yes,Adult,Graduate,No,376,852,597,1,Kowloon,Taiwan,0.69,0.74,Excellent,4/13/2021
+MB002652,Male,No,Children,Primary,No,3151.8,2326,375,1,New Territories,Malaysia,0.69,0.74,Excellent,9/12/2022
+MB002659,Male,Yes,Elderly,Graduate,No,1067.1,1386.4,935,1,New Territories,Singapore,0.69,0.74,Excellent,3/18/2022
+MB001656,Female,No,Youth,Secondary,No,5409.8,4800,860,1,Kowloon,India,0.59,0.63,Good,5/7/2022
+MB002682,Male,Yes,Elderly,Not Graduate,No,873.4,1229.6,935,0,Kowloon,Korea,0.69,0.74,Excellent,11/24/2021
+MB002683,Male,No,Youth,Tertiary,No,821.9,1873.2,582,1,Kowloon,Japan,0.7,0.74,Excellent,6/17/2022
+MB002959,Female,Yes,Adult,Graduate,No,6700.2,4800,943,1,Kowloon,Thailand,0.73,0.81,Excellent,10/2/2022
+MB002689,Male,Yes,Adult,Not Graduate,No,531.9,876.8,601,1,Kowloon,China,0.7,0.75,Excellent,3/11/2021
+MB002690,Male,No,Elderly,Graduate,No,670.8,1000,939,1,Kowloon,Taiwan,0.7,0.75,Excellent,3/22/2021
+MB002692,Male,Yes,Elderly,Graduate,Yes,2315.5,2270.8,841,1,New Territories,Malaysia,0.7,0.75,Excellent,7/23/2021
+MB002693,Male,Yes,Adult,Graduate,Yes,1839.1,3179.2,899,1,New Territories,Singapore,0.7,0.75,Excellent,9/27/2022
+MB002697,Male,No,Children,Primary,No,1161.4,1872,669,1,Kowloon,Thailand,0.7,0.75,Excellent,2/15/2021
+MB002699,Male,Yes,Elderly,Graduate,Yes,8345.9,7000,234,1,New Territories,Korea,0.7,0.75,Excellent,9/24/2022
+MB002705,Male,Yes,Adult,Graduate,No,1197.4,1510,781,1,Kowloon,Japan,0.7,0.75,Excellent,9/2/2021
+MB002706,Male,Yes,Elderly,Not Graduate,No,1128.4,2114,774,0,Kowloon,India,0.7,0.75,Excellent,5/3/2022
+MB002714,Male,No,Youth,Tertiary,No,1193.3,1071.6,541,1,Kowloon,China,0.7,0.75,Excellent,6/12/2021
+MB002716,Male,No,Adult,Not Graduate,No,1344.5,2713.2,348,1,Kowloon,Taiwan,0.7,0.75,Excellent,1/1/2022
+MB002717,Male,Yes,Adult,Graduate,No,323.2,410,291,1,New Territories,Malaysia,0.7,0.75,Excellent,8/1/2022
+MB002720,Male,Yes,Elderly,Graduate,No,939.5,1712.4,756,1,Hong Kong Island,Singapore,0.7,0.75,Excellent,7/15/2021
+MB002723,Male,No,Elderly,Graduate,No,1412.2,1435.2,513,0,New Territories,Thailand,0.7,0.75,Excellent,9/5/2021
+MB002729,Male,No,Children,Primary,No,2922.8,4500,530,1,Kowloon,Korea,0.7,0.75,Excellent,7/15/2022
+MB002634,Female,No,Adult,Graduate,No,3869.4,5304.8,365,1,Hong Kong Island,Korea,0.69,0.74,Excellent,3/6/2021
+MB002732,Male,No,Adult,Not Graduate,No,1125.5,1020,304,1,New Territories,India,0.7,0.75,Excellent,12/9/2021
+MB002734,Male,Yes,Adult,Graduate,No,2657.6,2453.2,614,1,Hong Kong Island,China,0.7,0.75,Excellent,9/16/2022
+MB002738,Male,No,Elderly,Graduate,No,1138.2,1446.8,820,1,Kowloon,Taiwan,0.7,0.76,Excellent,8/18/2021
+MB002739,Male,Yes,Elderly,Not Graduate,No,1220.4,1166.8,485,1,New Territories,Malaysia,0.7,0.76,Excellent,4/8/2021
+MB002740,Male,Yes,Adult,Graduate,No,2830.9,2566.8,931,1,New Territories,Singapore,0.7,0.76,Excellent,4/12/2022
+MB001350,Female,Yes,Adult,Graduate,No,6887.1,5460,817,1,Hong Kong Island,Japan,0.54,0.6,Good,2/22/2021
+MB001640,Female,Yes,Elderly,Graduate,Yes,8982.3,5658.8,219,1,Kowloon,Taiwan,0.59,0.63,Good,11/16/2021
+MB001401,Female,Yes,Elderly,Graduate,No,10811.2,5833.2,912,1,New Territories,Singapore,0.55,0.61,Good,6/21/2022
+MB002755,Male,Yes,Adult,Not Graduate,No,1197.9,895.6,629,1,Hong Kong Island,India,0.7,0.76,Excellent,12/18/2021
+MB001907,Female,Yes,Elderly,Graduate,No,4174.1,5833.2,810,1,Kowloon,Japan,0.62,0.66,Good,9/26/2022
+MB002767,Male,Yes,Adult,Graduate,No,1165,1107.2,537,1,New Territories,Taiwan,0.7,0.76,Excellent,4/4/2022
+MB002768,Male,No,Adult,Not Graduate,No,1496.1,1343.2,321,1,Kowloon,Malaysia,0.71,0.76,Excellent,5/9/2021
+MB002772,Male,No,Elderly,Graduate,No,933,1010.4,663,1,New Territories,Singapore,0.71,0.76,Excellent,3/11/2022
+MB001859,Female,Yes,Adult,Graduate,No,6675.7,5873.2,726,1,New Territories,Malaysia,0.62,0.65,Good,9/10/2022
+MB002777,Male,Yes,Elderly,Graduate,No,1127.2,1114,243,1,New Territories,Korea,0.71,0.76,Excellent,8/28/2021
+MB002778,Male,Yes,Adult,Graduate,Yes,1975.9,2653.2,664,0,New Territories,Japan,0.71,0.76,Excellent,2/18/2021
+MB002784,Male,Yes,Elderly,Not Graduate,No,1203.2,996.8,822,1,New Territories,India,0.71,0.76,Excellent,2/7/2021
+MB002785,Male,Yes,Adult,Graduate,No,553.5,1333.2,521,1,Hong Kong Island,China,0.71,0.76,Excellent,4/15/2022
+MB002788,Male,Yes,Adult,Not Graduate,No,1249.4,981.6,373,0,Hong Kong Island,Taiwan,0.71,0.77,Excellent,6/10/2022
+MB002789,Male,Yes,Adult,Graduate,No,1027.2,1437.2,893,0,New Territories,Malaysia,0.71,0.77,Excellent,1/12/2022
+MB002792,Male,Yes,Elderly,Graduate,No,947.5,2187.2,914,1,Kowloon,Singapore,0.71,0.77,Excellent,2/28/2021
+MB001516,Female,Yes,Adult,Graduate,No,9802.8,5946.4,450,1,Hong Kong Island,Malaysia,0.57,0.62,Good,4/20/2021
+MB002795,Male,Yes,Adult,Graduate,Yes,4497.3,4055.6,936,1,Kowloon,Korea,0.71,0.77,Excellent,8/27/2022
+MB002798,Male,Yes,Elderly,Graduate,No,2023.3,1554.8,726,1,Kowloon,Japan,0.71,0.77,Excellent,5/5/2022
+MB001492,Female,No,Youth,Secondary,No,6459.2,5999.6,405,0,Kowloon,Malaysia,0.56,0.61,Good,8/13/2022
+MB002807,Male,Yes,Elderly,Not Graduate,No,1236.3,1470,866,1,Kowloon,China,0.71,0.77,Excellent,8/21/2021
+MB001536,Female,Yes,Elderly,Graduate,No,6052.7,5999.6,611,0,Kowloon,Singapore,0.57,0.62,Good,10/5/2022
+MB002820,Male,Yes,Elderly,Graduate,No,1301.5,2369.2,748,1,New Territories,Malaysia,0.71,0.77,Excellent,7/30/2022
+MB002821,Male,No,Adult,Not Graduate,Yes,2223.7,2320,938,1,Kowloon,Singapore,0.71,0.77,Excellent,1/16/2022
+MB002832,Male,Yes,Adult,Graduate,No,2906,3519.6,844,0,Hong Kong Island,Thailand,0.71,0.77,Excellent,8/22/2022
+MB002833,Male,Yes,Elderly,Not Graduate,No,828.1,1786.8,768,1,New Territories,Korea,0.71,0.77,Excellent,11/5/2021
+MB002836,Male,No,Elderly,Graduate,No,1493.2,1333.2,745,1,Hong Kong Island,Japan,0.71,0.77,Excellent,4/18/2021
+MB002837,Male,Yes,Adult,Graduate,No,1328.3,1360,923,0,New Territories,India,0.71,0.78,Excellent,11/23/2021
+MB002194,Female,No,Adult,Graduate,Yes,5257.2,6303.6,565,1,Kowloon,Malaysia,0.65,0.69,Excellent,3/24/2021
+MB002841,Male,Yes,Elderly,Graduate,No,555.7,1266.4,698,0,Hong Kong Island,Taiwan,0.71,0.78,Excellent,8/6/2021
+MB002842,Male,Yes,Adult,Graduate,No,1600.6,1366.8,275,1,Hong Kong Island,Malaysia,0.71,0.78,Excellent,6/22/2022
+MB002847,Male,Yes,Elderly,Graduate,No,2133.8,2046.4,770,0,Hong Kong Island,Singapore,0.71,0.78,Excellent,5/10/2022
+MB002855,Male,Yes,Adult,Graduate,No,5158.3,6666.4,329,1,Hong Kong Island,Thailand,0.72,0.78,Excellent,8/31/2022
+MB002862,Male,Yes,Elderly,Not Graduate,No,2819.5,2450,460,1,Kowloon,Korea,0.72,0.78,Excellent,6/29/2022
+MB002863,Male,Yes,Adult,Graduate,No,1581,2562.4,297,1,Kowloon,Japan,0.72,0.78,Excellent,3/20/2022
+MB002868,Male,Yes,Elderly,Graduate,No,1421.5,1263.6,541,1,Hong Kong Island,India,0.72,0.78,Excellent,8/20/2021
+MB002872,Male,Yes,Adult,Graduate,No,1566.9,1234.8,847,0,Kowloon,China,0.72,0.78,Excellent,2/4/2022
+MB002874,Male,No,Youth,Tertiary,No,1711.3,1291.6,959,1,Hong Kong Island,Taiwan,0.72,0.78,Excellent,8/30/2021
+MB002877,Male,Yes,Elderly,Graduate,No,964,712.8,964,1,New Territories,Malaysia,0.72,0.78,Excellent,8/17/2021
+MB002888,Male,No,Adult,Graduate,Yes,1735.3,1272.8,982,1,Hong Kong Island,Singapore,0.72,0.79,Excellent,5/2/2022
+MB002892,Male,Yes,Adult,Graduate,No,1170.9,2616,620,1,Kowloon,Thailand,0.72,0.79,Excellent,7/24/2022
+MB002893,Male,No,Elderly,Graduate,No,427.4,734.4,630,1,Hong Kong Island,Korea,0.72,0.79,Excellent,6/4/2021
+MB001844,Female,No,Children,Primary,Yes,2885.4,6500,261,0,Hong Kong Island,Japan,0.61,0.65,Good,7/12/2022
+MB002898,Male,Yes,Adult,Graduate,No,543.2,752,973,1,New Territories,India,0.72,0.79,Excellent,4/2/2021
+MB002911,Male,Yes,Elderly,Graduate,No,1207.9,1114.8,795,0,New Territories,China,0.72,0.79,Excellent,3/12/2022
+MB002912,Male,Yes,Adult,Graduate,No,1840.1,1713.2,446,1,New Territories,Taiwan,0.72,0.79,Excellent,5/21/2022
+MB002916,Male,Yes,Elderly,Graduate,No,741.6,918.8,227,1,Hong Kong Island,Malaysia,0.72,0.79,Excellent,8/5/2021
+MB002582,Female,No,Youth,Tertiary,Yes,4137.9,6905.2,498,1,Kowloon,Korea,0.69,0.73,Excellent,8/5/2022
+MB002925,Male,No,Youth,Tertiary,No,1091.9,1900,653,1,Kowloon,Thailand,0.72,0.79,Excellent,6/13/2021
+MB002926,Male,Yes,Adult,Graduate,Yes,1439.5,1090.4,726,0,Kowloon,Korea,0.72,0.8,Excellent,8/15/2021
+MB002928,Male,Yes,Elderly,Graduate,No,908.4,1200,384,1,Kowloon,Japan,0.72,0.8,Excellent,3/26/2021
+MB002931,Male,Yes,Adult,Graduate,Yes,3148.2,2400,496,1,Kowloon,India,0.72,0.8,Excellent,7/23/2022
+MB002933,Male,No,Adult,Graduate,Yes,2261.1,3742.8,297,1,Kowloon,China,0.72,0.8,Excellent,9/7/2022
+MB002936,Male,Yes,Elderly,Graduate,No,2022.6,1543.6,940,1,New Territories,Taiwan,0.72,0.8,Excellent,3/2/2022
+MB002938,Male,Yes,Adult,Graduate,Yes,7243.4,6448,434,1,Hong Kong Island,Malaysia,0.72,0.8,Excellent,8/26/2022
+MB002940,Male,No,Elderly,Not Graduate,No,1881.6,1533.2,384,1,New Territories,Singapore,0.72,0.8,Excellent,9/3/2021
+MB002941,Male,Yes,Elderly,Not Graduate,Yes,1072,2553.2,760,1,New Territories,Thailand,0.73,0.8,Excellent,6/28/2022
+MB002943,Male,No,Children,Primary,No,860.2,1194.8,864,0,Kowloon,Korea,0.73,0.81,Excellent,5/29/2021
+MB002945,Male,Yes,Adult,Graduate,Yes,3602.3,3985.2,701,1,New Territories,Japan,0.73,0.81,Excellent,6/9/2022
+MB002948,Male,Yes,Elderly,Graduate,No,3233.5,2312,638,1,Hong Kong Island,India,0.73,0.81,Excellent,7/11/2022
+MB002731,Female,No,Youth,Tertiary,Yes,3658.9,7266,768,1,Hong Kong Island,Japan,0.7,0.75,Excellent,12/7/2021
+MB002950,Male,Yes,Adult,Not Graduate,Yes,756,1157.6,652,1,New Territories,Taiwan,0.73,0.81,Excellent,4/5/2022
+MB002953,Male,Yes,Elderly,Graduate,No,2860.6,2281.2,324,1,Hong Kong Island,Malaysia,0.73,0.81,Excellent,12/19/2021
+MB002958,Male,No,Adult,Graduate,No,1603.2,1470.4,854,1,New Territories,Singapore,0.73,0.81,Excellent,5/20/2022
+MB002813,Female,Yes,Adult,Graduate,Yes,6495.5,7793.6,695,1,Kowloon,Taiwan,0.71,0.77,Excellent,10/6/2022
+MB002960,Male,Yes,Elderly,Not Graduate,No,855.1,960,371,1,Hong Kong Island,Korea,0.73,0.82,Excellent,2/9/2021
+MB002961,Male,Yes,Adult,Graduate,No,606.7,1360,677,1,Kowloon,Japan,0.73,0.82,Excellent,5/24/2022
+MB002964,Male,Yes,Elderly,Not Graduate,No,710.2,1594.8,505,1,New Territories,India,0.73,0.82,Excellent,4/11/2022
+MB002974,Male,Yes,Adult,Graduate,No,626.3,1292.8,410,1,New Territories,China,0.73,0.82,Excellent,8/22/2021
+MB001469,Female,No,Youth,Secondary,Yes,13447.8,8066.4,334,1,Hong Kong Island,Malaysia,0.56,0.61,Good,10/7/2022
+MB002979,Male,Yes,Elderly,Graduate,No,1219,1642.4,956,1,New Territories,Malaysia,0.73,0.82,Excellent,3/5/2021
+MB002983,Male,Yes,Adult,Graduate,No,3967.8,3228.8,670,1,Hong Kong Island,Singapore,0.73,0.82,Excellent,8/18/2022
+MB002984,Male,Yes,Elderly,Graduate,No,1469.2,3033.2,932,1,Hong Kong Island,Thailand,0.73,0.82,Excellent,6/26/2022
+MB001996,Female,No,Youth,Secondary,No,5408.8,8093.2,350,1,New Territories,Thailand,0.63,0.67,Good,9/28/2022
+MB001922,Female,Yes,Elderly,Graduate,No,6265.9,8266.8,761,1,New Territories,Thailand,0.62,0.66,Good,2/23/2021
+MB001448,Female,Yes,Adult,Graduate,No,11481.4,9521.2,670,1,New Territories,Japan,0.56,0.61,Good,9/21/2022

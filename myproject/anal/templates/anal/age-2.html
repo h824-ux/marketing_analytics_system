@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Analytics
+{% endblock %}
+
+{% block content %}
+    <div class="center-content">
+        <h1>Analytics Visualisation</h1>
+        <button onclick="history.back()" class="choose">Return</button>
+        
+        <h2>Customer Age</h2>
+        <p>Click image to download</p>
+        <a href="{% static 'age-2.png' %}" download="visual">
+            <img src="{% static 'age-2.png' %}" alt="Customer Age">
+        </a>
+
+        <h1>Follow-up Analytics</h1>
+        <a href="/anal/3-4">
+            <button class="choose" alt="bar">Purchase age group by month</button>
+        </a>
+        <a href="/anal/2-4">
+            <button class="choose" alt="donut">Price analytics by age group</button>
+        </a>
+        <a href="/anal/1-4">
+            <button class="choose" alt="stacked bar">Purchase category by age</button>
+        </a>
+    </div>
+{% endblock %}
