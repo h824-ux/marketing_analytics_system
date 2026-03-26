@@ -1,6 +1,16 @@
 # marketing_analytics_system
 Marketing Analytics System for Retail Companies in Hong Kong 
 
+Project Guide: This project develops a marketing platform hosted on Python Django with data analytics to improve the quality of marketing on retail companies in Hong Kong, focusing on hypermarkets, improving businesses’ developments and making it easier to create their own marketing plans. 
+
+Tech Stack: Python, Django, pandas, MySQL.
+
+Feature List: Data analysis, dashboard, user login, report export.
+
+Installation Steps: See "Installation and User Guide.docx"
+
+Demo Screenshots: Dashboard, data tables.
+
 Abstract 
 
 Companies may have lack of ideas for marketing strategy and high competitions of similar business from find their target audience. This project would develop a marketing platform hosted on Python Django with data analytics to improve the quality of marketing on retail companies in Hong Kong, focusing on hypermarkets, improving businesses’ developments and easier to create their own marketing plans. 
